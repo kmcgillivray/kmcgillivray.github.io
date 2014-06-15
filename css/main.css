@@ -21,6 +21,39 @@ body {
 	margin-right: auto;
 	font-size: 1rem;
 	line-height: 1.5;
+	font-family: Georgia, serif;
+}
+img {
+	width: 100%;
+	height: auto;
+}
+
+/*
+ * The Grid
+ */
+
+.col, .col-2, .col-3 {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+@media (min-width: 768px) {
+	.col {
+		width: 50%;
+		float: left;
+	}
+}
+@media (min-width: 960px) {
+	.col {
+		width: 33.3333333%;
+		float: left;
+	}
+	.col-2 {
+		width: 66.6666666%;
+		float: left;
+	}
+}
+.col-3 {
+	width: 100%;
 }
 
 /*
@@ -29,6 +62,9 @@ body {
 
 a {
 	text-decoration: none;
+}
+hr {
+	border: 1px solid #E7E7E7;
 }
 
 /*
@@ -45,14 +81,9 @@ a {
  */
 
 .project {
-	padding-left: 15px;
-	padding-right: 15px;
 	margin-top: 15px;
 	margin-bottom: 15px;
 }
-@media (min-width: 768px) {
-	.project {
-		width: 50%;
-		float: left;
-	}
+.project img {
+	border-radius: 4px;
 }
