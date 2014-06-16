@@ -9,12 +9,27 @@
 	</head>
 	<body>
 		
-		<header class="header col-3">
+		<header class="header col">
 			<a class="header-title" href="/">Kevin McGillivray</a>
+			<p>{{ site.description }}</p>
 			<hr>
+			<ul>
+				<li>
+					<a href="#">Projects</a>
+				</li>
+				<li>
+					<a href="#">@kev_mcg</a>
+				</li>
+				<li>
+					<a href="/about">More</a>
+				</li>
 		</header>
 		
+		<div class="col-2">
+		
 		{{ content }}
+		
+		</div>
 	
 	<script src="js/holder.js"></script>
 	</body>
