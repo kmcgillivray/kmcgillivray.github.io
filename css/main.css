@@ -32,9 +32,17 @@ img {
  * The Grid
  */
 
-.col, .col-2, .col-3 {
+.col, .col-2, .col-3, .sidebar, .main {
 	padding-left: 15px;
 	padding-right: 15px;
+}
+.sidebar {
+	width: 27.6373%;
+	float: left;
+}
+.main {
+	width: 72.3627%;
+	float: left;
 }
 @media (min-width: 768px) {
 	.col {
@@ -44,11 +52,11 @@ img {
 }
 @media (min-width: 960px) {
 	.col {
-		width: 33.3333333%;
+		width: 38.1971%;
 		float: left;
 	}
 	.col-2 {
-		width: 66.6666666%;
+		width: 61.8029%;
 		float: left;
 	}
 }
