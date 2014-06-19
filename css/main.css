@@ -12,18 +12,24 @@ html {
 }
 @media (min-width:768px) {
 	html {
-		font-size: 20px;
+		font-size: 18px;
 	}
 }
 body {
-	padding: 30px;
 	font-size: 1rem;
 	line-height: 1.5;
 	font-family: Georgia, serif;
+	color: #7E7E7E;
+}
+@media (min-width: 768px) {
+	body {
+		padding: 40px;
+	}
 }
 img {
 	width: 100%;
 	height: auto;
+	border-radius: 3px;
 }
 
 /*
@@ -41,6 +47,7 @@ img {
 	}
 	.main {
 		width: 72.3627%;
+		margin-left: 28.75%;
 		float: left;
 	}
 	.col {
@@ -57,29 +64,50 @@ img {
  * Typography
  */
 
+p {
+	margin-top: 0;
+	margin-bottom: 20px;
+}
 a {
+	font-weight: bold;
 	text-decoration: none;
+	color: #766F6B;
+}
+a:hover {
+	color: #244040;
 }
 hr {
 	border: 1px solid #E7E7E7;
 }
 
 /*
- * Header
+ * Sidebar
  */
 
-.header .header-title img {
-	max-width: 60px;
+@media (min-width: 768px) {
+	.sidebar {
+		position: fixed;
+	}
 }
-
+.sidebar .nav {
+	list-style: none;
+	padding-left: 0;
+}
+.sidebar .nav li {
+	margin-bottom: 5px;
+}
+.sidebar-title {
+	font-size: 1.4rem;
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
 
 /*
  * Projects
  */
 
 .project {
-	margin-top: 15px;
-	margin-bottom: 15px;
+	margin-bottom: 30px;
 }
 .project img {
 	border-radius: 4px;
