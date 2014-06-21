@@ -20,10 +20,10 @@ body {
 	line-height: 1.5;
 	font-family: Georgia, serif;
 	color: #7E7E7E;
+	background-color: #E7E7E7;
 }
 @media (min-width: 768px) {
 	body {
-		padding: 40px;
 	}
 }
 img {
@@ -36,31 +36,44 @@ img {
  * The Grid
  */
 
-.sidebar, .main, .col, .col-2 {
-	padding-left: 10px;
-	padding-right: 10px;
+.sidebar {
+	padding: 20px;
 }
 @media (min-width: 768px) {
 	.sidebar {
 		width: 27.6373%;
 		float: left;
+		background-color: white;
+		height: 100%;
 	}
 	.main {
 		width: 72.3627%;
-		margin-left: 28.75%;
+		margin-left: 27.6373%;
 		float: left;
+		padding-bottom: 20px;
 	}
-	.project:nth-child(n) {
+	.project:nth-child(5n+1),
+	.project:nth-child(5n) {
 		width: 38.1971%;
 		float: left;
+		padding-left: 20px;
+		padding-right: 20px;
 	}
-	.project:nth-child(2n) {
+	.project:nth-child(5n-3) {
 		width: 61.8029%;
 		float: left;
+		padding-right: 20px;
 	}
-	.project:nth-child(3n) {
+	.project:nth-child(5n-1) {
+		width: 61.8029%;
+		float: left;
+		padding-left: 20px;
+	}
+	.project:nth-child(5n-2) {
 		width: 100%;
 		float: left;
+		padding-right: 20px;
+		padding-left: 20px;
 	}
 }
 
@@ -111,7 +124,8 @@ hr {
  */
 
 .project {
-	margin-bottom: 10px;
+	font-size: 0px;
+	padding-top: 20px;
 }
 .project img {
 	border-radius: 4px;
