@@ -5,8 +5,11 @@ layout: default
 {% for post in site.posts %}
 	<div class="project {% if post.category == 'featured' %}col-2{% else %}col{% endif %}">
 		<a href="{{ post.url }}">
-			<img src="holder.js/100%x300">
-		  <!--<img src="/img/{{ post.image }}">-->
+			{% if post.image %}
+		  	<img src="/img/{{ post.image }}">
+			{% else %}
+				<img src="holder.js/100%x348">
+			{% endif %}
 		</a>
 	</div>
 {% endfor %}

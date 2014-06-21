@@ -1,38 +1,10 @@
-<!DOCTYPE html>
-<html lang="en-us">
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width">
-		<title>{{ site.title }}</title>
-		
-		<link rel="stylesheet" href="/css/normalize.css">
-		<link rel="stylesheet" href="/css/main.css">
-	</head>
-	<body>
-		
-		<header class="sidebar">
-			<h1 class="sidebar-title"><a href="/">Kevin McGillivray</a></h1>
-			<p>{{ site.description }}</p>
-			<hr>
-			<ul class="nav">
-				<li>
-					<a href="/">Projects</a>
-				</li>
-				<li>
-					<a href="#">@kev_mcg</a>
-				</li>
-				<li>
-					<a href="/about">More</a>
-				</li>
-			</ul>
-		</header>
+{% include header.html %}
+		{% include sidebar.html %}
 		
 		<div class="main">
 		
 		{{ content }}
 		
 		</div>
-	
-	<script src="js/holder.js"></script>
-	</body>
-</html>
+		
+{% include footer.html %}

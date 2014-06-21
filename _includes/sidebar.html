@@ -1,0 +1,12 @@
+		<header class="sidebar">
+			<h1 class="sidebar-title"><a href="/">Kevin McGillivray</a></h1>
+			<p>{{ site.description }}</p>
+			<hr>
+			<h3>{{ page.title }}</h3>
+			{% if page.next.url %} 
+			  <p>Previous project: <a href="{{page.next.url}}">{{page.next.title}}</a></p>
+			{% endif %}
+			{% if page.previous.url %} 
+				<p>Next project: <a class="prev" href="{{page.previous.url}}"> {{page.previous.title}}</a></p>
+			{% endif %} 
+		</header>

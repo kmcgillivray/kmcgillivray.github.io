@@ -37,8 +37,8 @@ img {
  */
 
 .sidebar, .main, .col, .col-2 {
-	padding-left: 15px;
-	padding-right: 15px;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 @media (min-width: 768px) {
 	.sidebar {
@@ -50,12 +50,16 @@ img {
 		margin-left: 28.75%;
 		float: left;
 	}
-	.col {
+	.project:nth-child(n) {
 		width: 38.1971%;
 		float: left;
 	}
-	.col-2 {
+	.project:nth-child(2n) {
 		width: 61.8029%;
+		float: left;
+	}
+	.project:nth-child(3n) {
+		width: 100%;
 		float: left;
 	}
 }
@@ -107,7 +111,7 @@ hr {
  */
 
 .project {
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 }
 .project img {
 	border-radius: 4px;

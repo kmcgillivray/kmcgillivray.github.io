@@ -1,7 +1,7 @@
 ---
 layout: default
-image: bank-of-luxemburg-brochures-thumbnail.jpg
-category: featured
+title: CIVICTechnologies Website
+image: civictechnologies-thumbnail.jpg
 ---
 
 ![CIVICTechnologies Website](/img/civictechnologies-website.jpg)
