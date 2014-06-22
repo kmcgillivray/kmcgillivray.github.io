@@ -2,8 +2,21 @@
 			<h1 class="sidebar-title"><a href="/">Kevin McGillivray</a></h1>
 			<p>{{ site.description }}</p>
 			<hr>
+			<nav class="nav">
+				<ul>
+					<li>
+						<a href="/">Projects</a>
+					</li>
+					<li>
+						<a href="http://twitter.com/kev_mcg">@kev_mcg</a>
+					</li>
+					<li>
+						<a href="/about">More</a>
+					</li>
+				<ul>
+			</nav>
 			<h3>{{ page.title }}</h3>
-			{% if page.next.url %} 
+			{% if page.next.url %}
 			  <p>Previous project: <a href="{{page.next.url}}">{{page.next.title}}</a></p>
 			{% endif %}
 			{% if page.previous.url %} 

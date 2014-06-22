@@ -22,49 +22,30 @@ body {
 	color: #7E7E7E;
 	background-color: #E7E7E7;
 }
-@media (min-width: 768px) {
-	body {
-	}
-}
 img {
 	width: 100%;
 	height: auto;
 	border-radius: 3px;
+	margin-bottom: 20px;
 }
 
 /*
  * The Grid
  */
 
-.sidebar {
-	padding: 20px;
+.main {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
 }
-@media (min-width: 768px) {
-	.sidebar {
-		width: 27.6373%;
-		float: left;
-		background-color: white;
-		height: 100%;
-	}
-	.main {
-		width: 72.3627%;
-		margin-left: 27.6373%;
-		float: left;
-		padding-bottom: 20px;
-	}
+@media (min-width: 468px) {
 	.project:nth-child(5n+1),
 	.project:nth-child(5n) {
 		width: 38.1971%;
 		float: left;
-		padding-left: 20px;
-		padding-right: 20px;
 	}
 	.project:nth-child(5n-3) {
-		width: 61.8029%;
-		float: left;
-		padding-right: 20px;
-	}
-	.project:nth-child(5n-1) {
 		width: 61.8029%;
 		float: left;
 		padding-left: 20px;
@@ -72,8 +53,23 @@ img {
 	.project:nth-child(5n-2) {
 		width: 100%;
 		float: left;
+	}
+	.project:nth-child(5n-1) {
+		width: 61.8029%;
+		float: left;
 		padding-right: 20px;
-		padding-left: 20px;
+	}
+}
+@media (min-width: 768px) {
+	.sidebar {
+		width: 27.6373%;
+		float: left;
+		height: 100%;
+	}
+	.main {
+		width: 72.3627%;
+		margin-left: 27.6373%;
+		float: left;
 	}
 }
 
@@ -101,17 +97,24 @@ hr {
  * Sidebar
  */
 
+.sidebar {
+	padding: 20px;
+	background-color: white;
+	overflow: auto;
+}
 @media (min-width: 768px) {
 	.sidebar {
 		position: fixed;
 	}
 }
-.sidebar .nav {
+.sidebar .nav ul {
 	list-style: none;
 	padding-left: 0;
 }
-.sidebar .nav li {
+.sidebar .nav ul li {
+	margin-right: 20px;
 	margin-bottom: 5px;
+	display: inline-block;
 }
 .sidebar-title {
 	font-size: 1.4rem;
@@ -124,9 +127,6 @@ hr {
  */
 
 .project {
+	height: 100%;
 	font-size: 0px;
-	padding-top: 20px;
-}
-.project img {
-	border-radius: 4px;
 }

@@ -3,11 +3,13 @@ layout: default
 ---
 
 {% for post in site.posts %}
-		<a class="project" href="{{ post.url }}">
-			{% if post.image %}
-		  	<img src="/img/{{ post.image }}">
-			{% else %}
-				<img src="holder.js/100%x348">
-			{% endif %}
-		</a>
+		<div class="project">
+			<a href="{{ post.url }}">
+				{% if post.image %}
+			  	<img src="/img/{{ post.image }}">
+				{% else %}
+					<img src="holder.js/100%x348">
+				{% endif %}
+			</a>
+		</div>
 {% endfor %}
