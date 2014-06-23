@@ -20,7 +20,6 @@ body {
 	line-height: 1.5;
 	font-family: Georgia, serif;
 	color: #7E7E7E;
-	background-color: #E7E7E7;
 }
 img {
 	width: 100%;
@@ -28,16 +27,27 @@ img {
 	border-radius: 3px;
 	margin-bottom: 20px;
 }
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
 /*
  * The Grid
  */
 
+.sidebar {
+	padding: 20px;
+	background-color: white;
+}
 .main {
+  background-color: #E7E7E7;
 	padding-left: 20px;
 	padding-right: 20px;
 	padding-bottom: 20px;
 	padding-top: 20px;
+  height: 100%;
 }
 @media (min-width: 468px) {
 	.project:nth-child(5n+1),
@@ -60,15 +70,13 @@ img {
 		padding-right: 20px;
 	}
 }
-@media (min-width: 768px) {
+@media (min-width: 980px) {
 	.sidebar {
 		width: 27.6373%;
 		float: left;
-		height: 100%;
 	}
 	.main {
 		width: 72.3627%;
-		margin-left: 27.6373%;
 		float: left;
 	}
 }
@@ -96,17 +104,6 @@ hr {
 /*
  * Sidebar
  */
-
-.sidebar {
-	padding: 20px;
-	background-color: white;
-	overflow: auto;
-}
-@media (min-width: 768px) {
-	.sidebar {
-		position: fixed;
-	}
-}
 .sidebar .nav ul {
 	list-style: none;
 	padding-left: 0;

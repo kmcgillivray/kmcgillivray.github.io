@@ -1,7 +1,6 @@
 		<header class="sidebar">
 			<h1 class="sidebar-title"><a href="/">Kevin McGillivray</a></h1>
 			<p>{{ site.description }}</p>
-			<hr>
 			<nav class="nav">
 				<ul>
 					<li>
@@ -15,7 +14,9 @@
 					</li>
 				<ul>
 			</nav>
-			<h3>{{ page.title }}</h3>
+      <hr>
+			<h2>{{ page.title }}</h2>
+      <hr>
 			{% if page.next.url %}
 			  <p>Previous project: <a href="{{page.next.url}}">{{page.next.title}}</a></p>
 			{% endif %}
