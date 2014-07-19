@@ -2,27 +2,7 @@
 layout: default
 ---
 
-<h1>This is a Post Title</h1>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel neque luctus, interdum nisl vitae, vulputate eros. Nam molestie, nunc sed tincidunt accumsan, ligula felis interdum tellus, eget porta dolor ante ut justo. Integer convallis arcu et purus eleifend commodo ac a eros. Nam sagittis tellus et laoreet interdum. Mauris tempor commodo suscipit. Nunc ut quam id odio facilisis rhoncus. Etiam et rhoncus leo. Fusce pharetra elit eu odio euismod, sed ullamcorper tellus dignissim. Vivamus eu facilisis arcu.</p>
-
-<p>Sed venenatis sollicitudin imperdiet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris vel velit at eros convallis tristique. Etiam tristique mi nec libero ultricies pretium. Mauris condimentum purus eu massa interdum, at eleifend sapien egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus nec sapien tellus. Fusce feugiat erat quis justo sodales consequat. Phasellus nec iaculis risus. Ut ligula enim, bibendum sed gravida in, consectetur quis felis. Integer eu dapibus lectus.</p>
-
-<p>There's something beautiful about lorem ipsum. It's kind of annoying because it is so vague and uncertain. It represents a hypothetical possibility, which can be tiring and anxiety provoking. But it also is a symbol of trying something new. It's like a calm voice in every designer's ear: "Lorem ipsum dolor sit amet. Keep going, you never know what's ahead."</p>
-
-<p>Sed venenatis sollicitudin imperdiet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris vel velit at eros convallis tristique. Etiam tristique mi nec libero ultricies pretium. Mauris condimentum purus eu massa interdum, at eleifend sapien egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus nec sapien tellus. Fusce feugiat erat quis justo sodales consequat. Phasellus nec iaculis risus. Ut ligula enim, bibendum sed gravida in, consectetur quis felis. Integer eu dapibus lectus.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel neque luctus, interdum nisl vitae, vulputate eros. Nam molestie, nunc sed tincidunt accumsan, ligula felis interdum tellus, eget porta dolor ante ut justo. Integer convallis arcu et purus eleifend commodo ac a eros. Nam sagittis tellus et laoreet interdum. Mauris tempor commodo suscipit. Nunc ut quam id odio facilisis rhoncus. Etiam et rhoncus leo. Fusce pharetra elit eu odio euismod, sed ullamcorper tellus dignissim. Vivamus eu facilisis arcu.</p>
-
-<!--
-{% for post in site.posts %}
-		<div class="project">
-			<a href="{{ post.url }}">
-				{% if post.image %}
-			  	<img src="/img/{{ post.image }}">
-				{% else %}
-					<img src="holder.js/100%x348">
-				{% endif %}
-			</a>
-		</div>
-{% endfor %} -->
+{% for post in site.categories.writing %}
+<h1>{{ post.title }}</h1>
+{{ post.content }}
+{% endfor %}
