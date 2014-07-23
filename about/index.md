@@ -8,7 +8,7 @@ My name is Kevin McGillivray. I'm a designer from Wisconsin. I like iterative cr
 
 # About this site
 
-On this site, I post one piece of writing at a time. Once I post a new post, the old one is removed and is not archived in any way. I keep no copies of it. This is an experiment. It could be fun?
+On this site, I post one piece of writing at a time. Once I post a new post, the old one is removed and is not archived on the site. This is an experiment. It could be fun?
 
 Topics are likely to revolve around the creative process, design, art, music, web development, and other things that I'm interested in.
 

@@ -100,7 +100,7 @@ a {
 	color: #678399;
 }
 a:hover {
-	color: #766F6B;
+	color: #7E7E7E;
 }
 hr {
 	border-top: 4px solid #E7E7E7;
@@ -111,7 +111,7 @@ hr {
 }
 h1 {
   margin-top: 0px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   font-size: 1.4rem;
   font-weight: 500;
   color: #678399;
@@ -173,4 +173,7 @@ article {
   background-color: white;
   padding: 25px;
   border-radius: 3px;
+}
+.post-meta {
+	color: #7e7e7e;
 }
