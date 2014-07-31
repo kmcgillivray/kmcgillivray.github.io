@@ -1,0 +1,3 @@
+Recently I've been updating my resume in [Github](http://www.github.com/kmcgillivray/resume). Using Github as a writing tool is something that has come up once in a while in posts that I've read. In this case, I love watching the creative process be tracked through commits. They alternate... writing, editing, writing, more writings, editings. I can track the pendulum as it swings between generating raw material and refining that material. And it's beautiful.
+
+![image](image.jpg)
