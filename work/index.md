@@ -3,7 +3,7 @@ layout: default
 title: Work
 ---
 
-# Alphabugs
+## Alphabugs
 
 Illustrations of the entire alphabet as bugs.
 
@@ -11,13 +11,13 @@ Illustrations of the entire alphabet as bugs.
 ![B](/img/B.jpg)
 ![C](/img/C.jpg)
 
-# Tall Wild World
+## Tall Wild World
 
 Kids are obsessed with tallness. This illustrations are about the height of an average first grader.
 
 ![Tall Wild World](/img/tall-wild-world.jpg)
 
-# Pixel Zoo
+## Pixel Zoo
 
 The world inside of computers is mysterious and exciting. One day, I turned on my computer and saw these pixel animals running around, so I made a zoo for them. These illustrations help start a conversation with children about technology and how it can be used for creativity.
 
@@ -25,7 +25,7 @@ The world inside of computers is mysterious and exciting. One day, I turned on m
 ![Pixel Penguin](/img/pixel-penguin.jpg)
 ![Pixel Pig](/img/pixel-pig.jpg)
 
-# Paintings and Drawings
+## Paintings and Drawings
 
 ![Betta Fish](/img/cherry.jpg)  
 *Betta Fish*. Digital.

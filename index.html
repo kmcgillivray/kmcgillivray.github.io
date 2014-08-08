@@ -3,11 +3,9 @@ layout: default
 ---
 
 {% for post in site.categories.writing %}
-<article>
 	<h1>{{ post.title }}</h1>
 	<p class="post-meta">{{ post.date | date: "%-d %B %Y" }}</p>
 	{{ post.content }}
-</article>
 {% endfor %}
 
 <hr>

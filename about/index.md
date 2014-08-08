@@ -3,17 +3,22 @@ layout: default
 title: About
 ---
 
-# About 
+## About 
 
-My name is Kevin McGillivray. I'm a designer from Wisconsin. I like iterative creativity, simplicity, and tea. My favorite word is "studio."
+My name is Kevin McGillivray. I'm a designer from Wisconsin. I like iterative creativity, simplicity, books, chess and tea. My favorite word is "studio."
 
-# About this site
+## About this site
 
 On this site, I post one piece of writing at a time. Once I post a new post, the old one is removed and is not archived on the site. This is an experiment. It could be fun?
 
 Topics are likely to revolve around the creative process, design, art, music, web development, and other things that I'm interested in.
 
-# Subscribe
+## Links
+
+* [Resume](/resume)  
+* [Twitter](http://twitter.com/kev_mcg)
+
+## Subscribe
 
 To be notified when new posts are available, please subscribe using this form.
 
