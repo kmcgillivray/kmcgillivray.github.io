@@ -17,6 +17,7 @@ Topics are likely to revolve around the creative process, design, art, music, we
 
 * [Resume](/resume)  
 * [Twitter](http://twitter.com/kev_mcg)
+* [Library](/librarie)
 
 ## Subscribe
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Velazquez, Kildall
+title: 
 category: writing
 ---
 
