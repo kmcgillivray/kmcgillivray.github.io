@@ -35,6 +35,8 @@ Measured Impact
 * Introduced responsive design practices to web development process until 100% of new websites were responsive
 * Shared essential new design, photography and typography skills with coworkers to improve overall agency design quality, effectiveness and aesthetic.
 
+---
+
 St. Norbert College Writing Center  
 Writing Consultant/Graphic Designer  
 2011 – 2012
@@ -51,6 +53,8 @@ Measured Impact
 * Increased overall traffic and awareness through consistent and engaging visual identity and messaging
 * Created a positive environment for dozens of students to develop creative skills and receive feedback
 
+---
+
 Felix Sofia Music  
 Co-Founder, Composer  
 2010 – present
@@ -64,6 +68,8 @@ Responsibilities
 Measured Impact
 
 * Completed a forty track music library for The Young Turks, the largest online news show in the world
+
+---
 
 St. Norbert College  
 First Year Experience Mentor  

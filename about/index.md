@@ -23,4 +23,6 @@ Topics are likely to revolve around the creative process, design, art, music, we
 
 To be notified when new posts are available, please subscribe using this form.
 
-<form style="padding:3px;text-align:center;" action="https://tinyletter.com/kmcgillivray" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/kmcgillivray', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:250px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /></form>
+<form style="text-align:center;" action="https://tinyletter.com/kmcgillivray" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/kmcgillivray', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+<p><input class="text-box" placeholder="Enter your email address..." type="text" name="email" id="tlemail" /></p>
+<input type="hidden" value="1" name="embed"/><input class="button" type="submit" value="Subscribe" /></form>
