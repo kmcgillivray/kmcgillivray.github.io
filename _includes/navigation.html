@@ -4,6 +4,9 @@
 					<li>
 						<a href="/">Kevin McGillivray</a>
 					</li>
+					<li>
+						<a href="/sketchbook">Sketchbook</a>
+					</li>
 					<!--<li>
 						<a href="/work">Work</a>
 					</li>-->
@@ -15,12 +18,4 @@
 					</li>
 				<ul>
 			</nav>
-			{% if page.next.url %}
-			  <p>Previous project:<br>
-        <a href="{{page.next.url}}">{{page.next.title}}</a></p>
-			{% endif %}
-			{% if page.previous.url %} 
-				<p>Next project:<br>
-        <a class="prev" href="{{page.previous.url}}"> {{page.previous.title}}</a></p>
-			{% endif %} 
 		</header>

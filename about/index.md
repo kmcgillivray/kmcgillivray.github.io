@@ -5,7 +5,7 @@ title: About
 
 ## About 
 
-My name is Kevin McGillivray. I'm a designer from Wisconsin. I like iterative creativity, simplicity, books, chess and tea. My favorite word is "studio."
+My name is Kevin McGillivray. I'm a designer from Wisconsin. I make websites, drawings, paintings and lots of other things. I like iterative creativity, simplicity, books, chess and tea. My favorite word is "studio."
 
 ## About this site
 
