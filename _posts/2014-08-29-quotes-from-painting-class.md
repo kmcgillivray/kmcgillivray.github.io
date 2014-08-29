@@ -61,5 +61,5 @@ I take painting lessons from John Gordon, who runs a studio called [New Masters]
 
 "You have to get over that. You'll do 1/100th of the number of pictures in your life if you don't."
 
-Student: Should I worry about that?  
-John Gordon: Worry? I wouldn't worry. Just take care of it. The first attempt won't always be spot on.
+*Student:* Should I worry about that?  
+*John Gordon:* Worry? I wouldn't worry. Just take care of it. The first attempt won't always be spot on.
