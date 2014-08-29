@@ -3,15 +3,15 @@ layout: default
 title: About
 ---
 
-## About 
+# About this site
 
-My name is Kevin McGillivray. I'm a designer from Wisconsin. I make websites, drawings, paintings and lots of other things. I like iterative creativity, simplicity, books, chess and tea. My favorite word is "studio."
-
-## About this site
-
-On this site, I post one piece of writing at a time. Once I post a new post, the old one is removed and is not archived on the site. This is an experiment. It could be fun?
+This site is a bit of an experiment. I post one thing at a time on the home page, and once I post something new the old one is removed and is not archived on the site.
 
 Topics are likely to revolve around the creative process, design, art, music, web development, and other things that I'm interested in.
+
+# About me
+
+I make websites, drawings, paintings and lots of other things. I like simplicity, books, chess, tea, and trying to figure out how creativity works. My favorite word is "studio."
 
 ## Links
 
@@ -21,7 +21,7 @@ Topics are likely to revolve around the creative process, design, art, music, we
 
 ## Subscribe
 
-To be notified when new posts are available, please subscribe using this form.
+I have an email newsletter that you can suscribe to if you feed the hungry form box below (its favorite food is email addresses). I send out an email maybe twice a month if you're lucky, probably less, and they tend to be about new things on this site and new projects that I'm working on that you might like.
 
 <form style="text-align:center;" action="https://tinyletter.com/kmcgillivray" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/kmcgillivray', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
 <p><input class="text-box" placeholder="Enter your email address..." type="text" name="email" id="tlemail" /></p>
