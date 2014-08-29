@@ -5,7 +5,7 @@ title: About
 
 # About this site
 
-This site is a bit of an experiment. I post one thing at a time on the home page, and once I post something new the old one is removed and is not archived on the site.
+This site is a bit of an experiment. I post one thing at a time on the home page, and once something new is posted the old one is removed and is not archived on the site.
 
 Topics are likely to revolve around the creative process, design, art, music, web development, and other things that I'm interested in.
 
