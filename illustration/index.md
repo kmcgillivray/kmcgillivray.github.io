@@ -13,7 +13,7 @@ Illustrations of the entire alphabet as bugs.
 ## [Tall Wild World](/tall-wild-world)
 
 [![Tall Wild World](/img/tall-wild-world.jpg)](/tall-wild-world)
-Kids are obsessed with tallness. This illustrations are about the height of an average first grader.
+Kids are obsessed with tallness. These illustrations are about the height of an average first grader.
 
 ## [Pixel Zoo](/pixel-zoo)
 
