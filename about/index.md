@@ -17,6 +17,7 @@ I make websites, drawings, paintings and lots of other things. I like simplicity
 
 * [Resume](/resume)  
 * [Twitter](http://twitter.com/kev_mcg)
+* [GitHub](http://github.com/kmcgillivray)
 * [Library](/librarie)
 
 ## Subscribe
