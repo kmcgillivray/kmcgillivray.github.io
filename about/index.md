@@ -15,10 +15,10 @@ I make websites, drawings, paintings and lots of other things. I like simplicity
 
 ## Links
 
-* [Resume](/resume)  
-* [Twitter](http://twitter.com/kev_mcg)
-* [GitHub](http://github.com/kmcgillivray)
 * [Library](/librarie)
+* [Twitter](http://twitter.com/kev_mcg)
+* [Tumblr](http://kevinschmevin.com)
+* [GitHub](http://github.com/kmcgillivray)
 
 ## Subscribe
 
