@@ -90,10 +90,14 @@ ul li {
 }
 blockquote {
   border-left: none;
-  font-size: .9rem;
   line-height: 1.35;
-  padding-left: .75rem;
-  padding-right: .75rem;
+  font-size: 1.1rem;
+  font-style: italic;
+  margin-left: .75rem;
+  margin-right: .75rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-radius: 5px;
 }
 
 /*
