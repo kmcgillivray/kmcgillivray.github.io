@@ -13,13 +13,13 @@ I found myself setting up a lot of typographic styles over and over again in eve
 
 ## [Base Theme](http://github.com/kmcgillivray/base-theme)
 
-I also found myself repeating many of the same tasks when setting up new Jekyll sites, so I set up a simple-as-possible base theme to use to make getting started with a new Jekyll site even easier.
+I also found myself repeating many of the same tasks when setting up new Jekyll sites, so I set up a simple-as-possible base theme to make getting started with a new Jekyll site even easier.
 
 ## Promotional Websites
 
 ## [Insight Creative](http://insightcreative.com)
 
-Insight Creative is an advertising agency. I had a great time working on this site with my colleagues there. It's built with [Jekyll](http://jekyllrb.com) and served from GitHub Pages.
+Insight Creative is an advertising agency in Wisconsin. I had a great time working on this site with my colleagues there. It's built with [Jekyll](http://jekyllrb.com) and served from GitHub Pages.
 
 ## [CIVICTechnologies](http://civictechnologies.com)
 
