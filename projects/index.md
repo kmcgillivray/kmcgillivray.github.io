@@ -11,6 +11,7 @@ title: Projects
 * [CIVICTechnologies](http://civictechnologies.com)
 * [Underground](http://underground-game.github.io)
 
-## Other
+## Open Source
 
-* [typography.css](https://github.com/kmcgillivray/typography.css)
+* [typography.css](http://github.com/kmcgillivray/typography.css)
+* [Base Theme](http://github.com/kmcgillivray/base-theme)

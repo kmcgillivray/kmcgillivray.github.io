@@ -30,6 +30,7 @@ img {
 	height: auto;
 	border-radius: 3px;
   vertical-align: middle;
+  margin-top: 10px;
   margin-bottom: 20px;
 }
 
@@ -112,19 +113,32 @@ blockquote {
 }
 
 /*
- * Sidebar
+ * Navigation
  */
 
-.nav {
+.nav-header {
   margin-bottom: 40px;
+	color: #678399;
 }
 .nav ul {
 	list-style: none;
 	padding-left: 0;
+  margin-bottom: 0px;
+  margin-top: 0px;
 }
 .nav ul li {
-	margin-right: 20px;
-	display: inline-block;
+  display: inline-block;
+  margin-right: 20px;
+}
+.nav-right {
+  float: right;
+}
+.menu-toggle {
+  cursor: pointer;
+}
+.nav-menu {
+  display: none;
+  height: 75px;
 }
 
 /*

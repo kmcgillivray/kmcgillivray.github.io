@@ -15,6 +15,7 @@ I make websites, drawings, paintings and lots of other things. I like simplicity
 
 ## Links
 
+* [Resume](/resume)
 * [Library](/librarie)
 * [Twitter](http://twitter.com/kev_mcg)
 * [Tumblr](http://kevinschmevin.com)
