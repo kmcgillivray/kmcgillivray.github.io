@@ -85,6 +85,10 @@ hr {
 	margin-top: 30px;
 	margin-bottom: 30px;
 }
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
 ol li,
 ul li {
 	margin-bottom: 10px;

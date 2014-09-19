@@ -9,7 +9,7 @@ title: Resume
 
 Music Liberal Arts, B.M.  
 Minor: Graphic Design  
-De Pere, Wisconsin, USA
+De Pere, Wisconsin, USA  
 2008 – 2012
 
 ## Liverpool Hope University
@@ -26,9 +26,9 @@ Spring 2011
 
 Graphic Designer/Web Developer (2012 – present)
 
-* Design and produce a wide range of websites, print materials, visual identities, photography, and audio
+* Design and produce websites, print materials, visual identities, photography, and audio
 * Maintain collaborative relationships with clients and vendors
-* Increased web development efficiency, collaborationa and quality by training web team in iterative development practices
+* Increased web development efficiency, collaboration, and quality by training web team in iterative development practices
 * Trained web team in new development skills and tools like Git, responsive design, Jekyll and Statamic
 * Shared essential new design, photography and typography skills with coworkers to improve overall agency design quality, effectiveness and aesthetic
 
@@ -61,7 +61,7 @@ First Year Experience Mentor (2009 – 2012)
 
 Self-employed (2007 - present)
 
-* Introduce students to piano performance, music composition, music theory, and music history
+* Introduced students to piano performance, music composition, music theory, and music history
 
 ---
 
@@ -85,3 +85,11 @@ Self-employed (2007 - present)
 ## Music and Audio
 
 * Logic Pro
+
+---
+
+# Contact
+
+* [<i class="fa fa-envelope"></i> E-mail](mailto:kevin.mcgillivray@me.com)  
+* [<i class="fa fa-twitter"></i> Twitter](http://twitter.com/kev_mcg)  
+* [<i class="fa fa-github-alt"></i> GitHub](http://github.com/kmcgillivray)
