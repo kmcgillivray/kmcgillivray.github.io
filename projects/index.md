@@ -3,9 +3,7 @@ layout: default
 title: Projects
 ---
 
-# Projects
-
-## Open Source
+# Open source projects
 
 ## [typography.css](http://github.com/kmcgillivray/typography.css)
 
@@ -15,7 +13,7 @@ I found myself setting up a lot of typographic styles over and over again in eve
 
 I also found myself repeating many of the same tasks when setting up new Jekyll sites, so I set up a simple-as-possible base theme to make getting started with a new Jekyll site even easier.
 
-## Promotional Websites
+# Promotional websites
 
 ## [Insight Creative](http://insightcreative.com)
 

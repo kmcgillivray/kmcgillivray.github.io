@@ -21,7 +21,7 @@ I make websites, drawings, paintings and lots of other things. I like simplicity
 * [Tumblr](http://kevinschmevin.com)
 * [GitHub](http://github.com/kmcgillivray)
 
-## Subscribe
+# Subscribe
 
 I have an email newsletter that you can suscribe to if you feed the hungry form box below (its favorite food is email addresses). I send out an email maybe twice a month if you're lucky, probably less, and they tend to be about new things on this site and new projects that I'm working on that you might like.
 

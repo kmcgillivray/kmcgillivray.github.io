@@ -59,13 +59,19 @@ h6 {
   margin-top: 1.5rem;
   margin-bottom: .5rem;
   font-size: 1rem;
+  letter-spacing: -1px;
 }
 h1 {
-  margin-top: 0px;
-  font-size: 1.2rem;
+  font-size: 1.25rem;
 }
 h2 {
-  font-size: 1rem;
+  margin-top: 1.25rem;
+  font-size: 1.05rem;
+}
+h4 {
+  margin-top: 0;
+  margin-bottom: .5rem;
+  font-style: italic;
 }
 p {
 	margin-top: 0;
@@ -86,12 +92,11 @@ hr {
 	margin-bottom: 30px;
 }
 ul {
-  list-style-type: none;
-  padding-left: 0px;
+  padding-left: 26px;
 }
 ol li,
 ul li {
-	margin-bottom: 10px;
+	margin-bottom: .75rem;
 }
 blockquote {
   border-left: none;
@@ -120,19 +125,11 @@ blockquote {
  * Navigation
  */
 
+.nav {
+  margin-bottom: 50px;
+}
 .nav-header {
-  margin-bottom: 55px;
-	color: #678399;
-}
-.nav ul {
-	list-style: none;
-	padding-left: 0;
-  margin-bottom: 0px;
-  margin-top: 0px;
-}
-.nav ul li {
-  display: inline-block;
-  margin-right: 20px;
+  color: #678399;
 }
 .nav-right {
   float: right;
@@ -142,7 +139,18 @@ blockquote {
 }
 .nav-menu {
   display: none;
-  height: 75px;
+  margin-top: 30px;
+}
+.nav-menu ul {
+	list-style: none;
+	padding-left: 0;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+.nav-menu ul li {
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 0px;
 }
 
 /*

@@ -1,7 +1,11 @@
 ---
 layout: default
-title: Resume
+title: Résumé
 ---
+
+I am a teacher, designer, and web developer. My core interests are the creative process, education, and mindfulness in creativity and education. My goal is to learn more about the skills and habits of creativity and to share what I learn with others through teaching, writing, and other projects.
+
+Please learn more in my résumé below, or see examples of my [web development projects](/projects) and other work in the menu above. Thank you for your time, and please [contact me](#contact) if you have any questions or would like to talk further.
 
 # Education
 
@@ -18,13 +22,11 @@ Study abroad semester
 Liverpool, England  
 Spring 2011
 
----
-
 # Experience
 
 ## Insight Creative, Inc.
 
-Graphic Designer/Web Developer (2012 – present)
+#### Graphic Designer/Web Developer (2012 – present)
 
 * Design and produce websites, print materials, visual identities, photography, and audio
 * Maintain collaborative relationships with clients and vendors
@@ -34,7 +36,7 @@ Graphic Designer/Web Developer (2012 – present)
 
 ## St. Norbert College Writing Center
 
-Writing Consultant/Graphic Designer (2011 – 2012)
+#### Writing Consultant/Graphic Designer (2011 – 2012)
 
 * Provided feedback and training to students about their writing and help them practice creative skills
 * Created a positive, encouraging learning environment 
@@ -43,7 +45,7 @@ Writing Consultant/Graphic Designer (2011 – 2012)
 
 ## Felix Sofia Music
 
-Co-Founder, Composer (2010 – 2013)
+#### Co-Founder, Composer (2010 – 2013)
 
 * Co-founded music composition studio focused on creating original scores for film production and video game studio clients
 * Developed new business opportunities and relationships
@@ -51,7 +53,7 @@ Co-Founder, Composer (2010 – 2013)
 
 ## St. Norbert College
 
-First Year Experience Mentor (2009 – 2012)
+#### First Year Experience Mentor (2009 – 2012)
 
 * Mentored new college students during their transition into higher education
 * Built teamwork and a positive social environment within groups of students
@@ -59,11 +61,11 @@ First Year Experience Mentor (2009 – 2012)
 
 ## Piano Teacher
 
-Self-employed (2007 - present)
+#### Self-employed (2007 - present)
 
 * Introduced students to piano performance, music composition, music theory, and music history
-
----
+* Developed original exercises and curriculum highlighting specific skills and creative habits
+* Transitioned students from beginner to intermediate to advanced abilities
 
 # Software Skills
 
@@ -72,8 +74,8 @@ Self-employed (2007 - present)
 * HTML/CSS
 * JavaScript
 * Git
-* Content management systems (Wordpress, Jekyll, Statamic, Kirby)
 * Bootstrap
+* Content management systems (Wordpress, Jekyll, Statamic, Kirby)
 
 ## Graphic Design
 
@@ -86,10 +88,12 @@ Self-employed (2007 - present)
 
 * Logic Pro
 
----
-
 # Contact
 
-* [<i class="fa fa-envelope"></i> E-mail](mailto:kevin.mcgillivray@me.com)  
-* [<i class="fa fa-twitter"></i> Twitter](http://twitter.com/kev_mcg)  
-* [<i class="fa fa-github-alt"></i> GitHub](http://github.com/kmcgillivray)
+Thank you for stopping by to take a look at my résumé. Please contact me if you have any questions or would like to talk further.
+
+[<i class="fa fa-envelope"></i> E-mail](mailto:kevin.mcgillivray@me.com)  
+
+[<i class="fa fa-twitter"></i> Twitter](http://twitter.com/kev_mcg)  
+
+[<i class="fa fa-github-alt"></i> GitHub](http://github.com/kmcgillivray)
