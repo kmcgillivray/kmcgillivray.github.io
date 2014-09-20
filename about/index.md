@@ -15,7 +15,7 @@ I make websites, drawings, paintings and lots of other things. I like simplicity
 
 ## Links
 
-* [Resume](/resume)
+* [Résumé](/resume)
 * [Library](/librarie)
 * [Twitter](http://twitter.com/kev_mcg)
 * [Tumblr](http://kevinschmevin.com)
@@ -23,7 +23,7 @@ I make websites, drawings, paintings and lots of other things. I like simplicity
 
 # Subscribe
 
-I have an email newsletter that you can suscribe to if you feed the hungry form box below (its favorite food is email addresses). I send out an email maybe twice a month if you're lucky, probably less, and they tend to be about new things on this site and new projects that I'm working on that you might like.
+If you'd like to be notified when there's a new post available you can suscribe to my newsletter if you feed the hungry form box below (its favorite food is email addresses). I send out an email about once a week when the site is updated with a new post.
 
 <form style="text-align:center;" action="https://tinyletter.com/kmcgillivray" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/kmcgillivray', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
 <p><input class="text-box" placeholder="Enter your email address..." type="text" name="email" id="tlemail" /></p>

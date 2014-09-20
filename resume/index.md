@@ -92,7 +92,7 @@ Spring 2011
 
 Thank you for stopping by to take a look at my résumé. Please contact me if you have any questions or would like to talk further.
 
-[<i class="fa fa-envelope"></i> E-mail](mailto:kevin.mcgillivray@me.com)  
+[<i class="fa fa-envelope"></i> Email](mailto:kevin.mcgillivray@me.com)  
 
 [<i class="fa fa-twitter"></i> Twitter](http://twitter.com/kev_mcg)  
 

@@ -127,14 +127,15 @@ blockquote {
 .nav {
   margin-bottom: 50px;
 }
-.nav-header {
-  color: #678399;
-}
 .nav-right {
   float: right;
 }
 .menu-toggle {
+  color: #678399;
   cursor: pointer;
+}
+.menu-toggle:hover {
+  color: #7E7E7E;
 }
 .nav-menu {
   display: none;
@@ -157,7 +158,7 @@ blockquote {
  */
 
 .post-meta {
-	color: #7e7e7e;
+	color: #7E7E7E;
 }
 
 /*
