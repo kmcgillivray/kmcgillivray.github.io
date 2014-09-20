@@ -5,7 +5,7 @@ title: Résumé
 
 I am a teacher, designer, and web developer. My core interests are the creative process, education, and mindfulness in creativity and education. My goal is to learn more about the skills and habits of creativity and to share what I learn with others through teaching, writing, and other projects.
 
-Please learn more in my résumé below, or see examples of my [web development projects](/projects) and other work in the menu above. Thank you for your time, and please [contact me](#contact) if you have any questions or would like to talk further.
+Please learn more in my résumé below, or see examples of my [web development projects](/projects) and other work in the menu above.
 
 # Education
 
