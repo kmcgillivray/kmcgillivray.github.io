@@ -1,1 +1,0 @@
-I only post one piece of writing at a time, and once a new post is shared the previous one is removed from the website. My hypothesis is that this will actually encourage me to write more and be more experimental with how I write
