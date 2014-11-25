@@ -23,6 +23,6 @@ Insight Creative is an advertising agency in Wisconsin. I had a great time worki
 
 CIVICTechnologies helps libraries connect with their communities using strategic planning services and software products. I created this promotional website for them which also features an interactive demo.
 
-## [BuildYourOwnCurriculum](http://insightcreative.info/byoc) 
+## [BuildYourOwnCurriculum](http://test.schoolsoftwaregroup.com) 
 
 BuildYourOwnCurriculum is a web application that helps teachers and school districts plan their curriculum, compare it to state and federal standards, and manage classroom activities. This is a work-in-progress promotional site for a major new update to the software.
