@@ -127,6 +127,9 @@ hr {
 ul {
   padding-left: 26px;
 }
+ol {
+  padding-left: 20px;
+}
 ol li,
 ul li {
 	margin-bottom: .75rem;
