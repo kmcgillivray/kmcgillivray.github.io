@@ -5,6 +5,7 @@ title: Sketchbook
 
 # Sketchbook
 
+![Alex](/img/alex-2.jpg)
 ![Clementine](/img/clementine.jpg)
 ![Orange](/img/orange.jpg)
 ![Snake](/img/snake.jpg)
