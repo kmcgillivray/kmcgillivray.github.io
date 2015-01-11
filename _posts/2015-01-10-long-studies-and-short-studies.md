@@ -40,8 +40,6 @@ One of the main reasons my teacher recommends this approach is that it means you
 >
 > —[Neil Gaiman](http://www.brainpickings.org/2013/09/11/neil-gaiman-advice-to-writers/)
 
----
-
 Partly in response to the difficulty of working on a long term project at Sandcastle, Foster recently started designing a [mini game every day](fosterstilp.github.io/games). Similar to a [daily writing practice](https://medium.com/@mattangriffel/how-to-develop-a-daily-writing-habit-475732c2b026?source=tw-5142451174a3-1420560243633) or small oil paintings, it's a situation where he can complete a rough draft in a single sitting. Here's one of his [daily game designs](http://fosterstilp.github.io/games/Twelve-At-Night.html):
 
 ![Twelve at Night](/img/twelve-at-night.jpg)
@@ -49,8 +47,6 @@ Partly in response to the difficulty of working on a long term project at Sandca
 This daily practice has made a huge difference to his perspective as a game designer. Not only does it give him a way to practice every day to sharpen his skills and learn more about designing games, but it also provides a daily burst of new energy and momentum. Starting something new every day generates new energy, ideas, and momentum that can be shared with our ongoing, long term project.
 
 Hack weeks at technology companies and other game companies are another way to accomplish the same burst of energy. At Twitter, hack week means that everyone takes a break from their normal routine and major projects to work on a small idea, a rough prototype of a new feature or process. At Doublefine, their yearly [Amnesia Fortnight](http://www.doublefine.com/fortnight) is a time they forget about the bigger games they're working on and break into teams to make a bunch of new games in a couple weeks. While not a daily practice, these condensed periods of variety are a huge motivator and source of new energy.
-
----
 
 In my experience, another key benefit of a daily practice is that I'm less likely to be bothered or upset if one thing doesn't go as well as I would like because I know that I'm going to come back the next day and do it again anyway. Some days will be great, some will be average, and some days it just won't work. If I'm not doing it every day, when something doesn't go well it's can be a huge disappointment and frustration. But if I am practicing daily, I can trust that over time it will even out.
 
