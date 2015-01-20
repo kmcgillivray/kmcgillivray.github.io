@@ -68,7 +68,7 @@ If something becomes boring or uninteresting, sometimes we just need to change p
 
 ---
 
-I think there are about a million ways to respond to the inevitable dip in energy that comes when we're trying to stick to a resolution, make a new habit, or do our own work. But being flexible with cycles of high and low energy, taking the time to slow down and notice what's really going on inside and around me, and following my curiosity and excitement when things get dull are some of the best ways I've found to keep moving when things get hard.
+I think there are about a million ways to respond to the inevitable dip in energy that comes when we're trying to stick to a resolution, make a new habit, or do our own work. But being flexible with cycles of high and low energy, taking the time to slow down and notice what's really going on inside and around me, and following my curiosity and excitement when things get dull are some of the best ways I've found to keep moving when things get hard. We might be climbing a mountain, but we can at least have fun doing it.
 
 [^1]: For more on this, see [this post](https://medium.com/better-humans/better-than-meditation-12532d29f6cd) by Buster Benson.
 [^2]: If you didn't notice, a lot of these ideas were inspired by [this post](http://www.aaronsw.com/weblog/productivity) by [Aaron Swartz](http://en.wikipedia.org/wiki/Aaron_Swartz) from 2005. I highly recommend it.
