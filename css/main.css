@@ -115,7 +115,7 @@ a {
 }
 a:hover {
 	color: #333;
-  border-color: #678399;;
+  border-color: #678399;
 }
 hr {
 	border-top: 4px solid #F2F1F4;
@@ -146,6 +146,19 @@ blockquote {
   margin-right: .75rem;
   padding-left: 1rem;
   padding-right: 1rem;
+}
+.footnote {
+  border-bottom: 0px;
+}
+.footnotes {
+  font-size: .85rem;
+}
+.reversefootnote {
+  color: #E1E1E1;
+  border-bottom: 0px;
+}
+.reversefootnote:hover {
+  color: #678399;
 }
 
 /*
