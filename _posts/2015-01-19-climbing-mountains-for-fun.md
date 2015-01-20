@@ -24,7 +24,7 @@ There are two key ideas here. The first is to recognize that different times hav
 
 The second key idea is that since you know there will be low quality times, you can plan ahead for them. Have a number of different things you can do during those times that are still related to your interests or healthy for you. Having a variety of options gives you the benefit of making sure you always have something to do that supports the spirit your overall goal or resolution even if it's not directly related. Drinking water and eating good food when you're worn out will help you get back into high quality times more easily.
 
-If you're stuck on a project or a problem, this can also help you get unstuck. Sometimes the best way to make progress on something is to stop doing it for a while. Doing something else can give you new energy and interest and take your mind off of the thing that has now become somewhat dull and tedious. That energy is then be used to renew the original interest.
+If you're stuck on a project or a problem, this can also help you get unstuck. Sometimes the best way to make progress on something is to stop doing it for a while. Doing something else can give you new energy and interest and take your mind off of the thing that has now become somewhat dull and tedious. That energy can then be used to renew the original interest.
 
 Last week I was feeling bored and frustrated with writing, so I decided to take a break and draw instead, something that I hadn't focused on in a couple days. And, oh man, the change in energy level was immediate. My interest levels spiked, I felt much better, and I could return to writing later with a fresh perspective. 
 
@@ -38,7 +38,7 @@ Creativity is a cycle of energy, of fallow periods and harvest periods. There's 
 
 ## Mindfulness
 
-Of course, in order to be flexible and switch modes to fit your current time quality and energy levels, you have to be able to notice what your energy level really is. As I mentioned earlier, we get a lot of conflicting messages from our minds and bodies. We need to have some way to first of all actually notice the different messages, and then to sort them out and decide which one is the right one to listen to.
+Of course, in order to be flexible and switch modes to fit your current time quality and energy levels, you first have to be able to notice what your energy level really is. As I mentioned earlier, we get a lot of conflicting messages from our minds and bodies. We need to have some way to first of all actually notice the different messages, and then to sort them out and decide which one is the right one to listen to.
 
 [Aaron Swartz](http://www.aaronsw.com/weblog/productivity) has some advice for us here:
 
@@ -48,7 +48,7 @@ Often I get into this mode where I'm going so fast and trying to get stuff done 
 
 There are a number of ways to slow down. Drinking a cup of tea and sitting and doing nothing else. Practicing mindfulness and meditation with [Headspace](http://headspace.com) or just on your own. [Writing down your thoughts](http://750words.com) for ten minutes or so[^1].
 
-When I stay still, eventually my thoughts start to slow down as well. Once they do that, the ones that aren't true or helpful tend to fade away, and it's easier to know what I really need in that moment. If it's a moment where I need to rest, I can let go of the unnecessary drive to get more done and the guilt that I'm not being productive. If it's a moment where I'm just being lazy and actually have the energy to get up and do something, I can let go of my addiction to being comfortable and do start spending quality time with something that I love.
+When I stay still, eventually my thoughts start to slow down as well. Once they do that, the ones that aren't true or helpful tend to fade away, and it's easier to know what I really need in that moment. If it's a moment where I need to rest, I can let go of the unnecessary drive to get more done and the guilt that I'm not being productive. If it's a moment where I'm just being lazy and actually have the energy to get up and do something, I can let go of my addiction to being comfortable and go start spending quality time with something that I love.
 
 > Mountains should be climbed with as little effort as possible and without desire. The reality of your own nature should determine the speed. If you become restless, speed up. If you become winded, slow down. Then, when you're no longer thinking ahead, each footstep isn't just a means to an end but a unique event in itself. *This* leaf has jagged edges. *This* rock looks loose. These are things you should notice anyway. To live only for some future goal is shallow.
 >
