@@ -270,11 +270,21 @@ blockquote {
  */
 
 .project {
-  margin-bottom: 40px;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+.project h2 {
+  margin-top: .0rem;
 }
 .project img {
   border-radius: 5px;
   border: 2px solid #E1E1E1;
+}
+@media (min-width: 768px) {
+  .project img {
+    width: 130%;
+    margin-left: -15%;
+  }
 }
 
 /*
