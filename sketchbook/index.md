@@ -3,13 +3,14 @@ layout: default
 title: Sketchbook
 ---
 
-# Sketchbook
-
+![Pomegranate](/img/pomegranate.jpg)
+![Apple](/img/apple.jpg)
+![Pear](/img/pear.jpg)
+![Betta Fish](/img/cherry.jpg)  
+![Koi](/img/koi.jpg)
+![Pitcher](/img/pitcher.jpg)
 ![Alex](/img/alex-2.jpg)
-![Clementine](/img/clementine.jpg)
-![Orange](/img/orange.jpg)
 ![Snake](/img/snake.jpg)
 ![Frog](/img/frog.jpg)
 ![Alex](/img/alex-sketch.jpg)
-![Value Sketch](/img/value-sketch.jpg)
 ![Tall Ship](/img/tall-ship.jpg)

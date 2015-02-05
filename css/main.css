@@ -23,7 +23,6 @@ body {
   background-color: #F2F1F4;
   color: #333;
   margin-top: 40px;
-  margin-bottom: 80px;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -50,12 +49,6 @@ img {
 }
 .main-content {
   background-color: #FFF;
-  box-shadow: 3px 3px 3px rgba(0, 0, 0, .05);
-  border-radius: 5px;
-  max-width: 980px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 40px;
   padding: 20px;
 }
 .main {
@@ -199,10 +192,6 @@ blockquote {
 .menu-toggle:hover {
   color: #7E7E7E;
 }
-.nav-menu {
-  display: none;
-  margin-top: 30px;
-}
 .nav-menu ul {
 	list-style: none;
 	padding-left: 0;
@@ -269,11 +258,23 @@ blockquote {
   margin-right: auto;
 }
 .post-header {
-  margin-bottom: 40px;
+  margin-bottom: 50px;
 }
 .post-meta {
 	color: #7E7E7E;
   font-size: .9rem;
+}
+
+/*
+ * Projects
+ */
+
+.project {
+  margin-bottom: 40px;
+}
+.project img {
+  border-radius: 5px;
+  border: 2px solid #E1E1E1;
 }
 
 /*

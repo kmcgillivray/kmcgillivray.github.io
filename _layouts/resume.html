@@ -6,22 +6,26 @@
     
     </div>
     
-    <div class="sidebar" id="sidebar">
-      <ul class="nav sidebar-nav">
-        <li class="active"><a href="#summary">Summary</a></li>
-        <li><a href="#education">Education</a></li>
-        <li><a href="#experience">Experience</a></li>
-        <li><a href="#software-skills">Software Skills</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-    </div>
-      
-    <div class="container">
-      
-      <article class="article-scroll">
-		    {{ content }}
-      <article>
+    <div class="main-content">
+    
+      <div class="sidebar" id="sidebar">
+        <ul class="nav sidebar-nav">
+          <li class="active"><a href="#summary">Summary</a></li>
+          <li><a href="#education">Education</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#software-skills">Software Skills</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </div>
         
-		</div>
+      <div class="container">
+        
+        <article class="article-scroll">
+		      {{ content }}
+        <article>
+          
+		  </div>
+      
+    </div>
 		
 {% include footer.html %}

@@ -3,25 +3,23 @@ layout: default
 title: About
 ---
 
+# About Kevin
+
+I make [websites](/projects), [drawings](/sketchbook), [paintings](/paintings) and lots of other things. My main project right now is [Sandcastle](http://sandcastle.co). I'm also a mentor in the web development course at [Bloc](http://bloc.io). I like simplicity, books, chess, tea, and trying to figure out how creativity works. My favorite word is "studio."
+
 # This blog will self-destruct in...
 
 This site is a bit of an experiment. I post one thing at a time on the home page, and once something new is posted the old one is removed and is not archived on the site.
 
 Topics revolve around the creative process, design, art, music, web development, and other things that I'm interested in.
 
-For more, check out my Tumblr at [kevinschmevin.com](http://kevinschmevin.com).
-
 This site is made with deep affection for the tools used to make it – [Jekyll](http://jekyllrb.com), [Github](http://github.com), markdown, and [TextMate](http://macromates.com).
-
-# About me
-
-I make [websites](/projects), [drawings](/sketchbook), [paintings](/paintings) and lots of other things. My main project right now is [Sandcastle](http://sandcastle.co). I'm also a mentor in the web development course at [Bloc](http://bloc.io). I like simplicity, books, chess, tea, and trying to figure out how creativity works. My favorite word is "studio."
 
 ## Links
 
 * [Library](/librarie)
 * [Twitter](http://twitter.com/kev_mcg)
-* [Tumblr](http://kevinschmevin.com)
+* [Tumblr](http://kevmcgillivray.tumblr.com)
 * [GitHub](http://github.com/kmcgillivray)
 
 # Subscribe
