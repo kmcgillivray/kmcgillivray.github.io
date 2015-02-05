@@ -1,6 +1,6 @@
 ---
 layout: post
-link: schoolsoftwaregroup.com
+link: http://schoolsoftwaregroup.com
 title: School Software Group
 image: ssg.jpg
 ---
