@@ -5,13 +5,13 @@
   			<nav class="nav-menu nav-right">
   				<ul>
             <li>
-              <a href="/projects">Projects</a>
+              <a {% if page.url contains "/projects" %}class="active"{% endif %} href="/projects">Projects</a>
             </li>
   					<li>
-  						<a href="/sketchbook">Sketchbook</a>
+  						<a {% if page.url contains "/sketchbook" %}class="active"{% endif %} href="/sketchbook">Sketchbook</a>
   					</li>
   					<li>
-  						<a href="/about">About</a>
+  						<a {% if page.url contains "/about" %}class="active"{% endif %} href="/about">About</a>
   					</li>
   				<ul>
   			</nav>

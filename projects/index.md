@@ -9,4 +9,5 @@ title: Projects
   <h2><a href="{{ post.link }}">{{ post.title }}</a></h2>
   {{ post.content }}
 </div>
+<hr>
 {% endfor %}
