@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: page
 title: About
 ---
 
-# About Kevin
+![Kevin](/img/kevin.jpg)
 
-I make [websites](/projects), [drawings](/sketchbook), [paintings](/paintings) and lots of other things. My main project right now is [Sandcastle](http://sandcastle.co). I'm also a mentor in the web development course at [Bloc](http://bloc.io). I like simplicity, books, chess, tea, and trying to figure out how creativity works. My favorite word is "studio."
+Hi, I'm Kevin. I'm a teacher, designer, and web developer. My goal is to learn more about creativity and to share what I learn with others through teaching, writing, and other projects. I make [websites](/projects), [drawings, paintings](/sketchbook), and lots of other things. My newest project is [Sandcastle](http://sandcastle.co). I'm also a mentor in the frontend web development course at [Bloc](http://bloc.io), where I help people learn how to make websites. I like simplicity, books, chess, tea, mindfulness, and trying to figure out how creativity works. My favorite word is "studio."
 
 # This blog will self-destruct in...
 
@@ -21,6 +21,7 @@ This site is made with deep affection for the tools used to make it – [Jekyll]
 * [Twitter](http://twitter.com/kev_mcg)
 * [Tumblr](http://kevmcgillivray.tumblr.com)
 * [GitHub](http://github.com/kmcgillivray)
+* [Résumé](/resume)
 
 # Subscribe
 

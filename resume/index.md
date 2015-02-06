@@ -26,15 +26,21 @@ Spring 2011
 
 # Experience
 
+## Bloc
+
+#### Frontend Web Development Mentor (2014 – present)
+
+* Provide one-on-one mentorship for students in a 12-36 week course
+* Conduct code reviews, explain best practices, offer support and encouragement
+* Cover major skills and habits of a well-rounded frontend web developer
+
 ## Insight Creative, Inc.
 
 #### Graphic Designer/Web Developer (2012 – present)
 
 * Design and produce websites, print materials, visual identities, photography, and audio
-* Maintain collaborative relationships with clients and vendors
+* Trained web team in new development skills and tools like responsive design, Git, Jekyll, and Statamic
 * Increased web development efficiency, collaboration, and quality by training web team in iterative development practices
-* Trained web team in new development skills and tools like Git, responsive design, Jekyll and Statamic
-* Shared essential new design, photography and typography skills with coworkers to improve overall agency design quality, effectiveness and aesthetic
 
 ## St. Norbert College Writing Center
 
@@ -51,7 +57,7 @@ Spring 2011
 
 * Co-founded music composition studio focused on creating original scores for film production and video game studio clients
 * Developed new business opportunities and relationships
-* Completed a forty track music library for The Young Turks, the largest online news show in the world
+* Completed a forty track music library for *The Young Turks*, the largest online news show in the world
 
 ## St. Norbert College
 

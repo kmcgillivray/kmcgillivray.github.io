@@ -7,7 +7,7 @@ var main = function() {
   $(window).scroll(function() {    
       var scroll = $(window).scrollTop();
       
-      if (scroll >= 100) {
+      if (scroll >= 140) {
         $(".sidebar").addClass("sidebar-scroll");
         $(".main").addClass("main-scroll");
       } else {
