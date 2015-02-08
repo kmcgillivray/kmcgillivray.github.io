@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Hello from BarCamp Green Bay"
 category: writing
 ---

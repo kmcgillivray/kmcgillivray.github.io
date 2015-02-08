@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Thoughts on Care and Quality from Jony Ive and Marc Newson
 category: writing
 ---

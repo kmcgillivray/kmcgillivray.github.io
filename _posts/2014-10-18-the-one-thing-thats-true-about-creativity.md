@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: The One Thing That's True About Creativity
 category: writing
 ---

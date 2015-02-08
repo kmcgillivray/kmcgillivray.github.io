@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Seattle Art Museum
 category: writing
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Why Working for Yourself is Hard
 category: writing
 ---

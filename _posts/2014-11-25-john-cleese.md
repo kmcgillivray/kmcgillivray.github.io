@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: John Cleese, Bloc, Other Bits
 category: writing
 ---

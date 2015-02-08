@@ -3,7 +3,7 @@ layout: page
 newsletter: true
 ---
 
-{% for post in site.categories.writing %}
+{% for post in site.categories.writing | limit: 1 %}
 <div class="post">
   <div class="post-header">
 	  <h1>{{ post.title }}</h1>
@@ -12,4 +12,10 @@ newsletter: true
 	{{ post.content }}
 </div>
 {% endfor %}
+
+<hr>
+<div class="post-footer">
+  <a href="/about/index.html#this-blog-will-self-destruct-in">No more posts?</a>
+<!-- Secret archive button<a href="/archive"><button class="button">See all posts</button></a>-->
+</div>
          

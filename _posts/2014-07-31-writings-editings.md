@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Writings, Editings
 category: writing
 ---

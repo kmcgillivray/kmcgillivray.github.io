@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Living a full life is a creative act in itself..."
 category: writing
 ---

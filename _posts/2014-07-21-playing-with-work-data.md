@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Playing with Work Data
 category: writing
 ---

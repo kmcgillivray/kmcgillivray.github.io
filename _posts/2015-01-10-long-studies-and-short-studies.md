@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Long Studies and Short Studies
 category: writing
 ---

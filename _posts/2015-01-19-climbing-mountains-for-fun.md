@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Climbing Mountains for Fun
 category: writing
 ---

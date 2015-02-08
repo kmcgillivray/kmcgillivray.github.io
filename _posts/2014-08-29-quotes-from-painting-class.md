@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Quotes from Painting Class
 category: writing
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Sting, Ken Robinson, and Elizabeth Gilbert on Curiosity, Creativity, and Fear"
 category: writing
 ---

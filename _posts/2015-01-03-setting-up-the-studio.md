@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Setting up the Studio: Planning Ahead, Preparation, and Staying One Step Ahead of Yourself"
 category: writing
 ---

@@ -5,9 +5,11 @@ title: Résumé
 
 # Summary
 
-My goal is to learn more about the skills and habits of creativity and to share what I learn with others through teaching, writing, and other projects. My core interests are the creative process, education, and mindfulness in creativity and education. Currently, I am a teacher, designer, and web developer.
+My goal is to learn more about the skills and habits of creativity and to share what I learn through teaching, writing, and other projects. My core interests are the creative process, education, and mindfulness in creativity and education. Currently, I am a teacher, designer, and web developer.
 
 Please learn more in my résumé below, or see examples of my [web development projects](/projects) and other work in the menu above.
+
+---
 
 # Education
 
@@ -75,6 +77,8 @@ Spring 2011
 * Developed original exercises and curriculum highlighting specific skills and creative habits
 * Transitioned students from beginner to intermediate to advanced abilities
 
+---
+
 # Software Skills
 
 ## Web Development
@@ -95,6 +99,8 @@ Spring 2011
 ## Music and Audio
 
 * Logic Pro
+
+---
 
 # Contact
 
