@@ -3,8 +3,8 @@ layout: page
 title: Sketchbook
 ---
 
-![Pomegranate](/img/pomegranate.jpg)
 ![Apple](/img/apple.jpg)
+![Pomegranate](/img/pomegranate.jpg)
 ![Pear](/img/pear.jpg)
 ![Betta Fish](/img/cherry.jpg)  
 ![Koi](/img/koi.jpg)
