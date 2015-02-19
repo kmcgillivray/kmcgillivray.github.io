@@ -160,6 +160,10 @@ blockquote {
 blockquote p:last-child {
   margin-bottom: 0px;
 }
+.caption {
+  font-size: .9rem;
+  font-style: italic;
+}
 .footnote {
   border-bottom: 0px;
 }
