@@ -7,7 +7,7 @@ title: About
 
 ##### Hi, I'm Kevin. I'm a teacher, designer, and web developer.
 
-My goal is to learn about creativity and to share what I learn through teaching, writing, and other projects. I make [websites](/projects), [drawings, paintings](/sketchbook), and lots of other things. My newest project is [Sandcastle](http://sandcastle.co). I'm also a mentor in the frontend web development course at [Bloc](http://bloc.io), where I help people learn how to make websites. I like simplicity, books, chess, tea, mindfulness, and trying to figure out how creativity works. My favorite word is "studio."
+My goal is to learn about creativity and to share what I learn through teaching, writing, and other projects. I make [websites](/projects), [drawings, paintings](/sketchbook), and lots of other things. I'm also a mentor in the frontend web development course at [Bloc](http://bloc.io), where I help people as they learn how to make websites. I like simplicity, books, chess, tea, mindfulness, and trying to figure out how creativity works. My favorite word is "studio."
 
 {% include links.html %}
 
@@ -15,7 +15,7 @@ My goal is to learn about creativity and to share what I learn through teaching,
 
 # This blog will self-destruct in...
 
-This site is a bit of an experiment. I post one thing at a time on the home page, and once something new is posted the old one is removed and is not archived on the site. Topics revolve around the creative process, design, art, music, web development, and other things that I'm interested in.
+I experiment quite a bit on this site, mainly rambling to myself about things that I'm interested in. Topics tend to revolve around the creative process, design, art, mindfulness, and web development.
 
 This site is made with deep affection for the tools used to make it: [Jekyll](http://jekyllrb.com), [Github](http://github.com), markdown, and [TextMate](http://macromates.com).
 

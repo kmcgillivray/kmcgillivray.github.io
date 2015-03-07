@@ -303,13 +303,7 @@ code {
   text-align: center;
 }
 .post-footer a {
-  color: #DCD9C8;
-  border-bottom: 0px;
-  transition: .3s color;
-}
-.post-footer a:hover {
-  color: #776C8A;
-  transition: .3s color;
+  font-size: 1.3rem;
 }
 
 /*
