@@ -7,7 +7,7 @@ title: About
 
 ##### Hi, I'm Kevin. I'm a teacher, designer, and web developer.
 
-My goal is to learn about creativity and to share what I learn through teaching, writing, and other projects. I make [websites](/projects), [drawings, paintings](/sketchbook), and lots of other things. I'm also a mentor in the frontend web development course at [Bloc](http://bloc.io), where I help people as they learn how to make websites. I like simplicity, books, chess, tea, mindfulness, and trying to figure out how creativity works. My favorite word is "studio."
+More than anything I love learning about and practicing creativity and sharing what I learn through teaching, writing, and other projects. I make [websites](/projects), [drawings, paintings](/sketchbook), and lots of other things. I'm also a mentor in the frontend web development course at [Bloc](http://bloc.io), where I help people as they learn how to make websites. I like simplicity, books, chess, tea, mindfulness, and trying to figure out how creativity works. My favorite word is "studio."
 
 {% include links.html %}
 

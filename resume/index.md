@@ -3,9 +3,13 @@ layout: resume
 title: Résumé
 ---
 
-# Summary
+<h1 id="summary">Hi, I&#8217;m Kevin. I&#8217;m a teacher, designer, and web&nbsp;developer.</h1>
 
-My goal is to learn more about the skills and habits of creativity and to share what I learn through teaching, writing, and other projects. My core interests are the creative process, education, and mindfulness in creativity and education. Currently, I am a teacher, designer, and web developer.
+More than anything I love learning about and practicing creativity and sharing what I learn through teaching, writing, and other projects. My core interests are the creative process, education, and mindfulness in creativity and education.
+
+For the past four years I've been working full-time as a designer and web developer as well as teaching in a part-time setting. I have past teaching experience in a variety of topics including writing and music, and right now I'm most interested in web development and design education. As a teacher, my focus is on the mastery of technical skills and habits, but above all my goal is to share enthusiasm and integrate an understanding of creativity into each subject.
+
+As a web developer, I explore as many areas of the field as I can, from HTML and CSS fundamentals to Ruby on Rails and AngularJS. My strengths lie in responsive web design, developing iterative and collaborative processes, and balancing both visual design and development skills.
 
 Please learn more in my résumé below, or see examples of my [web development projects](/projects) and other work in the menu above.
 
@@ -25,6 +29,8 @@ De Pere, Wisconsin, USA
 Study abroad semester  
 Liverpool, England  
 Spring 2011
+
+---
 
 # Experience
 
@@ -83,11 +89,16 @@ Spring 2011
 
 ## Web Development
 
-* HTML/CSS
-* JavaScript
+* HTML
+* CSS/Sass
+* JavaScript/jQuery
 * Git
 * Bootstrap
 * Content management systems (Wordpress, Jekyll, Statamic, Kirby)
+* AngularJS
+* Ruby on Rails
+* Node.js
+* Grunt
 
 ## Graphic Design
 
