@@ -17,7 +17,7 @@ More than anything I love learning about and practicing creativity and sharing w
 
 I experiment quite a bit on this site, mainly rambling to myself about things that I'm interested in. Topics tend to revolve around the creative process, design, art, mindfulness, and web development.
 
-This site is made with deep affection for the tools used to make it: [Jekyll](http://jekyllrb.com), [Github](http://github.com), markdown, and [TextMate](http://macromates.com).
+This site is made with deep affection for the tools used to make it: [Jekyll](http://jekyllrb.com), [Github](http://github.com), [markdown](http://daringfireball.net/projects/markdown/syntax), and [TextMate](http://macromates.com).
 
 ---
 
