@@ -73,8 +73,6 @@ img {
 .main-scroll {
   margin-left: 25%;
 }
-.article-scroll {
-}
 
 /*
  * Typography
@@ -110,7 +108,7 @@ h5 {
   font-size: 1.25rem;
   font-weight: normal;
   color: #555;
-  margin-top: 0px;
+  margin-top: 0;
 }
 p {
 	margin-top: 0;
@@ -146,19 +144,19 @@ ul li {
 }
 .basic-list {
   list-style: none;
-  padding-left: 0px;
+  padding-left: 0;
 }
 blockquote {
   background-color: #FAFAFA;
   line-height: 1.35;
   font-size: 1rem;
   font-style: italic;
-  margin-left: 0px;
-  margin-right: 0px;
+  margin-left: 0;
+  margin-right: 0;
   padding: 1.2rem;
 }
 blockquote p:last-child {
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 pre {
   background-color: #f5f5f5;
@@ -175,14 +173,14 @@ code {
   font-style: italic;
 }
 .footnote {
-  border-bottom: 0px;
+  border-bottom: 0;
 }
 .footnotes {
   font-size: .85rem;
 }
 .reversefootnote {
   color: #DCD9C8;
-  border-bottom: 0px;
+  border-bottom: 0;
   transition: .3s color;
 }
 .reversefootnote:hover {
@@ -198,8 +196,8 @@ code {
   color: #fff;
   width: 100%;
 	padding: 12px 25px;
-	border: 0px;
-  box-shadow: 0px 2px 1px rgba(0, 81, 123, .2);
+	border: 0;
+  box-shadow: 0 2px 1px rgba(0, 81, 123, .2);
   background-color: #776C8A;
   border-bottom: 3px solid #4B5460;
 	border-radius: 5px;
@@ -215,11 +213,11 @@ code {
 }
 .nav a {
   color: #FFF;
-  weight: bold;
   border-bottom: 2px solid transparent;
 }
 .nav-menu a:hover,
 .nav-menu a.active {
+  border-bottom: 2px solid #FFF;
   border-bottom: 2px solid rgba(255,255,255,.5);
 }
 .nav-right {
@@ -234,13 +232,13 @@ code {
 .nav-menu ul {
 	list-style: none;
 	padding-left: 0;
-  margin-bottom: 0px;
-  margin-top: 0px;
+  margin-bottom: 0;
+  margin-top: 0;
 }
 .nav-menu ul li {
   display: inline-block;
   margin-left: 20px;
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 /*
@@ -264,23 +262,23 @@ code {
 }
 .sidebar-scroll {
   position: fixed;
-  margin-top: 0px;
+  margin-top: 0;
 }
 .sidebar-nav {
   list-style: none;
   font-size: .85rem;
   margin-top: 5px;
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 .sidebar-nav li a {
   color: #DCD9C8;
-  border-bottom: 0px;
+  border-bottom: 0;
   transition: .3s color;
 }
 .sidebar-nav .active a,
 .sidebar-nav li a:hover {
   color: #776C8A;
-  border-bottom: 0px;
+  border-bottom: 0;
   transition: .3s color;
 }
 
@@ -313,8 +311,8 @@ code {
 .project {
   margin-bottom: 3rem;
 }
-.project h2 {
-  margin-top: .0rem;
+.project .project-heading {
+  margin-top: 0;
 }
 .project img {
   border-radius: 8px;
@@ -344,7 +342,7 @@ code {
 
 .social a {
   color: #776C8A;
-  border-bottom: 0px;
+  border-bottom: 0;
   font-size: .9rem;
   transition: .3s opacity;
 }
