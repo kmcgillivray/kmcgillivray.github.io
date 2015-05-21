@@ -34,6 +34,6 @@ The trick here is the ability to use variables when adding the partial that are 
 
 Here's an example of it in action.
 
-{% include image.html file="11-alcatraz.jpg" description="Sketch of Alcatraz and Angel Island. San Francisco, CA." %}
+{% include image.html file="/sketchbook-project/11-alcatraz.jpg" description="Sketch of Alcatraz and Angel Island. San Francisco, CA." %}
 
 Good luck and have fun. Let's talk on [Twitter](http://twitter.com/kev_mcg) if you have any questions.
