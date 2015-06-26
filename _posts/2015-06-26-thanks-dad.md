@@ -24,7 +24,7 @@ A frantic chase for a new battery, punctuated with a reunion with a high school 
 
 "This is creative work."
 
-Lines from Zen and the Art of Motorcycle Maintenance are an appropriate accompaniment to this event.
+Lines from *Zen and the Art of Motorcycle Maintenance* are an appropriate accompaniment to this event.
 
 Pay attention to quality. Maintenance requires great peace of mind. Quality is achieved when the mind and the machine are at rest. If you're not careful, you'll work your own problems right into the machine.
 
