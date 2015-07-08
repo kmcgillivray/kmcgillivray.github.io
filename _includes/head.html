@@ -13,5 +13,16 @@
     
     <script src="//use.typekit.net/zmv7dtr.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Kevin McGillivray">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    {% if page.description %}
+    <meta property="og:description" content="{{ page.description }}">
+    {% else %}
+    <meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 200}}">
+    {% endif %}
 	</head>
 	<body data-spy="scroll" data-target="#sidebar" data-offset="100">
