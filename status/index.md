@@ -24,3 +24,8 @@ title: Status
 
 * Alto's Adventure
 * Alphabear
+
+## Currently listening to...
+
+* We Have Concerns
+* Then Came the Morning – The Lone Bellow
