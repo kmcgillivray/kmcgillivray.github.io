@@ -8,7 +8,7 @@ title: Status
 * Tea Guide
 * Spontaneous writing
 * BarCamp Green Bay
-* Green Bay September code event
+* Code Convoy
 * Kildall.com
 * Apartment design
 
