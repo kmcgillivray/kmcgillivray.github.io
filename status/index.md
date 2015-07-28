@@ -15,7 +15,7 @@ title: Status
 
 ## Currently reading...
 
-* The Buried Giant – Kazuo Ishiguro
+* The Innovators – Walter Isaacson
 
 ## Currently learning...
 
