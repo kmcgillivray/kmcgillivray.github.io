@@ -19,7 +19,9 @@ title: Status
 
 ## Currently learning...
 
+* Landscape painting
 * The independent web
+* History of the computer
 
 ## Currently playing...
 
@@ -30,4 +32,4 @@ title: Status
 
 * We Have Concerns
 * Then Came the Morning – The Lone Bellow
-* Coming Home – Leon Bridges
+* Beachcomber's Windowsill – Stornoway
