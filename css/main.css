@@ -56,13 +56,6 @@ img {
   padding-top: 20px;
   padding-bottom: 20px;
 }
-.main {
-  padding-left: 20px;
-  padding-right: 20px;
-  float: left;
-  width: 75%;
-  max-width: 650px;
-}
 .main-scroll {
   margin-left: 25%;
 }
@@ -320,20 +313,16 @@ code {
  */
 
 .project {
-  margin-bottom: 3rem;
+	border: 1px solid #FFF;
 }
-.project .project-heading {
-  margin-top: 0;
+.project-image {
+	background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+	height: 400px;
 }
 .project img {
-  border-radius: 8px;
-  border: 2px solid #DCD9C8;
-}
-@media (min-width: 980px) {
-  .project img {
-    width: 130%;
-    margin-left: -15%;
-  }
+  margin-top: 0;
 }
 
 /*
