@@ -10,7 +10,6 @@ title: Status
 * Code Convoy
 * Kildall.com
 * Apartment design
-* Norbert
 
 ## Currently reading...
 
