@@ -7,7 +7,6 @@ title: Status
 
 * Tea Guide
 * Spontaneous writing
-* BarCamp Green Bay
 * Code Convoy
 * Kildall.com
 * Apartment design
@@ -20,7 +19,7 @@ title: Status
 ## Currently learning...
 
 * Landscape painting
-* The independent web
+* Object-oriented Javascript
 * History of the computer
 
 ## Currently playing...
