@@ -14,17 +14,19 @@ title: Status
 ## Currently reading...
 
 * The Innovators – Walter Isaacson
+* Rework – Jason Fried, David Heinemeier Hansson
 
 ## Currently learning...
 
 * Landscape painting
 * Object-oriented Javascript
+* Javascript game development
 * History of the computer
 
 ## Currently playing...
 
 * Alto's Adventure
-* Alphabear
+* Shovel Knight
 
 ## Currently listening to...
 
