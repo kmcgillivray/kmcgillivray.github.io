@@ -29,6 +29,7 @@ title: Status
 
 * Alto's Adventure
 * Shovel Knight
+* Borderlands 2
 
 ## Currently listening to...
 
