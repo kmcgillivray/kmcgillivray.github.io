@@ -11,6 +11,7 @@ title: Status
 * Kildall.com
 * Apartment design
 * Sandcastle/Sandcastle Studio
+* Dicey
 
 ## Currently reading...
 
