@@ -4,3 +4,5 @@ markdown: kramdown
 highlighter: pygments
 permalink: /:title
 description: "Designer, currently making Internet things. I like iterative creativity, simplicity, and tea. My favorite word is 'studio.'"
+collections:
+  - projects
