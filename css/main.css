@@ -104,13 +104,14 @@ p {
 a {
 	text-decoration: none;
   border-bottom: 1px solid #DCD9C8;
-	color: #333;
+	color: #555;
 }
 a:hover {
+	color: #3ba5cf;
   border-color: #3ba5cf;
 }
 hr {
-	border-top: 2px solid #DCD9C8;
+	border-top: 1px solid #DCD9C8;
   width: 40%;
 	border-bottom: none;
 	border-left: none;
@@ -186,6 +187,25 @@ code {
   background-color: #3ba5cf;
   border-bottom: 3px solid #4B5460;
 	border-radius: 5px;
+}
+.button-secondary {
+	color: #3BA5CF;
+	background-color: transparent;
+	padding-top: .5rem;
+	padding-bottom: .5rem;
+	padding-left: 2rem;
+	padding-right: 2rem;
+	border: 1px solid #3BA5CF;
+	border-radius: 2rem;
+	transition: .3s all;
+}
+.button-secondary:hover {
+	color: #555;
+	border-color: #555;
+	transition: .3s all;
+}
+.button-large {
+	font-size: 1.5rem;
 }
 
 /*
@@ -302,10 +322,11 @@ code {
   font-size: .9rem;
 }
 .post-footer {
+	margin-top: 3rem;
+	padding-top: 3rem;
+	padding-bottom: 2rem;
+	border-top: 1px solid #DCD9C8;
   text-align: center;
-}
-.post-footer a {
-  font-size: 1.3rem;
 }
 
 /*
@@ -329,10 +350,15 @@ code {
  * Form
  */
 
+form {
+	text-align: center;
+}
 .text-box {
-  border-radius: 5px;
+  border-radius: 2rem;
   padding: 12px 20px;
-  border: 2px solid #DCD9C8;
+	margin-top: .5rem;
+	margin-bottom: 1rem;
+  border: 1px solid #DCD9C8;
   width: 100%;
 }
 
