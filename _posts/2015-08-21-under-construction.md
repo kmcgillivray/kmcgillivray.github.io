@@ -9,7 +9,7 @@ The apartment building I live in is under construction. Do you think I could wea
 
 ---
 
-On my windowsill is a terrarium of succulents that Alex made. Have you ever noticed the quietness of still things? The way they almost breathe if you look at them for long enough? They must be the most patient things on the planet to sit their all day waiting for someone to notice them.
+On my windowsill is a terrarium of succulents that Alex made. Have you ever noticed the quietness of still things? The way they almost breathe if you look at them for long enough? They must be the most patient things on the planet to sit there all day waiting for someone to notice them.
 
 ---
 
