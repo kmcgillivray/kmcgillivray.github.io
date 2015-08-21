@@ -21,7 +21,6 @@ title: Status
 ## Currently learning...
 
 * Landscape painting
-* Object-oriented Javascript
 * Javascript game development
 * History of the computer
 
@@ -34,5 +33,4 @@ title: Status
 ## Currently listening to...
 
 * We Have Concerns
-* Then Came the Morning – The Lone Bellow
 * Beachcomber's Windowsill – Stornoway
