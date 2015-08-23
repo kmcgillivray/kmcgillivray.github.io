@@ -3,6 +3,8 @@ layout: page
 title: Sketchbook
 ---
 
+![Statue](/img/statue-final.jpg)
+![Stromae](/img/stromae.jpg)
 ![Apple](/img/apple.jpg)
 ![Pomegranate](/img/pomegranate.jpg)
 ![Pear](/img/pear.jpg)
