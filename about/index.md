@@ -27,4 +27,4 @@ If you'd like to be notified when there's a new post available you can suscribe 
 
 <form action="https://tinyletter.com/kmcgillivray" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/kmcgillivray', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
 <input class="text-box" placeholder="Enter your email address..." type="text" name="email" id="tlemail" />
-<input type="hidden" value="1" name="embed"/><input class="button-secondary" type="submit" value="Subscribe" /></form>
+<input type="hidden" value="1" name="embed"/><input class="button-primary" type="submit" value="Subscribe" /></form>

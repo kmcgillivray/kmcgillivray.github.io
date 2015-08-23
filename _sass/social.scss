@@ -1,0 +1,10 @@
+.social a {
+  color: #3ba5cf;
+  border-bottom: 0;
+  font-size: .9rem;
+  transition: .3s opacity;
+}
+.social a:hover {
+  opacity: .5;
+  transition: .3s opacity;
+}
