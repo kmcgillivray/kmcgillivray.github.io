@@ -5,13 +5,12 @@ title: Status
 
 ## Currently working on...
 
-* Tea Guide
-* Spontaneous writing
-* Code Convoy
-* Kildall.com
+* [Tea Guide](http://teaguide.co)
+* [Spontaneous writing](/archive)
+* [Code Convoy](http://codeconvoy.com)
 * Apartment design
-* Sandcastle/Sandcastle Studio
-* Dicey
+* [Sandcastle/Sandcastle Studio](http://sandcastle.co)
+* [Dicey](http://sandcastle.co/dicey)
 
 ## Currently reading...
 
