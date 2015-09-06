@@ -15,7 +15,6 @@ title: Status
 ## Currently reading...
 
 * The Innovators – Walter Isaacson
-* Rework – Jason Fried, David Heinemeier Hansson
 
 ## Currently learning...
 
@@ -26,6 +25,7 @@ title: Status
 ## Currently playing...
 
 * Alto's Adventure
+* Divide by Sheep
 * Shovel Knight
 * Borderlands 2
 
@@ -33,3 +33,4 @@ title: Status
 
 * We Have Concerns
 * Beachcomber's Windowsill – Stornoway
+* Star of Love – Crystal Fighters
