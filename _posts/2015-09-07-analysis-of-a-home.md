@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Apollo and Dionysus"
+title: "Analysis of a Home"
 category: writing
-description: "This is Apollo and Dionysus. Classic and romantic. Square and hip."
+description: "A home is made of many parts. Let's list them."
 ---
 
 A home is made of many parts. Let's list them.
@@ -35,29 +35,25 @@ The people in the home have their own structure and their own systems. Their arm
 
 ---
 
-To define the home in pieces and parts is to leave an incomplete picture.
-
-To define the world in terms of atoms and physics is to leave out the experience of beauty or ugliness, joy or sorrow, connection or solitude that those atoms share.
-
-Immediate experience matters.
-
----
-
 Here's the thing that drives me most crazy in this world.
 
 There are two ways of looking at things.
 
 You can look analytically, in a "classical" mode of thought, and divide things into their component parts and functions. This way of thinking is logical, rational, slow, verbal, mathematical.
 
-Or you can look intuitively, in a "romantic" mode of thought, and see the immediate experience, the whole picture at once. This way of thinking is visual, intuitive, quick, and it's what makes people dance.
+Or you can look intuitively, in a "romantic" mode of thought, and see the immediate experience, the whole picture at once. This way of thinking is visual, intuitive, emotional, quick, and it's what makes people dance.
 
-This is Apollo and Dionysus. Classic and romantic. Square and hip. You can look at a home as how the house is built. Or you can look at a home as the people drinking wine on the couch.
+This is Apollo and Dionysus. Classic and romantic. Square and hip.
+
+You can look at a home as how the house is built. Or you can look at a home as the people drinking wine on the couch.
 
 In most situations, these two modes of thought are separated by an unfathomable distance. There is no bridge between them. You figure out which side you most align with and join that camp. You become an analytical person or an intuitive dreamer.
 
+---
+
 But here's the thing that drives me crazy.
 
-In order to do anything great, you need both sides. You need the logic and the magic. You need a way to get your brain to do both.
+In order to do anything great, you need both sides. You need the logic and the magic. You need a way to get your brain to do both. You have to build your own bridge across.
 
 There's a commonly held belief that creativity is only the intuitive "artistic" side, and that the logic and analytical thinking associated with accountants has nothing to do with it. But it's not. True creativity comes from the combination of the logic and the magic, the analytical and the intuitive, the structure and the beauty.
 
