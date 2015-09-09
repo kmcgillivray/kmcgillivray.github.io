@@ -3,15 +3,18 @@
 	<meta name="viewport" content="width=device-width">
 	<title>{{ site.title }} {% if page.title %}|{% endif %} {{ page.title}}</title>
   <meta name="description" content="Web developer, graphic designer, teacher. All about creativity, mindfulness, education, technology, and art.">
-	
+
 	<link rel="stylesheet" href="/css/normalize.css">
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="/css/syntax.css">
-  
+	{% if page.category == "gallery" %}
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fluidbox/1.4.3.1/css/fluidbox.css">
+	{% endif %}
+
   <script src="//use.typekit.net/zmv7dtr.js"></script>
   <script>try{Typekit.load();}catch(e){}</script>
-  
+
   <!-- Open Graph -->
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:type" content="article">
