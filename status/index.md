@@ -6,11 +6,11 @@ title: Status
 ## Currently working on...
 
 * [Tea Guide](http://teaguide.co)
+* [Dicey](http://sandcastle.co/dicey)
 * [Spontaneous writing](/archive)
 * [Code Convoy](http://codeconvoy.com)
+* [Sandcastle Curriculum](http://sandcastle.co)
 * Apartment design
-* [Sandcastle/Sandcastle Studio](http://sandcastle.co)
-* [Dicey](http://sandcastle.co/dicey)
 
 ## Currently reading...
 
