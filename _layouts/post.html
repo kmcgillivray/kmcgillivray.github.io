@@ -3,6 +3,10 @@ layout: page-wide
 newsletter: true
 ---
 
+{% if page.image %}
+  <img class="post-image" src="/img/{{ page.image }}">
+{% endif %}
+
 <div class="post">
   <div class="container-narrow">
     <div class="post-header">
@@ -10,9 +14,6 @@ newsletter: true
 	    <p class="post-meta">By Kevin McGillivray<br>{{ page.date | date: "%-d %B %Y" }}</p>
     </div>
   </div>
-  {% if page.image %}
-    <img class="post-image" src="/img/{{ page.image }}">
-  {% endif %}
   <div class="container-narrow">
     {{ content }}
   </div>
