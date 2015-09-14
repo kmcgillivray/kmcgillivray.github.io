@@ -19,3 +19,27 @@
 .main-scroll {
   margin-left: 25%;
 }
+.row {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.row:after {
+   content: " "; /* Older browser do not support empty content */
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}
+[class*="col-"] {
+  float: left;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.col-3 {
+  float: left;
+  width: 25%;
+}
+.col-8 {
+  float: left;
+  width: 75%;
+}
