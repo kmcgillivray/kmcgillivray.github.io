@@ -5,16 +5,15 @@ title: Status
 
 ## Currently working on...
 
-* [Tea Guide](http://teaguide.co)
+* [Code Convoy Courses](http://codeconvoy.com)
+* [Writing](/archive)
 * [Dicey](http://sandcastle.co/dicey)
-* [Spontaneous writing](/archive)
-* [Code Convoy](http://codeconvoy.com)
-* [Sandcastle Curriculum](http://sandcastle.co)
+* [Tea Guide](http://teaguide.co)
 * Apartment design
 
 ## Currently reading...
 
-* The Innovators – Walter Isaacson
+* Migraine – Oliver Sacks
 
 ## Currently learning...
 
