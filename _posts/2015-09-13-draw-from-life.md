@@ -35,9 +35,9 @@ And when that external thing is something really specific, something right here 
 
 ---
 
-*John Gordon:* Are you thinking about art?  
+*Teacher:* Are you thinking about art?  
 *Student:* Yes.  
-*John Gordon:* Don't. Art just happens.
+*Teacher:* Don't. Art just happens.
 
 ---
 
