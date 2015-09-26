@@ -1,0 +1,13 @@
+---
+---
+
+{"posts": [
+    {% for post in site.posts reversed %}
+    {
+      "title": "{{ post.title }}",
+      "words": {{ post.content | number_of_words }},
+      "date": "{{ post.date | date: "%-m/%-d/%Y" }}"
+    }{% if forloop.last == false %},{% endif %}
+    {% endfor %}
+  ]
+}
