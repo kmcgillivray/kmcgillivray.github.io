@@ -3,7 +3,7 @@ layout: page
 title: Status
 ---
 
-## Currently working on...
+### Currently working on...
 
 * [Code Convoy Courses](http://codeconvoy.com)
 * [Writing](/archive)
@@ -11,24 +11,25 @@ title: Status
 * [Tea Guide](http://teaguide.co)
 * Apartment design
 
-## Currently reading...
+### Currently reading...
 
 * Migraine – Oliver Sacks
+* Designing Design – Kenya Hara
 
-## Currently learning...
+### Currently learning...
 
 * Landscape painting
 * Javascript game development
 * History of the computer
 
-## Currently playing...
+### Currently playing...
 
 * Alto's Adventure
 * Divide by Sheep
 * Shovel Knight
 * Borderlands 2
 
-## Currently listening to...
+### Currently listening to...
 
 * We Have Concerns
 * Beachcomber's Windowsill – Stornoway
