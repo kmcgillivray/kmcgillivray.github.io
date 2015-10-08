@@ -24,7 +24,7 @@ title: Status
 
 ### Currently playing...
 
-* Alto's Adventure
+* Pokemon White
 * Divide by Sheep
 * Shovel Knight
 * Borderlands 2
