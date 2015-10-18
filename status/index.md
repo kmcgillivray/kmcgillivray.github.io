@@ -15,6 +15,7 @@ title: Status
 
 * Migraine – Oliver Sacks
 * Designing Design – Kenya Hara
+* The Personal MBA – Josh Kaufman
 
 ### Currently learning...
 
