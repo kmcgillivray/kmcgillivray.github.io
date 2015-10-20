@@ -2,7 +2,13 @@
   <div class="container-narrow">
     <div class="row">
       <div class="col-12">
+        {% if page.date %}
         <p class="post-date">Published {{ page.date | date: "%-d %B %Y" }}</p>
+        {% else %}
+        {% for post in site.categories.writing | limit: 1 %}
+        <p class="post-date">Published {{ post.date | date: "%-d %B %Y" }}</p>
+        {% endfor %}
+        {% endif %}
       </div>
       <div class="col-4">
         <a href="/about"><img class="img-profile" src="/img/kevin-profile.jpg"></a>
