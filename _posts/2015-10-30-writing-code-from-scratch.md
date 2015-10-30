@@ -99,8 +99,10 @@ image.addEventListener("click", function() {
 });
 ```
 
-This code may not be perfect either—there may be a better way to do the same thing. But at least you have a working example, and you can focus on making it better rather than just getting it working.
+## 4. Iterate
 
-## A note about specificity and abstraction
+This code may not be perfect either—there may be a better way to do the same thing. But at least you have a working example, and you can focus on making it better rather than just getting it working. For example, this code could be abstracted even further by abstracting out the color change code into its own function that other pieces of the code could use. Or there may be a better way to handle the loop altogether.
+
+## A note on specificity and abstraction
 
 When you go through this process, usually the code moves from specific, inflexible versions to more flexible and abstract code. Specific means that it can only be used to do one thing or in one situation, and abstract means it’s modular and flexible and can do more things in more situations. This is part of the sketching process when writing code. Again, don’t expect it to be perfectly modular and abstract right away. Get it working in any way you can even if it’s imperfect, then go back and improve it once you’ve made some progress. The thing to avoid is making no progress for a long time because being stuck will eventually completely erode your motivation. It’s a lot more fun to solve problems one step at a time than be overwhelmed by the whole mountain.
