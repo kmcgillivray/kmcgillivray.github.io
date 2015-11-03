@@ -7,31 +7,31 @@ title: Status
 
 * [Code Convoy Courses](http://codeconvoy.com)
 * [Writing](/archive)
+* [Sandcastle Website](http://dev.sandcastle.co)
 * [Dicey](http://sandcastle.co/dicey)
-* [Tea Guide](http://teaguide.co)
+* Underground concept art
 * Apartment design
 
 ### Currently reading...
 
+* Harry Potter and the Sorcerer's Stone – J. K. Rowling
+* Work – Thich Nhat Hanh
 * Migraine – Oliver Sacks
 * Designing Design – Kenya Hara
 * The Personal MBA – Josh Kaufman
 
 ### Currently learning...
 
-* Landscape painting
-* Javascript game development
-* History of the computer
+* Concept art drawing
+* Business concepts
 
 ### Currently playing...
 
 * Pokemon White
 * Divide by Sheep
-* Shovel Knight
-* Borderlands 2
 
 ### Currently listening to...
 
-* We Have Concerns
-* Beachcomber's Windowsill – Stornoway
-* Star of Love – Crystal Fighters
+* [We Have Concerns](http://www.wehaveconcerns.com)
+* [Hello from the Magic Tavern](http://hellofromthemagictavern.com)
+* Chaleur Humaine – Christine and the Queens
