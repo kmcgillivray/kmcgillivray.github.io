@@ -9,7 +9,7 @@ Tutorials are great for seeing examples of code and how coding languages are put
 
 What you need isn’t the solution (which is what tutorials give you), but a set of strategies and creative problem solving skills that you can use to combine the building blocks that you’ve learned through tutorials into your own original solutions.
 
-Here’s are the key parts of the strategy I use to write code from scratch when I know what I want the code to do, but I’m not sure how to put it into the syntax a computer will understand.
+Here are the key parts of the strategy I use to write code from scratch when I know what I want the code to do, but I’m not sure how to put it into the syntax a computer will understand.
 
 ## 1. Start with pseudo-code.
 
@@ -30,7 +30,7 @@ Before beginning this step, the most important thing to keep in mind is that the
 
 Using your pseudo-code, break it down into tiny, tiny pieces that you can tackle individually and do them one at a time. If you don’t know how exactly to write something in the correct syntax, this is a good time to do some research and look it up.
 
-In this example, we're taking the pseudo-code from the previous example and simply getting the image to respond to a click:
+In the next example, we're taking the pseudo-code from the previous example and simply getting the image to respond to a click:
 
 ```
 var image = document.getElementById('image');
