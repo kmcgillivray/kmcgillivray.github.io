@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Writing Code from Scratch"
-category: writing
+category: writing, code
 description: "The mystery of one way streets."
 ---
 
