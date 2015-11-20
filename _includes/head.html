@@ -25,4 +25,7 @@
   {% else %}
   <meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 200}}">
   {% endif %}
+	{% if page.social-image %}
+	<meta property="og:image" content="/img/{{ page.social-image }}">
+	{% endif %}
 </head>
