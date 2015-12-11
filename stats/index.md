@@ -4,5 +4,21 @@ title: Stats
 ---
 
 <div class="container" style="max-width: 980px;">
-  <canvas id="myChart" width="400" height="200"></canvas>
+  <h1>Stats</h1>
+  <div class="row">
+    <div class="stat col-4">
+      <h2>Number of posts</h2>
+      <h3>{{ site.posts | size }}</h3>
+    </div>
+    <div class="stat col-4">
+      <h2>Total number of words</h2>
+      <h3 id="total-words"></h3>
+    </div>
+    <div class="stat col-4">
+      <h2>Average number of words per post</h2>
+      <h3 id="average-words"></h3>
+    </div>
+  </div>
+  <h2>Number of words per post</h2>
+  <canvas id="myChart"></canvas>
 </div>

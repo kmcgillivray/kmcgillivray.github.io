@@ -1,5 +1,12 @@
 $.getJSON("/js/posts.json", callback);
 
+// Add commas to numbers
+$.fn.digits = function(){
+    return this.each(function(){
+        $(this).text( $(this).text().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1,") );
+    })
+}
+
 Date.prototype.addDays = function(days) {
     var dat = new Date(this.valueOf())
     dat.setDate(dat.getDate() + days);
@@ -16,58 +23,30 @@ function getDates(startDate, stopDate) {
     return dateArray;
 }
 
-/* function callback(data) {
-  var dateArray = getDates(new Date(data.posts[0].date), new Date());
-  var labels = [];
-  var chartData = [];
-  var postCount = 0;
-
-  for (i = 0; i < dateArray.length; i++) {
-    var currentDay = dateArray[i].getDate();
-    var currentMonth = dateArray[i].getMonth() + 1;
-    var currentYear = dateArray[i].getFullYear();
-    var currentDate = currentMonth + "/" + currentDay + "/" + currentYear;
-    // chartData.push({
-    //  "date": currentDate
-    // });
-    labels.push(currentDate);
-  }
-
-  var numberOfPosts = 0;
-
-  labels.forEach(function(label) {
-    // count the number of posts matching that date
-    for (i=0; i < data.posts.length; i++) {
-      if (data.posts[i].date == label) {
-        numberOfPosts++;
-      }
-    }
-    chartData.push(numberOfPosts);
-  });
-
-  console.log(labels.length);
-  console.log(chartData);
-
-  createChart(labels, chartData);
-
+function callback(data) {
+  createStats(data);
+  createChart(data);
 }
 
-*/
+function createStats(data) {
+  var totalWords = 0;
+  for (var i = 0; i < data.posts.length; i++) {
+    totalWords += data.posts[i].words;
+  }
+  console.log(totalWords);
+  var averageWords = Math.round(totalWords / data.posts.length);
+  console.log(averageWords);
+  $('#total-words').text(totalWords).digits();
+  $('#average-words').text(averageWords).digits();
+}
 
-function callback(data) {
+function createChart(data) {
   var labels = [];
   var wordCounts = [];
   for (i = 0; i < data.posts.length; i++) {
     labels.push(i);
     wordCounts.push(data.posts[i].words);
   }
-  console.log(labels);
-  console.log(wordCounts);
-  createChart(labels, wordCounts);
-}
-
-function createChart(labels, data) {
-  console.log(data);
   var chartData = {
     labels: labels,
     datasets: [
@@ -79,7 +58,7 @@ function createChart(labels, data) {
         pointStrokeColor: "#fff",
         pointHighlightFill: "#fff",
         pointHighlightStroke: "rgba(151,187,205,1)",
-        data: data
+        data: wordCounts
       }
     ]
   }
