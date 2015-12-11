@@ -33,9 +33,7 @@ function createStats(data) {
   for (var i = 0; i < data.posts.length; i++) {
     totalWords += data.posts[i].words;
   }
-  console.log(totalWords);
   var averageWords = Math.round(totalWords / data.posts.length);
-  console.log(averageWords);
   $('#total-words').text(totalWords).digits();
   $('#average-words').text(averageWords).digits();
 }

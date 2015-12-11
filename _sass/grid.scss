@@ -16,33 +16,31 @@
   padding-top: 20px;
   padding-bottom: 20px;
 }
-.main-scroll {
-  margin-left: 25%;
+.row {
+  margin-left: -15px;
+  margin-right: -15px;
 }
-@media (min-width: 760px) {
-  .row {
-    margin-left: -15px;
-    margin-right: -15px;
-  }
-  .row:after {
-     content: " ";
-     visibility: hidden;
-     display: block;
-     height: 0;
-     clear: both;
-  }
-  [class*="col-"] {
-    float: left;
-    padding-left: 15px;
-    padding-right: 15px;
-  }
-  .col-4 {
-    width: 33.33333%;
-  }
-  .col-8 {
-    width: 75%;
-  }
-  .col-12 {
-    width: 100%;
-  }
+.row:after {
+   content: " ";
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}
+[class*="col-"] {
+  float: left;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.col-3 {
+  width: 25%;
+}
+.col-4 {
+  width: 33.33333%;
+}
+.col-8 {
+  width: 75%;
+}
+.col-12 {
+  width: 100%;
 }
