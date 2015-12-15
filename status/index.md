@@ -12,7 +12,8 @@ title: Status
 ### Currently reading...
 
 * The Metamorphosis – Franz Kafka
-* Harry Potter and the Chamber of Secrets – J. K. Rowling
+* Living Buddha, Living Christ – Thich Nhat Hanh
+* Harry Potter and the Prisoner of Azkaban– J. K. Rowling
 * Migraine – Oliver Sacks
 * Designing Design – Kenya Hara
 * The Personal MBA – Josh Kaufman
