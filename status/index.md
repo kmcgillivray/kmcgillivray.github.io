@@ -11,7 +11,6 @@ title: Status
 
 ### Currently reading...
 
-* The Metamorphosis – Franz Kafka
 * Living Buddha, Living Christ – Thich Nhat Hanh
 * Harry Potter and the Prisoner of Azkaban– J. K. Rowling
 * Migraine – Oliver Sacks
@@ -25,6 +24,8 @@ title: Status
 ### Currently playing...
 
 * Pokemon White
+* A Dark Room
+* A Good Snowman is Hard to Build
 * Bears vs. Art
 
 ### Currently listening to...
