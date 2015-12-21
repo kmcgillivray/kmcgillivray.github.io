@@ -2,7 +2,7 @@
 layout: post
 title: "A Love Song"
 category: writing
-description: "Shelter, refuge, sanctuary, home."
+description: "High and low."
 ---
 
 I love you high and low  

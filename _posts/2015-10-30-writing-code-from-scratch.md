@@ -2,7 +2,7 @@
 layout: post
 title: "Writing Code from Scratch"
 category: writing, code
-description: "The mystery of one way streets."
+description: "What to do when you have to come up with your own answers."
 ---
 
 Tutorials are great for seeing examples of code and how coding languages are put together. But what happens when you’re far away from the safety of the examples in tutorials and need to write your own code from scratch? This requires a very different set of skills that tutorials typically don’t teach.
