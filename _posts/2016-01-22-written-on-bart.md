@@ -2,7 +2,7 @@
 layout: post
 title: "Written on BART"
 category: writing
-description: "You can't predict when an interaction is going to make an impression on you."
+description: 'Last July, I was inspired by Buster Benson's "Written on BART" posts to try a more spontaneous style of writing.'
 ---
 
 Last July, I was inspired by [Buster Benson's "Written on BART"](https://writtenonbart.com) posts to try a more spontaneous style of writing.
