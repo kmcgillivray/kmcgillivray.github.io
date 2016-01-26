@@ -28,3 +28,12 @@ It also helps that I have to publish it without editing (very much anyway). I ca
 Anyway, as per the rules, I'm almost to the airport and my BART ride is almost over so I'll sign off!
 
 Thanks [Buster](http://twitter.com/buster) for the inspiration!
+
+---
+
+Here are some of my favorite posts from the past six months that I've written this way:
+
+* [Farmer's Market](/farmers-market)
+* [To those who aren't afraid to get up early](/early)
+* [Crumpets](/crumpets)
+* [Making is Breathing](/making-is-breathing)
