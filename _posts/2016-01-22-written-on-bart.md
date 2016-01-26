@@ -2,7 +2,7 @@
 layout: post
 title: "Written on BART"
 category: writing
-description: 'Last July, I was inspired by Buster Benson's "Written on BART" posts to try a more spontaneous style of writing.'
+description: 'Last July, I was inspired by Buster Benson's Written on BART posts to try a more spontaneous style of writing.'
 ---
 
 Last July, I was inspired by [Buster Benson's "Written on BART"](https://writtenonbart.com) posts to try a more spontaneous style of writing.
