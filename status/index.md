@@ -23,7 +23,6 @@ title: Status
 ### Currently playing...
 
 * Pokemon White
-* A Dark Room
 * A Good Snowman is Hard to Build
 
 ### Currently listening to...
