@@ -11,7 +11,7 @@ title: Status
 ### Currently reading...
 
 * Living Buddha, Living Christ – Thich Nhat Hanh
-* Kafka on the Shore – Haruki Murakami
+* Lila – Robert Pirsig
 * Migraine – Oliver Sacks
 * Designing Design – Kenya Hara
 * The Personal MBA – Josh Kaufman
