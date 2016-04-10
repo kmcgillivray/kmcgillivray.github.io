@@ -1,3 +1,6 @@
+- name: Self-portrait
+  file: self-portrait.jpg
+
 - name: Statue
   file: statue-final.jpg
 
