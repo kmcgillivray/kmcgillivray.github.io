@@ -7,14 +7,15 @@ title: Status
 
 * [Code Convoy Courses](http://codeconvoy.com)
 * [Writing](/archive)
+* [Sandcastle](http://sandcastle.co) game development
+* [Andrew Napier's Website](http://andrewnapier.com)
 
 ### Currently reading...
 
-* Living Buddha, Living Christ – Thich Nhat Hanh
 * Lila – Robert Pirsig
 * Migraine – Oliver Sacks
-* Designing Design – Kenya Hara
 * The Personal MBA – Josh Kaufman
+* Feminism is for Everybody – bell hooks
 
 ### Currently learning...
 
@@ -22,12 +23,10 @@ title: Status
 
 ### Currently playing...
 
-* Pokemon White
-* A Good Snowman is Hard to Build
+* You Must Build a Boat
+* Assassin's Creed: Black Flag
 
 ### Currently listening to...
 
 * [We Have Concerns](http://www.wehaveconcerns.com)
 * [Hello from the Magic Tavern](http://hellofromthemagictavern.com)
-* Another Eternity – Purity Ring
-* Tales from Terra Firma – Stornoway
