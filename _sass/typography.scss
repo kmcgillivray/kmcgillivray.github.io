@@ -50,6 +50,17 @@ a:hover {
   opacity: .65;
   transition: .25s all
 }
+figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+@media(min-width: 980px) {
+  figure {
+    margin-left: -50px;
+    margin-right: -50px;
+  }
+}
+
 hr {
 	border-top: 1px solid $neutral;
   width: 40%;
