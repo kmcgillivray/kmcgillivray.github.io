@@ -47,9 +47,9 @@ The logic may not be completely correct after you write it out or sketch it out,
 
 Before beginning this step, the most important thing to keep in mind is that the code you’re writing doesn’t have to be perfect the first time. It’s important to just get one tiny piece of the overall functionality working so you can get some feedback and make some progress. Even if it will have to be adjusted later, each step results in feedback and a few pieces of code you can use moving forward.
 
-Using your pseudo-code, break it down into tiny, tiny pieces that you can tackle individually and do them one at a time. If you don’t know how exactly to write something in the correct syntax, this is a good time to do some research and look it up.
+Using your pseudocode, break it down into tiny, tiny pieces that you can tackle individually and do them one at a time. If you don’t know how exactly to write something in the correct syntax, this is a good time to do some research and look it up.
 
-In the next example, we're taking the pseudo-code from the previous example and simply write a line to store the list of words:
+In the next example, we're taking the pseudocode from the previous example and translating one line to store the list of words:
 
 {% highlight javascript %}
 {% raw %}
@@ -107,7 +107,7 @@ console.log(longestWord);
 {% endraw %}
 {% endhighlight %}
 
-Notice how I'm using a `console.log` just to make sure the loop is working before I even try to do the next step of comparing the words. Sometimes lines of pseudo code need to be broken down into even smaller steps.
+Notice how I'm using a `console.log` just to make sure the loop is working before I even try to do the next step of comparing the words. Sometimes lines of pseudocode need to be broken down into even smaller steps.
 
 Testing along the way makes debugging much easier down the road. If you try to write the whole script and then it doesn't work, you might have no idea where in the script the issue is. If you test along the way, you can move forward with confidence that what you've written so far is working. When it comes to debugging, knowledge is power. The more you test, the more you know about how your script is working.
 
@@ -204,8 +204,10 @@ This process often requires more jumping back and forth between pseudocode and t
 
 ## Rough drafts are specific, final drafts are modular
 
-When you go through this process, usually the code moves from specific, inflexible versions to more flexible and abstract code. Specific means that it can only be used to do one thing or in one situation, and abstract means it’s modular and flexible and can do more things in more situations. This is part of the sketching process when writing code. Again, don’t expect it to be perfectly modular and abstract right away. Get it working in any way you can even if it’s imperfect, then go back and improve it once you’ve made some progress. The thing to avoid is making no progress for a long time because being stuck will eventually completely erode your motivation. It’s a lot more fun to solve problems one step at a time than be overwhelmed by the whole mountain.
+When you go through this process, usually the code moves from specific, inflexible versions to more flexible and abstract code. Specific means that it can only be used to do one thing or in one situation, and abstract means it’s reusable and able to be used in multiple situations. In this example, we made the code work for one specific set of data, then made it an abstract reusable function.
 
-Again, this process doesn't have to be followed every time–as you gain experience you become more fluent in writing code so you don't need as many steps. However, even experienced developers run into complex problems and need to step back and go through a process similar to this one to find a solution.
+This is part of the sketching process when writing code—don’t expect it to be perfectly modular right away. Get it working in any way you can even if it’s imperfect, then go back and improve it once you’ve made some progress. The thing to avoid is making no progress for a long time because being stuck will eventually completely erode your motivation. It’s a lot more fun to solve problems one step at a time than be overwhelmed by the whole mountain.
+
+This process doesn't have to be followed every time–as you gain experience you become more fluent in writing code so you don't need as many steps and you can skip ahead. However, even experienced developers run into complex problems and need to step back and go through a process similar to this one to find a solution.
 
 Questions, comment, ideas? Let's talk on [Twitter](http://twitter.com/kev_mcg)!
