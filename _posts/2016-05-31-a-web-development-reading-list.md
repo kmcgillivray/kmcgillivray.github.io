@@ -2,8 +2,7 @@
 layout: post
 title: "A Web Development Reading List"
 category: development
-description: ""
-preview: ""
+description: "Collecting a reading list of important and influential writing for web development students."
 ---
 
 Whenever I'm teaching web development or helping someone get into web development, I often give students a reading list of some of my favorite articles from people who write about the web, technology, and programming in general. I try to include articles that are seminal and influential, articles that have made significant contributions to new web development concepts or are a clear milestone expressing a piece of the history of web development, but often they're simply articles that I enjoy a lot.
