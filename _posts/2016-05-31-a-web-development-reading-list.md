@@ -5,9 +5,9 @@ category: development
 description: "Collecting a reading list of important and influential writing for web development students."
 ---
 
-Whenever I'm teaching web development or helping someone get into web development, I often give students a reading list of some of my favorite articles from people who write about the web, technology, and programming in general. I try to include articles that are seminal and influential, articles that have made significant contributions to new web development concepts or are a clear milestone expressing a piece of the history of web development, but often they're simply articles that I enjoy a lot.
+When I'm teaching web development, I often give students a reading list of some of my favorite articles from people who write about the web, technology, and programming in general. I try to include articles that are seminal and influential, articles that have made significant contributions to new web development concepts or are a clear milestone expressing a piece of the history of web development, but often they're simply articles that I enjoy a lot.
 
-This benefits students by introducing them to specific writers who are leaders in the field and by giving them better understanding of the history of web development and why certain principles like progressive enhancement are still important as a primary value of the web. It also gives them a framework for making better technological decisions based on the key themes and arguments within the history and philosophy of web development.
+This benefits students by introducing them to specific writers who are leaders in the field and by giving them better understanding of the history of web development and why certain principles like progressive enhancement or semantic markup are still important as a primary value of the web. It also gives them a framework for making better technological decisions based on the key themes and arguments within the history and philosophy of web development.
 
 Here's the list, organized into a few categories. There is a general history and philosophy of the web reading list, followed by lists for specific debates within the industry (just one right now). Please [let me know](http://twitter.com/kev_mcg) if you have any suggestions for pieces to add to the list.
 
