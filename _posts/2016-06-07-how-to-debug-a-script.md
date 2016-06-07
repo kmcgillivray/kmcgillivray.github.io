@@ -2,7 +2,7 @@
 layout: post
 title: "How to Debug a Script"
 category: development
-description: ""
+description: "Besides solving the issue you're stuck on, figuring out what the issue is in the first place is half the battle. But how do you start? How do you comb through the mess of code in front of you and find the issue? Here are a few strategies you can use to get started and work toward finding the issue and solving it."
 ---
 
 As a programmer, it’s rare to have a day where you don’t get stuck on something. Getting stuck isn’t a bad thing, it’s a normal part of any programming—and it’s often when you learn the most. Usually this stuckness happens in situations when:
