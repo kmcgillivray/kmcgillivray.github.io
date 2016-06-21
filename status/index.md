@@ -8,13 +8,12 @@ title: Status
 * [Code Convoy Courses](http://codeconvoy.com)
 * [Writing](/archive)
 * [Sandcastle](http://sandcastle.co) game development
-* [Andrew Napier's Website](http://andrewnapier.com)
 
 ### Currently reading...
 
 * Lila – Robert Pirsig
-* Migraine – Oliver Sacks
-* The Personal MBA – Josh Kaufman
+* The Timeless Way of Building – Christopher Alexander
+* Reasons to Stay Alive – Matt Haig
 * Feminism is for Everybody – bell hooks
 
 ### Currently learning...
