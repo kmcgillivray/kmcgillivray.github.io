@@ -14,7 +14,7 @@ newsletter: true
     	  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
         <p class="post-date">{{ post.date | date: "%-d %B %Y" }}</p>
       </div>
-      {{ post.content | truncate: 600 }}
+      {{ post.excerpt }}
       <p><a class="button-primary" style="margin-top: 10px;" href="{{ post.url }}">Read more</a></p>
     </div>
     <hr>
