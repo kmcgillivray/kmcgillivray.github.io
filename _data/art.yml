@@ -1,3 +1,6 @@
+- name: Flower
+  file: flower.jpg
+
 - name: Self-portrait
   file: self-portrait.jpg
 
