@@ -28,7 +28,7 @@ I began looking for opportunities to start teaching in my daily work, and eventu
 I believe the best education is deeply interdisciplinary, a lifelong practice, defined mainly by enthusiasm and curiosity, and that education is the ["practice of freedom."](https://amzn.com/0415908086) I have a deep love of learning and a love of learners, and I approach education as an end in itself.
 
 > "The best teacher in the world is somebody who loves what he or she does and just loves it in front of you."
->–[Fred Rogers]() – link here
+>–[Fred Rogers](https://youtu.be/eOLDFojJvYA)
 
 > Study (verb) – based on Latin "studium", meaning zeal or enthusiasm.
 
