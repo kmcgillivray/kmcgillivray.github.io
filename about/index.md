@@ -32,6 +32,26 @@ I believe the best education is deeply interdisciplinary, a lifelong practice, d
 
 > Study (verb) – based on Latin "studium", meaning zeal or enthusiasm.
 
+# Code
+
+Programming is a seed that grew slowly in my interests for many years before exploding unexpectedly. When I was twelve, my dad taught me a bit of HTML. I didn't do much more than that, but it planted the seed for web development in my future. I continued to have an interest in technology, played a lot of text based games, first on MS DOS and then online (which I only later realized was great training for the command line), and generally wondered about computers. And I grew up along with the internet, constantly using it as a portal to interact with and learn about the world.
+
+But programming took a back seat to music after that. Playing the piano was so much fun that it took the majority of my focus for the next nine years. Of course, later I realized that music theory and music composition are incredibly similar to programming, and my love of the writing and studying the structure music is the same interest that later attracted me to programming—the skills I learned while studying music would be very helpful for programming.
+
+In college, I took a web design class and decided I would try my hand at building a website. Ever since that class, my curiosity and drive to explore web development has grown deeper and deeper. I've always [loved the web](https://adactio.com/journal/9016) for it's openness, it's quirkiness, and it's dazzling vastness, and I love to contribute my own voice and ideas to its collection of human culture.
+
+Programming brings together my love of music, words, chess, math, and education. It's challenging, creative, and deeply rewarding. I didn't expect my educational journey through the fine arts and humanities to lead me to a seemingly technical subject like programming, but it's become an essential way for me to explore and connect all of my interests.
+
+# Tea
+
+I never knew you could love a beverage until I met Alex. In 2010, she would make tea while we worked on homework, and just like programming, that planted a seed that would quickly grow into a wild enthusiasm.
+
+<p data-pullquote='"Strangely enough humanity has so far met in the teacup." —Okakura Kakuzo, the Book of Tea'></p>
+
+On January 5th, 2011, I spend my first day studying abroad in Liverpool. Due to my jet lag, I woke up around 3:30 AM, and I was starving. I had no food, so I wandered down the security room by the entrance to my campus, and I asked the security guards, Geoff and Malcolm, if they knew of any places nearby that were open where I could find breakfast or anything edible. Of course, nothing was open, but they had me come in and they made me tea and gave me some biscuits. Maybe it was my need for sustenance, or maybe it was my pre-existing dedication to embracing all things British, or maybe it was some kind of symbol to do with survival and care across cultures, but I'll never forget that cup of tea. At that moment, my curiosity and desire to learn more about tea grew even more.
+
+On February 1st, 2015, my flight out of San Francisco was cancelled. I used my extra time in the city to go to [Samovar](http://www.samovartea.com), the famous Bay Area tea house. I already loved tea, but when I drank the gyokuro tea at Samovar, a [whole world of tea](http://teaguide.co) I didn't know existed opened up. Before Samovar, after Samovar.
+
 ---
 
 # This blog will self-destruct in...
