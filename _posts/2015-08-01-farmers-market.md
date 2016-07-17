@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Farmer's Market"
+title: "Farmers' Market"
 category: writing
 description: "It's 12:00 and I'm walking fast because the market closes sometime between now and a little while from now. I'm on a mission to get some flowers."
 ---
@@ -11,7 +11,7 @@ It's 12:00 and I'm walking fast because the market closes sometime between now a
 
 Being able to walk down the street to get flowers is something like a dream.
 
-One time I had a dream that I was eating a plate of flowers. They kind of looked like the ones I ended up getting from the farmer's market. I've spent a lot of time wondering about the symbolism of eating flowers.
+One time I had a dream that I was eating a plate of flowers. They kind of looked like the ones I ended up getting from the farmers' market. I've spent a lot of time wondering about the symbolism of eating flowers.
 
 ---
 
@@ -37,7 +37,7 @@ I hand him a $10 bill and shake his hand and say thanks. The woman hands me the 
 
 ---
 
-Maybe this is the purpose of farmer's markets. Small transactions, equal trade of value for value, but multiplication of beauty and community. A gift economy where each person walks away richer.
+Maybe this is the purpose of farmers' markets. Small transactions, equal trade of value for value, but multiplication of beauty and community. A gift economy where each person walks away richer.
 
 ---
 
