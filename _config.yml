@@ -3,6 +3,6 @@ url: kevinmcgillivray.net
 markdown: kramdown
 highlighter: pygments
 permalink: /:title
-description: "Designer, currently making Internet things. I like iterative creativity, simplicity, and tea. My favorite word is 'studio.'"
+description: "Kevin McGillivray is a teacher and web developer from Wisconsin. He writes about creativity, mindfulness, code, and tea."
 collections:
   - projects
