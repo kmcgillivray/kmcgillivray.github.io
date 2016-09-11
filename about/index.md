@@ -27,10 +27,11 @@ I began looking for opportunities to start teaching in my daily work, and eventu
 
 I believe the best education is deeply interdisciplinary, a lifelong practice, defined mainly by enthusiasm and curiosity, and that education is the ["practice of freedom."](https://amzn.com/0415908086) I have a deep love of learning and a love of learners, and I approach education as an end in itself.
 
-> "The best teacher in the world is somebody who loves what he or she does and just loves it in front of you."
+>"The best teacher in the world is somebody who loves what he or she does and just loves it in front of you."
+>
 >–[Fred Rogers](https://youtu.be/eOLDFojJvYA)
 
-> Study (verb) – based on Latin "studium", meaning zeal or enthusiasm.
+>Study (verb) – based on Latin "studium", meaning zeal or enthusiasm.
 
 # Code
 
@@ -46,11 +47,15 @@ Programming brings together my love of music, words, chess, math, and education.
 
 I never knew you could love a beverage until I met Alex. In 2010, she would make tea while we worked on homework, and just like programming, that planted a seed that would quickly grow into a wild enthusiasm.
 
-<p data-pullquote='"Strangely enough humanity has so far met in the teacup." —Okakura Kakuzo, the Book of Tea'></p>
+On January 5th, 2011, I spend my first day studying abroad in Liverpool. Due to my jet lag, I woke up around 3:30 AM, and I was starving. I had no food, so I wandered down the security room by the entrance to my campus, and I asked the security guards, Geoff and Malcolm, if they knew of any places nearby that were open where I could find breakfast or anything edible.
 
-On January 5th, 2011, I spend my first day studying abroad in Liverpool. Due to my jet lag, I woke up around 3:30 AM, and I was starving. I had no food, so I wandered down the security room by the entrance to my campus, and I asked the security guards, Geoff and Malcolm, if they knew of any places nearby that were open where I could find breakfast or anything edible. Of course, nothing was open, but they had me come in and they made me tea and gave me some biscuits. Maybe it was my need for sustenance, or maybe it was my pre-existing dedication to embracing all things British, or maybe it was some kind of symbol to do with survival and care across cultures, but I'll never forget that cup of tea. At that moment, my curiosity and desire to learn more about tea grew even more.
+Of course, nothing was open, but they had me come in and they made me tea and gave me some biscuits. Maybe it was my need for sustenance, or maybe it was my pre-existing dedication to embracing all things British, or maybe it was some kind of symbol to do with survival and care across cultures, but I'll never forget that cup of tea. At that moment, my curiosity and desire to learn more about tea grew even more.
 
-On February 1st, 2015, my flight out of San Francisco was cancelled. I used my extra time in the city to go to [Samovar](http://www.samovartea.com), the famous Bay Area tea house. I already loved tea, but when I drank the gyokuro tea at Samovar, a [whole world of tea](http://teaguide.co) I didn't know existed opened up. Before Samovar, after Samovar.
+Four years later, on February 1st, 2015, my flight out of San Francisco was cancelled. I used my extra time in the city to go to [Samovar](http://www.samovartea.com), the famous Bay Area tea house. I already loved tea, but when I drank the gyokuro tea at Samovar, a [whole world of tea](http://teaguide.co) I didn't know existed opened up. Before Samovar, after Samovar.
+
+>"Strangely enough humanity has so far met in the teacup."
+>
+>—Okakura Kakuzo, the Book of Tea
 
 ---
 

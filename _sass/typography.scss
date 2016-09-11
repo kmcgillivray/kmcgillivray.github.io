@@ -50,17 +50,6 @@ a:hover {
   opacity: .65;
   transition: .25s all
 }
-figure {
-  margin-left: 0;
-  margin-right: 0;
-}
-@media(min-width: 980px) {
-  figure {
-    margin-left: -50px;
-    margin-right: -50px;
-  }
-}
-
 hr {
 	border-top: 1px solid $neutral;
   width: 40%;
@@ -82,6 +71,10 @@ ul li {
 .basic-list {
   list-style: none;
   padding-left: 0;
+}
+.list-inline li {
+  display: inline-block;
+  padding-right: 1.25rem;
 }
 blockquote {
   background-color: #FAFAFA;
@@ -129,6 +122,16 @@ code {
   font-size: .75rem;
   white-space:pre;
   white-space:pre-wrap;
+}
+figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+@media(min-width: 980px) {
+  figure {
+    margin-left: -50px;
+    margin-right: -50px;
+  }
 }
 .caption {
   font-size: .9rem;
