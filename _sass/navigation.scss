@@ -6,7 +6,6 @@
 .nav-name {
   width: 100%;
   text-align: center;
-  font-weight: bold;
   display: inline-block;
   color: $main-color;
   border-top: 5px solid $main-color;
@@ -15,18 +14,26 @@
   .nav-name {
     width: initial;
     text-align: left;
-    font-weight: normal;
     border-top: 0;
     border-left: 10px solid $main-color;
   }
 }
 .nav a {
   display: inline-block;
-  padding: 15px;
+  padding: 10px;
   border-bottom: none;
 }
 .nav-menu {
   display: inline-block;
+  margin-bottom: 1rem;
+}
+@media(min-width: 768px) {
+  .nav a {
+    padding: 15px;
+  }
+  .nav-menu {
+    margin-bottom: 0;
+  }
 }
 .nav-right {
   float: right;
@@ -62,4 +69,8 @@
   .nav-menu .active a {
     border-bottom: 1px solid $main-color;
   }
+}
+.nav-menu .fa {
+  color: $light-grey;
+  font-size: .6rem;
 }
