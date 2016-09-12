@@ -3,28 +3,25 @@
         <a class="nav-name" href="/">Kevin McGillivray</a>
   		  <nav class="nav-menu">
   		  	<ul>
-            <li>
+            <li {% if page.home %}class="active"{% endif %}>
               <a href="/">Latest Post</a>
             </li>
-						<li>
+						<li {% if page.title == "Archive" %}class="active"{% endif %}>
 							<a href="/archive">Archive</a>
 						</li>
-            <!--<li>
-              <a href="/projects">Projects</a>
-            </li>-->
-						<li>
+						<li {% if page.title == "Code" %}class="active"{% endif %}>
 							<a href="/code">Code</a>
 						</li>
-  		  		<li>
+  		  		<li {% if page.title == "Sketchbook" %}class="active"{% endif %}>
   		  			<a href="/sketchbook">Sketchbook</a>
   		  		</li>
 						<li>
-  		  			<a href="http://teaguide.co">Tea</a>
+  		  			<a target="_blank" href="http://teaguide.co">Tea</a>
   		  		</li>
-  		  		<li>
+  		  		<li {% if page.title == "About" %}class="active"{% endif %}>
   		  			<a href="/about">About</a>
   		  		</li>
-            <li>
+            <li {% if page.title == "Status" %}class="active"{% endif %}>
               <a href="/status">Status</a>
             </li>
   		  	<ul>

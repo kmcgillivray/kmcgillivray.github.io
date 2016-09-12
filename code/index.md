@@ -1,6 +1,7 @@
 ---
 layout: page-wide
 newsletter: true
+title: Code
 ---
 
 <div class="container-narrow">

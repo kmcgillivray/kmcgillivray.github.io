@@ -46,5 +46,20 @@
 .nav-menu ul li {
   display: inline-block;
   margin-left: 10px;
-  margin-bottom: 0;
+  margin-bottom: -1px;
+  opacity: .45;
+}
+.nav-menu .active {
+  opacity: 1;
+}
+.nav-menu .active a {
+  border-bottom: 0;
+}
+@media (min-width: 768px) {
+  .nav-menu ul li {
+    opacity: 1;
+  }
+  .nav-menu .active a {
+    border-bottom: 1px solid $main-color;
+  }
 }
