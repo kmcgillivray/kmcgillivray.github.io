@@ -44,11 +44,11 @@ p {
 a {
 	text-decoration: none;
 	color: $main-color;
-  transition: .25s all
+  transition: .25s opacity;
 }
 a:hover {
   opacity: .65;
-  transition: .25s all
+  transition: .25s opacity;
 }
 hr {
 	border-top: 1px solid $neutral;
