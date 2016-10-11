@@ -1,3 +1,6 @@
+- name: Fabric
+  file: fabric.jpg
+  
 - name: Flower
   file: flower.jpg
 
