@@ -4,6 +4,7 @@ title: "October in Wisconsin"
 category: writing
 description: "It’s time for the world to start all over again and for you to learn how to be what you will become."
 image: october-in-wisconsin.jpg
+social-image: october-in-wisconsin.jpg
 ---
 
 There are three types of days in October in Wisconsin.
