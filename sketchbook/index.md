@@ -1,8 +1,7 @@
 ---
-layout: page-wide
+layout: plain
 title: Sketchbook
 category: gallery
-newsletter: true
 ---
 
 <div class="cf bg-dark-gray ph4 pv3 pa0-ns">
@@ -20,5 +19,8 @@ newsletter: true
     {% for art in site.data.art["col3"] %}
       <a href="/img/{{ art.file }}" data-fluidbox><img class="mb3 br0 ba bw5 b--light-gray" src="/img/{{ art.file }}" alt="{{ art.name }}"></a>
     {% endfor %}
+  </div>
+  <div class="fl w-100 ph4-ns pv3 pv4-ns tc">
+    <p class="center light-gray measure-wide lh-copy ba b--light-silver bw3 pa4"><a class="light-silver" href="/about">Kevin McGillivray</a> is a <a class="light-silver" href="http://codeconvoy.com" target="_blank">teacher</a> and <a class="light-silver" href="http://sandcastle.co" target="_blank">web developer</a> from Wisconsin.<br>He <a class="light-silver" href="/">writes</a> about creativity, mindfulness, <a class="light-silver" href="/code">code</a>, and <a class="light-silver" href="http://teaguide.co" target="_blank">tea</a>.<br>He <a class="light-silver" href="http://twitter.com/kev_mcg" target="_blank">tweets</a> and <a class="light-silver" href="http://kevinschmevin.com" target="_blank">tumbles</a>.</p>
   </div>
 </div>
