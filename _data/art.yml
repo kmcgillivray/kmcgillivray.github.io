@@ -1,47 +1,33 @@
-- name: Fabric
-  file: fabric.jpg
-  
-- name: Flower
-  file: flower.jpg
+col1:
+  - name: Statue
+    file: statue-final.jpg
+  - name: Flower
+    file: flower.jpg
+  - name: Betta Fish
+    file: cherry.jpg
+  - name: Koi
+    file: koi.jpg
+  - name: Pitcher
+    file: pitcher.jpg
 
-- name: Self-portrait
-  file: self-portrait.jpg
+col2:
+  - name: Fabric
+    file: fabric.jpg
+  - name: Self-portrait
+    file: self-portrait.jpg
+  - name: Pear
+    file: pear.jpg
+  - name: Tall Ship
+    file: tall-ship.jpg
 
-- name: Statue
-  file: statue-final.jpg
-
-- name: Stromae
-  file: stromae.jpg
-
-- name: Apple
-  file: apple.jpg
-
-- name: Pomegranate
-  file: pomegranate.jpg
-
-- name: Pear
-  file: pear.jpg
-
-- name: Betta Fish
-  file: cherry.jpg
-
-- name: Koi
-  file: koi.jpg
-
-- name: Pitcher
-  file: pitcher.jpg
-
-- name: Alex
-  file: alex-2.jpg
-
-- name: Snake
-  file: snake.jpg
-
-- name: Frog
-  file: frog.jpg
-
-- name: Alex
-  file: alex-sketch.jpg
-
-- name: Tall Ship
-  file: tall-ship.jpg
+col3:
+  - name: Alex
+    file: alex-2.jpg
+  - name: Stromae
+    file: stromae.jpg
+  - name: Alex
+    file: alex-sketch.jpg
+  - name: Apple
+    file: apple.jpg
+  - name: Pomegranate
+    file: pomegranate.jpg
