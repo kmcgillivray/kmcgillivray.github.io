@@ -4,20 +4,27 @@ title: Sketchbook
 category: gallery
 ---
 
+<div class="dn fixed bg-dark-gray cover w-100 vh-100" id="gallery-modal">
+  <div class="absolute light-gray bg-dark-gray link br-pill ba ph3 right-1 top-1 f5 pointer">
+    Close
+  </div>
+  <img class="db mt0 vh-100 w-auto center br0 ba bw5 b--light-gray" id="gallery-modal-image" src="/img/statue-final.jpg">
+</div>
+
 <div class="cf bg-dark-gray ph4 pv3 pa0-ns">
   <div class="fl-ns pa3-ns pl4-ns w-30-ns">
     {% for art in site.data.art["col1"] %}
-      <a href="/img/{{ art.file }}" data-fluidbox><img class="mb3 br0 ba bw5 b--light-gray" src="/img/{{ art.file }}" alt="{{ art.name }}"></a>
+      <a class="glow" href="/img/{{ art.file }}" data-thumbnail data-image="{{ art.file }}"><img class="mb3 br0 ba bw5 b--light-gray" src="/img/{{ art.file }}" alt="{{ art.name }}"></a>
     {% endfor %}
   </div>
   <div class="fl-ns pa3-ns w-40-ns">
     {% for art in site.data.art["col2"] %}
-      <a href="/img/{{ art.file }}" data-fluidbox><img class="mb3 br0 ba bw5 b--light-gray" src="/img/{{ art.file }}" alt="{{ art.name }}"></a>
+      <a class="glow" href="/img/{{ art.file }}" data-thumbnail data-image="{{ art.file }}"><img class="mb3 br0 ba bw5 b--light-gray" src="/img/{{ art.file }}" alt="{{ art.name }}"></a>
     {% endfor %}
   </div>
   <div class="fl-ns pa3-ns pr4-ns w-30-ns">
     {% for art in site.data.art["col3"] %}
-      <a href="/img/{{ art.file }}" data-fluidbox><img class="mb3 br0 ba bw5 b--light-gray" src="/img/{{ art.file }}" alt="{{ art.name }}"></a>
+      <a class="glow" href="/img/{{ art.file }}" data-thumbnail data-image="{{ art.file }}"><img class="mb3 br0 ba bw5 b--light-gray" src="/img/{{ art.file }}" alt="{{ art.name }}"></a>
     {% endfor %}
   </div>
   <div class="fl w-100 ph4-ns pv3 pv4-ns tc">

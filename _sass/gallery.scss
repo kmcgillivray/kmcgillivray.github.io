@@ -1,0 +1,7 @@
+#gallery-modal {
+  opacity: 0;
+}
+#gallery-modal.open {
+  opacity: 1;
+  transition: opacity .3s;
+}
