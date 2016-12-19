@@ -1,4 +1,4 @@
-window.onload = function() {
+(function() {
   var thumbnails = document.querySelectorAll('[data-thumbnail]');
 
   if (window.innerWidth > 480) {
@@ -27,5 +27,4 @@ window.onload = function() {
       });
     }
   }
-
-}
+})();
