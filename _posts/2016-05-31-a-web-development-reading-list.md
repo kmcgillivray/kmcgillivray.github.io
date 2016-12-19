@@ -15,10 +15,11 @@ Here's the list, organized into a few categories. There is a general history and
 
 The web is a field defined by the ideas and values of those who create it. This reading list explores the history of thought that has shaped the web and the philosophical debates visible in the design of the network, and connects those ideas to both the overall architects of the web and the day-to-day practitioners who define web culture through their words and code.
 
-* [Web! What is it good for?](https://adactio.com/journal/9016) – Jeremy Keith
-* [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) – Paul Ford
+* [Resilient Web Design](http://resilientwebdesign.com) – Jeremy Keith
 * [A Dao of Web Design](http://alistapart.com/article/dao) – John Allsopp
 * [Responsive Web Design](http://alistapart.com/article/responsive-web-design) – Ethan Marcotte
+* [Web! What is it good for?](https://adactio.com/journal/9016) – Jeremy Keith
+* [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) – Paul Ford
 * [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm) – Maciej Cegłowski
 * [The Innovators](http://amzn.com/147670869X) – Walter Isaacson
 
@@ -31,6 +32,7 @@ The World Wide Web is changing quickly. Nostalgia for the early days of the Inte
 * [Raiders of the Lost Web](http://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/) – Adrienne LaFrance
 * [Goodbye, Native Mobile Apps](https://atavistinsider.atavist.com/goodbye-native-mobile-apps/) – Evan Ratliff & Jefferson Rabb
 * [Indie Web Camp](https://indiewebcamp.com/)
+* [Whither the Webpage](https://theawl.com/how-does-it-look-d04fdd098b62#.5saxvsbay) – Charles Thaxton
 
 ---
 
