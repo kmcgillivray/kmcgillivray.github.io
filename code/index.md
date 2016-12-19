@@ -16,7 +16,7 @@ title: Code
         <p class="post-date">{{ post.date | date: "%-d %B %Y" }}</p>
       </div>
       {{ post.excerpt }}
-      <p><a class="button-primary" style="margin-top: 10px;" href="{{ post.url }}">Read more</a></p>
+      <p class="mt4"><a class="dim dib ph4 pv2 main bg-transparent ba b--main br-pill" href="{{ post.url }}">Read more</a></p>
     </div>
     <hr>
 {% endfor %}
