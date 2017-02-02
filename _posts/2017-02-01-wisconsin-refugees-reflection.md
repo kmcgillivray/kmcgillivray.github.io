@@ -5,7 +5,7 @@ category: writing
 description: "Interesting things I learned while exploring data about refugee resettlements in Wisconsin"
 ---
 
-I just finished a data visualization project about [refugee resettlements in Wisconsin](http://kevinmcgillivray.net/wisconsin-refugees).
+I just finished a data visualization project about [refugee resettlements in Wisconsin](http://kevinmcgillivray.net/wisconsin-refugees) from 2002-2016.
 
 [![Wisconsin refugees screenshot](/img/wisconsin-refugees-preview.png)](http://kevinmcgillivray.net/wisconsin-refugees)
 
