@@ -9,7 +9,7 @@ I just finished a data visualization project about [refugee resettlements in Wis
 
 [![Wisconsin refugees screenshot](/img/wisconsin-refugees-preview.png)](http://kevinmcgillivray.net/wisconsin-refugees)
 
-The main impetus for making this project was [last Friday's executive order](http://www.npr.org/2017/01/31/512439121/trumps-executive-order-on-immigration-annotated) banning visitors to the US from Iraq, Syria, Sudan, Iran, Somalia, Libya and Yemen. The questions floating around in my head were... are there any people near me who would be affected by this in a very direct way? What is its impact close to home, and is there anything I can do? Before I could know if I could help, I needed more clarity of what reality is near me.
+The main impetus for making this project was the impotent POTUS and his [recent executive order](http://www.npr.org/2017/01/31/512439121/trumps-executive-order-on-immigration-annotated) banning visitors to the US from Iraq, Syria, Sudan, Iran, Somalia, Libya and Yemen. Besides the fact that this is obviously an unconstitutional discriminatory Muslim ban that he-who-must-be-shamed is trying to pass off as a vaguely legal security order, the thoughts floating around in my head were... are there any people near me who would be affected by this in a very direct way? What is its impact close to home, and is there anything I can do? Before I could figure out the best way to help, I needed more clarity of what reality is near me.
 
 I chose to focus on refugees even though the executive order affects many, many people who are not refugees, partly because I knew there was a small group of Somalian refugees living in Green Bay, so when looking for a direct impact I decided to start there.
 
@@ -17,9 +17,9 @@ Here are some of the interesting things I learned as I built this.
 
 ## Yes, there are refugees in Wisconsin
 
-I'm not sure I had a clear perception of any of this going into the project. It's hard to look back and not have awareness now that I've spent so much time with the data, but on the average day, a Wisconsin resident likely doesn't realize that there have been over 13,000 refugees resettled in Wisconsin over the past fourteen years. Even if they see someone who has resettled here as a refugee, they probably don't have a conscious realization of "oh, that person is a refugee." I know I didn't before this.
+I'm not sure I had a clear perception of this going into the project. It's hard to look back and not have awareness now that I've spent so much time with the data, but I certainly didn't realize that over 13,000 refugees resettled in Wisconsin over the past fourteen years. Even if I had seen someone who had resettled here as a refugee, I didn't have a conscious realization of "oh, that person is a refugee." I'm sure others share in my unawareness of what the reality is for refugees in Wisconsin.
 
-Of course, I don't live in Milwaukee, which is where 64% of refugees live. Which brings me to my next point.
+Of course, I don't live in Milwaukee, which is where 64% of refugees live, so the people there may have a much clearer awareness. Which brings me to my next point.
 
 ## Milwaukee heavily outweighs the rest of the state.
 
