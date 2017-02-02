@@ -45,7 +45,7 @@ Compare that to Syrian refugees, the first of which arrived in 2014. Only one Sy
 
 ## 2,873 refugees from countries included in the ban (Iraq, Syria, Sudan, Iran, and Somalia)
 
-Two of the countries included in the 7-nation ban (Libya and Yemen) have had no refugees settle in Wisconsin. The largest group is from Somalia.
+Two of the countries included in the 7-nation ban (Libya and Yemen) have had no refugees settle in Wisconsin during this time period. The largest group is from Somalia.
 
 ---
 
@@ -53,8 +53,8 @@ I'm not sure yet if this is helpful. But for me at least it makes reality cleare
 
 ---
 
-For more analysis of this data, check out this [Wiscontext article](http://www.wiscontext.org/refugee-resettlement-wisconsin-numbers)
+For more analysis of this data, check out this [Wiscontext article](http://www.wiscontext.org/refugee-resettlement-wisconsin-numbers).
 
-If you're interested in how I built the visualization, check out the [related post over here]().
+If you're interested in how I built the visualization, check out the [related post over here](/wisconsin-refugees-development-notes).
 
 For more poetic and less statistical thoughts on refugees, read [my post from November 2015](/sanctuary) (a year when fifteen Somalian refugees settled in Green Bay).
