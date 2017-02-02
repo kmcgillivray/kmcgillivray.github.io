@@ -35,7 +35,7 @@ That's a big jump from first to second. I'd be curious to hear more personal ane
 
 ## Local government doesn't have much say (for now)
 
-From what I can understand of the [complex refugee resettlement](https://obamawhitehouse.archives.gov/blog/2015/11/20/infographic-screening-process-refugee-entry-united-states) system, resettlement locations are mainly determined by resettlement agencies, and people tend to be resettled close to those agencies. This is reflected in the top five locations above, because those are the cities where most of the state's resettlement agencies are located. This law may change, allowing state governors to close their state to refugees, but for now it's pretty much up to the agencies.
+From what I can understand of the [complex refugee resettlement](https://obamawhitehouse.archives.gov/blog/2015/11/20/infographic-screening-process-refugee-entry-united-states) system, resettlement locations are mainly determined by resettlement agencies, and people tend to be resettled close to those agencies. This is reflected in the top five locations above, because those are the cities where most of the state's resettlement agencies are located. City and state government have little to no say in where refugees settle. This law may change, allowing state governors to close their state to refugees, but for now it's pretty much up to the agencies.
 
 ## History is reflected in the map
 
