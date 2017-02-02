@@ -41,7 +41,7 @@ From what I can understand of the [complex refugee resettlement](https://obamawh
 
 One of my favorite filters to look at is the refugees from Laos. Hmong immigrants have been coming to Wisconsin since the 70s (40 years!), and you can see the history of their settlements in the map. They're much more spread out than the other countries, they've had more time to spread their roots in this area.
 
-Compare that to Syrian refugees, the first of which arrived in 2014. Only one Syrian arrived in Oshkosh in 2014. I wonder how they must have felt until they were joined by four others the next year, and another 119 in 2016.
+Compare that to Syrian refugees, the first of which arrived in 2014. Only one Syrian arrived in the state in 2014. I wonder how they must have felt until they were joined by four others the next year, and another 119 in 2016.
 
 ## 2,873 refugees from countries included in the ban (Iraq, Syria, Sudan, Iran, and Somalia)
 
