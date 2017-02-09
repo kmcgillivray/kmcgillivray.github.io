@@ -2,8 +2,11 @@
 layout: post
 title: "A Tempest in a Coffee Cup"
 category: writing
-description: ""
+description: "Be not afraid—you think that's a tempest? Taste this espresso."
+social-image: tempest.jpg
 ---
+
+![Tempest](/img/tempest.jpg)
 
 Moses saw a burning bush, but did he ever meet God through a coffee cup? Did visions of freedom, goodness, and power ever clear his eyes of illusion through the fragrance of a leaf or a bean? If not he missed out.
 
