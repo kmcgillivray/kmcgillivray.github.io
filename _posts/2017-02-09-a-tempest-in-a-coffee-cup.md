@@ -12,7 +12,7 @@ Moses saw a burning bush, but did he ever meet God through a coffee cup? Did vis
 
 When Jesus calmed the storm when his disciples were worried on the boat, did he then say, "Be not afraid—you think that's a tempest? Taste this espresso."
 
-Buddhists have known for millennia that tea is infused with the qualities of the Buddha and that drinking it encourages those qualities in the drinker. To drink tea is a practice. If tea is a slow, quiet breeze, coffee is a strong wind, powerful enough to extract you from yourself—a wake up call to taste the truth. To drink coffee is to lose control, to gain faith through extraction.
+Buddhists have known for millennia that tea is infused with the qualities of the Buddha and that drinking it encourages those qualities in the drinker. To drink tea is a practice. If tea is a [slow, quiet breeze](/making-is-breathing), coffee is a strong wind, powerful enough to extract you from yourself—a wake up call to taste the truth. To drink coffee is to lose control, to gain faith through extraction.
 
 ---
 
