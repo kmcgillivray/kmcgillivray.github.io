@@ -58,6 +58,31 @@ Four years later, on February 1st, 2015, my flight out of San Francisco was canc
 >
 >—Okakura Kakuzo, the Book of Tea
 
+# Paint, ink, and graphite
+
+I [paint and draw](/sketchbook). I'm not sure I can say much about this except that one time my teacher told me that once I finished his course in college I had a duty to continue to paint and draw. It's a duty I can't help but fulfill. It goes like this:
+
+1. Look at something.
+2. Record your perceptions.
+
+>Teacher: Are you thinking about making art?  
+>Student: Yes.  
+>Teacher: Don't. Art just happens.
+
+# Creativity
+
+The key thread that has tied together all of my various interests and projects has been the desire to understand and practice creativity. What is creativity? How does it work? How can we get better at it?
+
+It started in high school, when I needed to write a song for a school assignment. It was painful. It had to be about Romeo and Juliet. I struggled. Then my teacher decided it would be a good idea to *play the recorded song during our final exam.* Mortifying.
+
+But, it planted another curiosity. How do people do this? Why is it so hard? What are the challenges and skills involved in writing a song, in creating anything?
+
+I started to read, bolstered by my parents' library. I picked up a lot of advice and tricks of the trade, reading books about the "creative process", advice from writers, artists, musicians, anyone who had any kind of creative practice. I started to pick up on themes that were found across all creative disciplines. I would read about how to write novels, and translate those tips and perspectives into writing music. I was a sponge and a translator, studying the skills of creativity that are universal to every creative field.
+
+But I still struggled to actually put the advice into practice. I could see the truth in the words, but doing it was another thing entirely. Ever since then, I've been practicing, learning bit by bit, exercising my creative muscles. It hasn't become any less challenging, but the challenge is the fun part.
+
+I believe that everyone is creative. I believe that creativity can be learned and taught. I believe that it's a myth that some people are born creative and some people are not, and that creativity is an innate talent that cannot be taught, learned, or improved. I believe that you can practice creative skills and apply them to anything from cooking to coding. In my own work and in my teaching, I'm committed to uncovering and practicing the wisdom and skills of creativity and helping others learn and practice them as well.
+
 ---
 
 # This blog will self-destruct in...
