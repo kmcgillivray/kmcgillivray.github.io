@@ -4,11 +4,11 @@ title: Sketchbook
 category: gallery
 ---
 
-<div class="dn fixed bg-dark-gray cover w-100 vh-100" id="gallery-modal">
+<div class="dn flex fixed bg-dark-gray cover w-100 vh-100" id="gallery-modal">
   <div class="absolute light-gray bg-dark-gray link br-pill ba ph3 right-1 top-1 f5 pointer">
     Close
   </div>
-  <img class="db mt0 vh-100 w-auto center br0 ba bw5 b--light-gray" id="gallery-modal-image" src="/img/statue-final.jpg">
+  <img class="db self-center mt0 mvh-100 w-auto center br0 ba bw5 b--light-gray" id="gallery-modal-image" src="/img/statue-final.jpg">
 </div>
 
 <div class="cf bg-dark-gray ph4 pv3 pa0-ns">
