@@ -1,18 +1,18 @@
 col1:
   - name: Statue
     file: statue-final.jpg
+  - name: Fabric
+    file: fabric.jpg
   - name: Flower
     file: flower.jpg
   - name: Betta Fish
     file: cherry.jpg
   - name: Koi
     file: koi.jpg
-  - name: Pitcher
-    file: pitcher.jpg
 
 col2:
-  - name: Fabric
-    file: fabric.jpg
+  - name: Flower in Water
+    file: flower-in-water.jpg
   - name: Self-portrait
     file: self-portrait.jpg
   - name: Pear
