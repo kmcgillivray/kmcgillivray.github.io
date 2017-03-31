@@ -7,7 +7,7 @@
     thumbnails[i].addEventListener('click', function(e) {
       e.preventDefault();
       var image = this.dataset.image;
-      modal.className = 'db flex fixed bg-dark-gray cover w-100 vh-100';
+      modal.className = 'db flex fixed bg-dark-gray w-100';
       setTimeout(function() {
         modal.className += ' open';
       });
@@ -16,6 +16,6 @@
   }
 
   modal.addEventListener('click', function(e) {
-    modal.className = 'dn fixed bg-dark-gray cover w-100 vh-100';
+    modal.className = 'dn fixed bg-dark-gray';
   });
 })();
