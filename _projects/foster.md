@@ -1,8 +1,0 @@
----
-layout: post
-link: http://fosterstilp.github.io
-title: Foster Douglas
-image: foster-site.jpg
----
-
-Foster Douglas is a close friend and collaborator. This site is a work-in-progress portfolio site for his design and game projects.
