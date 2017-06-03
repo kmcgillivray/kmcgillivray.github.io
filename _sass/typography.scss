@@ -77,13 +77,13 @@ ul li {
   padding-right: 1.25rem;
 }
 blockquote {
-  background-color: #FAFAFA;
   line-height: 1.35;
   font-size: 1rem;
   font-style: italic;
   margin-left: 0;
   margin-right: 0;
   padding: 1.2rem;
+  border-left: 1px solid $main-color;
 }
 blockquote p:last-child {
   margin-bottom: 0;

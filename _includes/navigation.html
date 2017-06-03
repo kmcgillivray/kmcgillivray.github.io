@@ -1,13 +1,13 @@
 		<nav class="nav">
       <div class="nav-header">
-        <a class="nav-name" href="/">Kevin McGillivray</a>
-  		  <nav class="nav-menu">
+        <h1 class="nav-name f4"><a href="/">{{ site.title }}</a></h1>
+  		  <nav class="nav-menu tc f6 w-100">
   		  	<ul>
             <li {% if page.home %}class="active"{% endif %}>
               <a href="/">Latest Post</a>
             </li>
 						<li {% if page.title == "Archive" %}class="active"{% endif %}>
-							<a href="/archive">Archive</a>
+							<a href="/archive">All Posts</a>
 						</li>
 						<li {% if page.title == "Code" %}class="active"{% endif %}>
 							<a href="/code">Code</a>
