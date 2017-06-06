@@ -6,11 +6,12 @@ form {
 	text-align: center;
 }
 .text-box {
+	font-family: "freight-sans-pro", sans-serif;
+	color: $text-color;
   padding: 12px 20px;
 	margin-top: .5rem;
 	margin-bottom: 1rem;
-	background-color: $light-grey;
-	border: 0;
+	border: 1px solid #E7E7E7;
 	border-radius: .25rem;
   width: 100%;
 }
