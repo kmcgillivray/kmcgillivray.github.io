@@ -4,6 +4,7 @@ newsletter: true
 title: Archive
 ---
 
+<h1>All Posts</h1>
 <ul class="basic-list">
 {% assign last_year = 0 %}
 {% assign last_month = 0 %}
@@ -11,7 +12,7 @@ title: Archive
     {% capture current_year %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% capture current_month %}{{ post.date | date: '%B' }}{% endcapture %}
     {% if last_year != current_year %}
-      <h1 class="text-center">{{ post.date | date: '%Y' }}</h1>
+      <h2>{{ post.date | date: '%Y' }}</h2>
     {% endif %}
     {% if last_month != current_month %}
       <h3>{{ post.date | date: '%B' }}</h3>
