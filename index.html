@@ -6,7 +6,7 @@ home: true
 
 {% for post in site.categories.writing limit: 1 %}
   {% if post.image %}
-    <img class="post-image" src="/img/{{ post.image }}">
+    <img class="post-image" src="/img/{{ post.image }}" alt="{{ post.image-description }}">
   {% endif %}
   <div class="container-narrow">
     <div class="post">
