@@ -1,9 +1,12 @@
 $white: #FFF;
-$main-color: #2a91a6;
+$main-color: #237c8e;
 $text-color: #555;
 $neutral: #DCD9C8;
 $light-grey: #E7E7E7;
 
+.text {
+  color: $text-color;
+}
 .main {
   color: $main-color;
 }
