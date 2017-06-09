@@ -12,7 +12,6 @@
         console.log(cache);
         return cache.addAll([
           '/css/main.css',
-          '/css/normalize.css',
           '/css/syntax.css',
           '/js/main.js',
           '/',
