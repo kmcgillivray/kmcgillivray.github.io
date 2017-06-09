@@ -1,0 +1,8 @@
+.menu li a {
+  transition: .3s color;
+}
+.menu li a:hover {
+  opacity: 1;
+  color: $main-color;
+  transition: .3s color;
+}
