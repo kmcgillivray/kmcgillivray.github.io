@@ -46,6 +46,7 @@ p {
 }
 a {
 	text-decoration: none;
+  border-bottom: 1px solid $main-color;
 	color: $main-color;
   transition: .25s opacity;
 }
