@@ -3,6 +3,7 @@ layout: post
 title: "Writing Code from Scratch"
 category: development
 description: "What to do when you have to come up with your own answers."
+syntax: true
 ---
 
 Tutorials are great for seeing examples of code and new programming concepts in action. They show you the solution and walk you through the steps to make it work. However, they typically don't demonstrate the problem solving process that goes into developing the answer in the first place. Writing code "from scratch" requires a set of problem solving skills that tutorials don't teach. Developers need to see concepts demonstrated, but they also need to learn and practice the process for developing a script on their own. Here is the creative problem solving process I use when programming to come up with solutions when I have to come up with a solution on my own.

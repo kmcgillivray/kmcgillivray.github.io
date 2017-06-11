@@ -3,9 +3,10 @@ layout: post
 title: "Portrait of a Morning in Code"
 category: writing
 description: "cat.eat();"
+syntax: true
 ---
 
-```
+```javascript
 var mindfulness = true;
 var cat = {
   name: "Apollo",

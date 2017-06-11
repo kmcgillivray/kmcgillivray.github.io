@@ -160,3 +160,9 @@ figure {
 .small {
   font-size: .5rem;
 }
+.wf-loading {
+	visibility: hidden;
+}
+.wf-active {
+	visibility: visible;
+}

@@ -3,6 +3,7 @@ layout: post
 title: "Wisconsin Refugees Development Notes"
 category: development
 description: ""
+syntax: true
 ---
 
 As I wrote about in the [sister note](/wisconsin-refugees-reflection) to this post, I recently made a data visualization project exploring [refugee resettlements in Wisconsin](http://kevinmcgillivray.net/wisconsin-refugees).
@@ -17,7 +18,7 @@ First I exported the data in CSV format from the Refugee Processing Center websi
 
 For those not familiar with CSV, it means comma separated values, and it's a plain text format where values are... well... separated by commas. Basically a spreadsheet with columns and rows, but everything is separated by a comma to mark a new column:
 
-```
+```csv
 state,calendarYear,cumulativeInState,nationality,totalByNationality,destinationCity,yearlyNumberByCity
 Wisconsin,2002,214,Afghanistan,25,Hartland
 Wisconsin,2003,242,Afghanistan,13,Hartland
