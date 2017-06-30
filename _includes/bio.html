@@ -1,21 +1,15 @@
-<div class="section">
+<div class="section cf">
   <div class="container-narrow">
-    <div class="row">
-      <div class="col-12">
-        {% if page.date %}
-        <p class="post-date">Published {{ page.date | date: "%-d %B %Y" }}</p>
-        {% else %}
-        {% for post in site.categories.writing | limit: 1 %}
-        <p class="post-date">Published {{ post.date | date: "%-d %B %Y" }}</p>
-        {% endfor %}
-        {% endif %}
-      </div>
-      <div class="col-3">
-        <a href="/about"><img class="img-profile" src="/img/kevin-profile.jpg" alt="About Kevin McGillivray"></a>
-      </div>
-      <div class="col-8">
-        <p><a href="/about">Kevin McGillivray</a> is a teacher and web developer from Wisconsin. He writes about creativity, mindfulness, code, and tea. He <a target="_blank" href="http://twitter.com/kev_mcg">tweets</a> and <a target="_blank" href="http://kevinschmevin.com">tumbles</a>.</p>
-      </div>
-    </div>
+    {% if page.date %}
+    <p class="post-date tc tl-m">Published {{ page.date | date: "%-d %B %Y" }}</p>
+    <hr>
+    {% else %}
+    {% for post in site.categories.writing | limit: 1 %}
+    <p class="post-date tc tl-m">Published {{ post.date | date: "%-d %B %Y" }}</p>
+    <hr>
+    {% endfor %}
+    {% endif %}
+    <a class="db fl-ns bn mw4 mb3 mr3-ns center ml0-ns" href="/about"><img class="img-profile br-100" src="/img/kevin-alt-4.jpg" alt="About Kevin McGillivray"></a>
+    <p class="pl3-ns"><a href="/about">Kevin McGillivray</a> is a teacher and web developer from Wisconsin. He writes about creativity, mindfulness, code, and tea. He is the co-founder of <a href="http://sandcastle.co">Sandcastle</a>, a tiny studio.</p>
   </div>
 </div>

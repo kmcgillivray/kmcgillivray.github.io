@@ -4,7 +4,7 @@ title: About
 newsletter: true
 ---
 
-![Kevin](/img/kevin.jpg)
+![Kevin](/img/kevin-alt-4.jpg){: .db .mr3 .pa4 .fl .mw5 .center .br-100 }
 
 ##### Hi, I'm Kevin. I'm a teacher, web developer, and tea enthusiast.
 
