@@ -20,7 +20,7 @@ I am pure joy. I am touching all the tea bowls.
 
 I make the smallest of small talk. I ask about one of the pieces—it looks like a round teapot with a flat top. She says it's for Japanese calligraphy. I tell her I thought maybe it was a teapot and she laughs at me. "Imagine trying to make tea with that!" Then she whispers to let me in on a joke, "Some people think it's for soy sauce."
 
-One of the tea bowls... I can't stop looking at it. It reminds me of the famous "Twilight" tea bowl. Similar color, similar texture. Both priceless to me. I submit to it's call and I buy it.
+One of the tea bowls... I can't stop looking at it. It reminds me of the famous "Twilight" tea bowl. Similar color, similar texture. Both priceless to me. I submit to its call and I buy it.
 
 She points to a navy blue tray, an organic shape living on the table. "Do you like this?" "Yes it's beautiful." "I give it away. I'd rather give things to people I know." I'm in shock. Gifts are multiplicities. Giving it away returns it in an exponent. Farmers' markets are gift centers of the community, a spinning center of gift economy. Whitman said, "I am large. I contain multitudes." In this gift holds the entire force of care and bonds of the entire community.
 
