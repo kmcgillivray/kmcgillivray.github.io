@@ -3,8 +3,10 @@ layout: post
 title: "The Length of Humanity"
 category: writing
 description: "The length of humanity is measured in dancing on mountaintops beneath stars and lights."
-social-image: kazuko-tea-bowl.jpg
+social-image: dancing.jpg
 ---
+
+![Dancing](/img/dancing.jpg)
 
 The length of humanity is measured in dancing on mountaintops beneath stars and lights. Dancing that says, "We were here, we saw, we witnessed, we laughed, we felt pain, we rejoiced, and we cried as a woman in a white dress and a man in a yellow bow tie committed themselves to each other, consecrated in beauty." Dancing that says, "When this is ancient history, ancient as the people who used to live here, it will still remember us and our lights and the way our feet met the earth. Here on the crown of the landscape, we shone, we rang bright and deep, we ate crispy polenta and couscous."
 
