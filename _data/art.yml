@@ -23,6 +23,8 @@ col2:
 col3:
   - name: Alex
     file: alex-2.jpg
+  - name: Tea Bowl
+    file: tea-bowl-2.jpg
   - name: Stromae
     file: stromae.jpg
   - name: Alex
