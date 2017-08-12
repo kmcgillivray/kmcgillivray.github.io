@@ -4,11 +4,16 @@ title: About
 newsletter: true
 ---
 
-![Kevin](/img/kevin-alt-4.jpg){: .db .mr3 .pa4 .fl .mw5 .center .br-100 }
+![Kevin](/img/kevin-alt-4.jpg){: .db .mb0 .ph4 .mw5 .center .br-100 }
 
-##### Hi, I'm Kevin. I'm a teacher, web developer, and tea enthusiast.
+# Hi, I'm Kevin.
+{: .tc .f2 .mb0 }
 
-I love learning about and practicing creativity and sharing what I learn through teaching, writing, and other projects. I'm the co-founder of [Sandcastle](http://sandcastle.co), a web and game development studio. I'm also co-founder and instructor at [Code Convoy](http://codeconvoy.com) and a mentor in the frontend web development course at [Bloc](http://bloc.io). I like books, chess, tea, painting, podcasts, and mindfulness. My favorite word is "studio."
+## I'm a _teacher, web developer, and tea enthusiast_.
+{: .tc .f3 .mt0 .mb3}
+
+I love learning about and practicing creativity and sharing what I learn through teaching, writing, and other projects. I'm the co-founder of [Sandcastle](http://sandcastle.co), a web and game development studio. I'm also co-founder and instructor at [Code Convoy](http://codeconvoy.com) and a mentor in the frontend web development course at [Bloc](http://bloc.io). I like books, tea, painting, podcasts, chess, and mindfulness. My favorite word is "studio."
+{: .tc }
 
 {% include links.html %}
 
