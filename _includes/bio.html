@@ -1,15 +1,2 @@
-<div class="section cf">
-  <div class="container-narrow">
-    {% if page.date %}
-    <p class="post-date tc tl-m">Published {{ page.date | date: "%-d %B %Y" }}</p>
-    <hr>
-    {% else %}
-    {% for post in site.categories.writing | limit: 1 %}
-    <p class="post-date tc tl-m">Published {{ post.date | date: "%-d %B %Y" }}</p>
-    <hr>
-    {% endfor %}
-    {% endif %}
-    <a class="db fl-ns bn mw4 mb3 mr3-ns center ml0-ns" href="/about"><img class="img-profile br-100" src="/img/kevin-alt-4.jpg" alt="About Kevin McGillivray"></a>
-    <p class="pl3-ns"><a href="/about">Kevin McGillivray</a> is a teacher and web developer from Wisconsin. He writes about creativity, mindfulness, code, and tea. He is the co-founder of <a href="http://sandcastle.co">Sandcastle</a>, a tiny studio.</p>
-  </div>
-</div>
+<a class="db fl-ns bn mw4 mb3 mr3-ns center ml0-ns" href="/about"><img class="img-profile br-100" src="/img/kevin-alt-4.jpg" alt="About Kevin McGillivray"></a>
+<p class="pl3-ns"><a href="/about">Kevin McGillivray</a> is a teacher and web developer from Wisconsin. He writes about creativity, mindfulness, code, and tea. He is the co-founder of <a href="http://sandcastle.co">Sandcastle</a>, a tiny studio.</p>

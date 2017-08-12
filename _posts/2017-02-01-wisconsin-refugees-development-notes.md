@@ -2,7 +2,7 @@
 layout: post
 title: "Wisconsin Refugees Development Notes"
 category: development
-description: ""
+description: "How I built an interactive visualization of refugee data in Wisconsin."
 syntax: true
 ---
 

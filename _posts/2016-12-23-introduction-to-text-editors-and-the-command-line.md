@@ -2,7 +2,7 @@
 layout: post
 title: "Introduction to Text Editors and the Command Line"
 category: development
-description: "Despite their simplicity, text editors and the command line are powerful keys to creativity, unlocking the ability to create anything."
+description: "Text editors and the command line are essential, simple, and powerful tools for developers, yet they are also bewilderingly complex and confusing without a proper introduction. Here's the post that I wish existed when I started learning web development."
 excerpt: "When I started learning graphic design, I realized that the only thing holding me back from not learning design earlier was not having access to design software. Once I got my hands on some, it felt like the whole world had been opened up to me. I could make anything! Posters, logos, books, digital illustration... it was like the whole world of visual design went into edit mode simply by installing the right software."
 ---
 

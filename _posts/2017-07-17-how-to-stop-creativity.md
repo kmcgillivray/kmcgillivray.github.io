@@ -3,7 +3,6 @@ layout: post
 title: "How to Stop Creativity"
 category: development
 description: "Tried and true methods to create writer's block."
-excerpt: "Tried and true methods to create writer's block."
 ---
 
 I skimmed the table of contents of an endearingly tongue-in-cheek book today, [_How to Be Miserable: 40 Strategies You Already Use_](http://a.co/6JyYPT7) by Randy J. Paterson (HT [Sam Hurd](https://www.patreon.com/samhurd)). For a long time, I've wanted to share what I've learned about creativity—what it is, how to learn it, how to navigate its challenges. This is mainly because learning and practicing creativity has been such a challenge in my own experience—but the most hard-won and necessary personal learning is often the hardest (and most important) to share.

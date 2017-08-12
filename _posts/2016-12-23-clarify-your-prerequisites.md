@@ -2,6 +2,7 @@
 layout: post
 title: "Tutorial Writing: Clarify Your Prerequisites"
 category: development
+description: "Writing accessible and learner-friendly tutorials."
 excerpt: 'This was my experience for the first few years of my own learning-to-code journey. Most tutorials I found started with "open up your text editor" or "run X on the command line." What the heck did that mean?! The tutorials were written for people who had already been initiated into the world of development. They assumed you had a bit of experience already and knew how to get started, that you knew what a text editor and the command line were.'
 ---
 

@@ -1,4 +1,18 @@
-{% include bio.html %}
+<div class="section cf">
+  <div class="container-narrow">
+    {% if page.date %}
+      <p class="post-date tc tl-m">Published {{ page.date | date: "%-d %B %Y" }}</p>
+      <hr>
+    {% else %}
+      {% for post in site.categories.writing | limit: 1 %}
+        <p class="post-date tc tl-m">Published {{ post.date | date: "%-d %B %Y" }}</p>
+        <hr>
+        {% endfor %}
+    {% endif %}
+
+    {% include bio.html %}
+  </div>
+</div>
 
 <div class="section post-footer">
   <a class="dim dib ph4 pv2 main bg-transparent ba b--main br-pill f3"{% if page.category == "development" %}href="/code"{% else %}href="/archive"{% endif %}>See all posts</a>

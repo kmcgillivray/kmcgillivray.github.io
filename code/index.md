@@ -4,21 +4,28 @@ newsletter: true
 title: Code
 ---
 
-<div class="container-narrow">
 
-{% for post in site.categories.development %}
-  {% if post.image %}
-    <img class="post-image" src="/img/{{ post.image }}">
-  {% endif %}
-    <div class="post">
-      <div class="post-header">
-    	  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-        <p class="post-date">{{ post.date | date: "%-d %B %Y" }}</p>
+<div class="mw7 center cf">
+
+  <div class="ph3 measure-narrow">
+    <h1>Zen and the Art of Code</h1>
+    <p>Notes on the joys, challenges, and obsessions of writing, learning, and teaching syntax.</p>
+  </div>
+
+  <div class="grid">
+    {% for post in site.categories.development %}
+      <div class="ph3 post mv4">
+        <p class="post-date mb0">{{ post.date | date: "%-d %B %Y" }}</p>
+    	  <h2 class="f4 mt0"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        {{ post.description }}
       </div>
-      {{ post.excerpt }}
-      <p class="mt4"><a class="dim dib ph4 pv2 main bg-transparent ba b--main br-pill" href="{{ post.url }}">Read more</a></p>
-    </div>
-    <hr>
-{% endfor %}
+    {% endfor %}
+  </div>
 
+</div>
+
+<div class="section cf">
+  <div class="container-narrow">
+    {% include bio.html %}
+  </div>
 </div>
