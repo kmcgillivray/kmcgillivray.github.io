@@ -7,9 +7,9 @@ title: Code
 
 <div class="mw7 center cf">
 
-  <div class="ph3 measure-narrow">
-    <h1>Zen and the Art of Code</h1>
-    <p>Notes on the joys, challenges, and obsessions of writing, learning, and teaching syntax.</p>
+  <div class="ph3 measure">
+    <h1>/code</h1>
+    <p>Notes on learning and teaching web development—better ways to learn and teach programming skills, the essential metaskills and mindset beyond syntax, and code as a creative practice.</p>
   </div>
 
   <div class="grid">
