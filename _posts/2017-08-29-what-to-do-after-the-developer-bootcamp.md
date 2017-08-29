@@ -2,7 +2,7 @@
 layout: post
 title: "What to do After the Developer Bootcamp"
 category: development
-description: "Navigating the next step in your development career"
+description: "Navigating the next step in your development career."
 ---
 
 Studying in a programming bootcamp can be a whirlwind experience—it's a fast-paced, challenging, and immersive environment that pushes you forward into the world of a career in technology. The period of time after you complete a course is an important time to use the momentum of your learning to build habits that will sustain your programming practice for the long term—habits that professional developers do all the time for as long as they're improving their craft! Here are three steps to take right away to start off on the right foot.
