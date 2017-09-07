@@ -88,10 +88,25 @@ As a writing consultant, I provided mentorship, feedback, and training to studen
 
 ---
 
-## Writing
+## Selected Writing
 {: .mt0 .ttu .tracked .f5 .b}
 
-## Speaking
+**[Mindful Code Exercises](https://dev.to/kev_mcg/mindful-code-exercises)**  
+Dev.to
+
+**[A Web Development Reading List](https://www.kevinmcgillivray.net/a-web-development-reading-list/)**  
+Self-published
+
+**[Tutorial Writing: Clarify Your Prerequisites](https://www.kevinmcgillivray.net/clarify-your-prerequisites/)**  
+Self-published
+
+**[How to Stop Creativity](https://www.kevinmcgillivray.net/how-to-stop-creativity/)**  
+Self-published
+
+**[Writing Code from Scratch](https://www.kevinmcgillivray.net/writing-code-from-scratch/)**  
+Self-published
+
+## Talks and Presentations
 {: .mt0 .ttu .tracked .f5 .b}
 
 **Design for Digital Humanists**  
@@ -102,21 +117,16 @@ Barcamp Green Bay (2013)
 
 ---
 
-## Exhibited Artworks
-{: .mt0 .ttu .tracked .f5 .b}
-
----
-
 ## Selected Projects
 {: .mt0 .ttu .tracked .f5 .b}
 
-[Untitledtown](http://138.197.70.90)
+[Untitledtown](http://138.197.70.90) – A website for the Untitledtown book and author festival. I built the website frontend and backend, and created illustrations for the festival.
 
-[Teaguide](http://teaguide.co)
+[Teaguide](http://teaguide.co) – A mini guide to tea.
 
-[Typeguide](https://github.com/kmcgillivray/typeguide.css)
+[Typeguide](https://github.com/kmcgillivray/typeguide.css) – A stylesheet for well-crafted, responsive website typography.
 
-[Wisconsin Refugees](https://kmcgillivray.github.io/wisconsin-refugees/)
+[Wisconsin Refugees](https://kmcgillivray.github.io/wisconsin-refugees/) – A data visualization exploring refugee data in Wisconsin, 2002-2016.
 
 ---
 
@@ -158,3 +168,24 @@ Feb 2012 AAF-Fox River Ad Club
 {: .mt3 }
 
 * Logic Pro
+
+---
+
+## Art, Music, and Creative Writing
+{: .mt0 .ttu .tracked .f5 .b}
+
+* [Drawing and painting](https://www.kevinmcgillivray.net/sketchbook)
+* [Creative writing](https://www.kevinmcgillivray.net/archive)
+* [Felix Sofia Music](https://felixsofia.bandcamp.com)
+
+---
+
+## Students Mentored
+{: .mt0 .ttu .tracked .f5 .b}
+
+Available upon request.
+
+## References
+{: .mt0 .ttu .tracked .f5 .b}
+
+Available upon request.
