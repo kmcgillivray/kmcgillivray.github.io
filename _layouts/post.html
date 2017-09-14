@@ -19,4 +19,6 @@ layout: page-wide
 
 {% include post-footer.html %}
 
+{% unless page.category == "development" %}
 {% include newsletter-form.html %}
+{% endunless %}
