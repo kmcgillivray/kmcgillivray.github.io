@@ -15,7 +15,7 @@ title: Code
   <div class="grid">
     {% for post in site.categories.development %}
       <div class="ph3 post mv4">
-        <p class="post-date mb0">{{ post.date | date: "%-d %B %Y" }}</p>
+        <p class="post-date mb2">{{ post.date | date: "%-d %B %Y" }}</p>
     	  <h2 class="f4 mt0"><a href="{{ post.url }}">{{ post.title }}</a></h2>
         {{ post.description }}
       </div>

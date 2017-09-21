@@ -8,5 +8,5 @@ If you enjoyed this post and want to read more like it, I'd like to invite you t
   <label class="sr-only" for="tlemail">Enter your email address</label>
   <input class="text-box" type="text" name="email" id="tlemail" placeholder="Your email address"/>
   <input type="hidden" value="1" name="embed"/>
-  <input type="submit" class="dim dib ph4 pv2 main bg-transparent ba b--main br-pill freight pointer" value="Subscribe" />
+  <input type="submit" class="dim dib ph4 pv2 main bg-transparent ba b--main br-pill verdana pointer" value="Subscribe" />
 </form>
