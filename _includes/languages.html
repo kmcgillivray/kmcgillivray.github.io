@@ -1,0 +1,9 @@
+{% if page.lang and page.lang != "en" %}
+  <div class="container-narrow">
+    <div class="bg-near-white f6 pa3">
+      {% include language-switcher.html %}
+      <p>Je traduis mon site d'apprendre de nouvelles langues. Veuillez excuser toute erreurs et me contacter avec des suggestions!</p>
+      <p class="mb0" lang="en">I am translating my site to learn new languages. Please excuse any mistakes and contact me with suggestions!</p>
+    </div>
+  </div>
+{% endif %}

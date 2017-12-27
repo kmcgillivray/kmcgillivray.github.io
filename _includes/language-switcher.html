@@ -1,0 +1,11 @@
+<div class="tc">
+  <div id="languages" class="sr-only dib mr3">Switch languages:</div>
+  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+  <ul class="pa2 dib list mv0 tc">
+  {% for page in pages %}
+    <li class="dib ph2">
+      <a href="{{ page.url | prepend: site.baseurl }}" class="lang-{{ page.lang }}">{{ site.data.languages[page.lang] }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>

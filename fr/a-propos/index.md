@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-lang: en
+title: À propos
+lang: fr
 ref: about
 newsletter: true
 ---
@@ -11,16 +11,16 @@ newsletter: true
 # Kevin McGillivray
 {: .f2 .mb0 }
 
-## Teacher, web developer, and tea enthusiast.
+## Enseignant, développeur web, et passionné de thé
 {: .f3 .mt0 .mb3 }
 
-I love learning about and practicing creativity and sharing what I learn through teaching, writing, and other projects. I'm the co-founder of [Sandcastle](http://sandcastle.co), a web and game development studio. I'm also co-founder and instructor at [Code Convoy](http://codeconvoy.com) and a mentor in the frontend web development course at [Bloc](http://bloc.io). I like books, tea, painting, podcasts, chess, and mindfulness. My favorite word is "studio."
+J'aime apprendre de créativité et partager ce que j'ai appris par l'enseignement, l'écriture, et autres projets. Je suis une de co-fondatrices de [Sandcastle](http://sandcastle.co), un studio de design web. Je suis aussi co-fondateur et enseignant à [Code Convoy](http://codeconvoy.com) et un mentor de développement web à [Bloc](http://bloc.io). J'aime les livres, le thé, peindre, les podcasts, les échecs, et la pleine conscience. Mon mot préféré est "studio."
 
 {% include links.html %}
 
 ---
 
-# Education
+# Éducation
 
 Education is something I care about deeply. I'm grateful for and lucky to have had the opportunity to learn from a huge number of great teachers, not only teachers in school, but in my family, career, and friendships.
 
@@ -50,7 +50,7 @@ In college, I took a web design class and decided I would try my hand at buildin
 
 Programming brings together my love of music, words, chess, math, and education. It's challenging, creative, and deeply rewarding. I didn't expect my educational journey through the fine arts and humanities to lead me to a seemingly technical subject like programming, but it's become an essential way for me to explore and connect all of my interests.
 
-# Tea
+# Thé
 
 I never knew you could love a beverage until I met Alex. In 2010, she would make tea while we worked on homework, and just like programming, that planted a seed that would quickly grow into a wild enthusiasm.
 
@@ -64,12 +64,12 @@ Four years later, on February 1st, 2015, my flight out of San Francisco was canc
 >
 >—Okakura Kakuzo, the Book of Tea
 
-# Paint, ink, and graphite
+# Peinture, encre, et graphite
 
-I [paint and draw](/sketchbook). I'm not sure I can say much about this except that one time my teacher told me that once I finished his course in college I had a duty to continue to paint and draw. It's a duty I can't help but fulfill. It goes like this:
+Je [peins et dessine](/sketchbook). Je ne sais pas je peux dire beaucoup plus sur ce except that one time my teacher told me that once I finished his course in college I had a duty to continue to paint and draw. It's a duty I can't help but fulfill. It goes like this:
 
-1. Look at something.
-2. Record your perceptions.
+1. Regarde quelque chose.
+2. Enregistre vos perceptions.
 
 >Teacher: Are you thinking about making art?  
 >Student: Yes.  

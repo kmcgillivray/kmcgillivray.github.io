@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-<html lang="en-us">
+{% if page.lang %}
+<html lang="{{ page.lang }}">
+{% else %}
+<html lang="en">
+{% endif %}
 
   {% include head.html %}
 
@@ -7,7 +11,13 @@
 
     {% include navigation.html %}
 
-    {{ content }}
+    {% include languages.html %}
+
+    <div id="content">
+      {{ content }}
+    </div>
+
+    {% include language-switcher.html %}
 
     {% if page.category == "gallery" %}
     <script src="/js/gallery.js"></script>
