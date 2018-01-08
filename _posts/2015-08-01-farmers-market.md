@@ -19,21 +19,17 @@ Everyone is packing up but I find a place that's slower at packing than the rest
 
 "Hello, could I buy some flowers?"
 
-She hears me and points to the prearranged arrangements in the front of the booth.
-
-I walk over and check them out, but I really want the ones I spotted in the back.
+She hears me and points to the prearranged arrangements in the front of the booth. But I really want the ones I spotted in the back.
 
 "She can arrange a new one for you if you want." The younger man working there is friendly. One of those people that has calm energy, and looks you in the eye and smiles, like he's happy to see you.
-
-"Oh great, that would be awesome."
 
 I walk back over to the other side of the booth and point out the flowers that I had my eye on. She picks them up, and then I'm ready to take them and pay but she starts grabbing more flowers from every pile. It's an endless picking of flowers. She improvises a design, a balanced arrangement of colors and patterns. I wonder if she's remembering what they looked like when they were picked from the field where they grew and mimicking their appearance there so they'll feel more at home. Flowers are alive too, you know?
 
 The man wraps the flowers in a plastic bag with water and I ask how much.
 
-"$8."
+"Eight dollars."
 
-I hand him a $10 bill and shake his hand and say thanks. The woman hands me the flowers and I thank her and say, "These are beautiful."
+I hand him a ten dollar bill and shake his hand and say thanks. The woman hands me the flowers and I thank her and say, "These are beautiful."
 
 ---
 

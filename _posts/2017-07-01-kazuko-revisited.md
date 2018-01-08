@@ -28,14 +28,4 @@ I thank her, of course. I wait for the center to spin again and for us to cross 
 
 ---
 
-We stop at the [flower stand](/farmers-market), the one we go to every time because even though they have the same flowers as everyone else, the bouquets are infinitely... better.
-
-They only have one giant bouquet left, and we're looking for something a little smaller. We ask if they could make a small one with the flowers in back, and the flower arranger, the matriarch, the woman in the back of the stand gets to work. She's the reason this stand has the best flowers.
-
-I know immediately we aren't going to get a smaller bouquet. Her bouquets don't bend their nature to fit what we want. They follow what they must be. They don't change on our whim, they have an internal reality that must be expressed or not exist at all. She has to make the bouquet what it needs to be.
-
-The woman and the man bicker as she's finishing, trying to help all of the customers waiting. We take the bouquet, a thing of quality impossible to get anywhere else. A gift because of its completeness and because it couldn't be what we wanted it to be.
-
----
-
 Walking home, we see two flowers carved in the stone above a window. A detail of home that we never noticed before. Cycles of community marked by flowers and stone, gifts of enthusiasm and discovery.
