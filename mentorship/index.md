@@ -15,8 +15,8 @@ points:
     description: Connect your skills to a range of interesting topics in the history of the web and computer science and additional interdisciplinary topics to deepen your education.
 ---
 
-<section class="bg-near-white mw7 center grid">
-  <h1 class="pa4 mt0 mb0 b f2 lh-title bg-main white tr-ns">{{ page.title }}</h1>
+<section class="bg-near-white mw7 center grid br2">
+  <h1 class="pa4 mt0 mb0 b f2 lh-title bg-main white tr-ns br2-ns br--left-ns">{{ page.title }}</h1>
   <h2 class="pa4 mb0 f4">{{ page.subtitle | markdownify }}</h2>
 </section>
 
@@ -66,8 +66,8 @@ points:
 </section>
 
 <section class="bg-near-white cf mw8 center br2">
-  <div class="fl-ns w-50-ns pa4 bg-main white br2-ns br--left">
-    <h2 class="mt0 white b f3 tc">{{ page.title }}</h2>
+  <div class="fl-ns w-50-ns pa4 bg-main white br2-ns br--left-ns">
+    <h2 class="mt0 white b f3 tc">Mentorship Details</h2>
     <ul>
       <li>Meet one-on-one for one session per week, in person or online</li>
       <li>Access to monthly group studio sessions for networking, collaboration, and sharing projects</li>
