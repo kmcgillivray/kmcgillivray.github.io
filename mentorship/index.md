@@ -52,7 +52,7 @@ points:
   {{ coursework | markdownify }}
 </section>
 
-<section class="pa4 mw8 center grid grid-gap-1">
+<!-- <section class="pa4 mw8 center grid grid-gap-1">
   <blockquote class="bn pa3 mb4 br2 fs-normal bg-near-white">
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     <div class="dib w3 h3 bg-gray br-100 v-top"></div>
@@ -63,9 +63,9 @@ points:
     <div class="dib w3 h3 bg-gray br-100 v-top"></div>
     <p class="dib ma2 main b">Student name</p>
   </blockquote>
-</section>
+</section> -->
 
-<section class="bg-near-white cf mw8 center br2">
+<section class="mt5 bg-near-white cf mw8 center br2">
   <div class="fl-ns w-50-ns pa4 bg-main white br2-ns br--left-ns">
     <h2 class="mt0 white b f3 tc">Mentorship Details</h2>
     <ul>
