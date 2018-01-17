@@ -1,4 +1,7 @@
-## About me
+![Kevin](/img/kevin-alt-4.jpg){: .db .mb0 .ph4 .mw5 .center .br-100 }
+
+## My background
+{: .tc}
 
 ### Experienced teacher
 
