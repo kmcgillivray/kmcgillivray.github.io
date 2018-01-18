@@ -1,7 +1,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width">
-	<title>{{ page.title}} {% if page.title %}|{% endif %} {{ site.title }} </title>
+	<title>{{ page.title }} {% if page.title %}|{% endif %} {{ site.title }} </title>
   <meta name="description" content="Web developer, graphic designer, teacher. All about creativity, education, mindfulness, and tea.">
 
 	<link rel="stylesheet" href="https://unpkg.com/tachyons@4.7.0/css/tachyons.min.css"/>
@@ -10,17 +10,5 @@
   	<link rel="stylesheet" href="/css/syntax.css">
 	{% endif %}
 
-  <!-- Open Graph -->
-  <meta property="og:title" content="{{ page.title }}">
-  <meta property="og:type" content="article">
-  <meta property="og:site_name" content="Kevin McGillivray">
-  <meta property="og:url" content="https://{{ site.url }}{{ page.url }}">
-  {% if page.description %}
-  <meta property="og:description" content="{{ page.description }}">
-  {% else %}
-  <meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 200}}">
-  {% endif %}
-	{% if page.social-image %}
-	<meta property="og:image" content="https://{{ site.url }}/img/{{ page.social-image }}">
-	{% endif %}
+	{% include social-meta.html %}
 </head>

@@ -1,0 +1,15 @@
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@kev_mcg" />
+<meta name="twitter:creator" content="@kev_mcg" />
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Kevin McGillivray">
+<meta property="og:url" content="https://{{ site.url }}{{ page.url }}">
+{% if page.description %}
+<meta property="og:description" content="{{ page.description }}">
+{% else %}
+<meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 200}}">
+{% endif %}
+{% if page.social-image %}
+<meta property="og:image" content="https://{{ site.url }}/img/{{ page.social-image }}">
+{% endif %}
