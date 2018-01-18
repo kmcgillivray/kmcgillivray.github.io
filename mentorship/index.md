@@ -1,7 +1,9 @@
 ---
 layout: page-wide
 title: Web Development Mentorship
+description: Build your skills, career, and creativity with a one-on-one web development mentorship.
 subtitle: Build your **skills, career, and creativity** with a one-on-one mentorship
+social-image: mentorship-preview.jpg
 points:
   - title: Build a super strong foundation
     description: Go beyond syntax and learn essential principles of programatic thinking and web development you can use in any project.
