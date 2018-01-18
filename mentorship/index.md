@@ -88,11 +88,11 @@ points:
     <form name="contact" action="/mentorship/signup" netlify>
       <p>
         <label class="db tl b main" for="name">What's your name?</label>
-        <input class="text-box" type="text" name="name">  
+        <input id="name" class="text-box" type="text" name="name">  
       </p>
       <p>
         <label class="db tl b main" for="email">What's your email?</label>
-        <input class="text-box" type="email" name="email">
+        <input id="email" class="text-box" type="email" name="email">
       </p>
       <p>
         <button class="dim dib ph4 pv2 main bg-transparent ba b--main br-pill freight pointer" type="submit">Sign me up</button>
