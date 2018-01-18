@@ -72,16 +72,31 @@ points:
     <h2 class="mt0 white b f3 tc">Mentorship Details</h2>
     <ul>
       <li>Meet one-on-one for one session per week, in person or online</li>
+      <li>Mentorships are flexible but prepare to focus on learning for 3-6 months to build fundamental skills</li>
       <li>Access to monthly group studio sessions for networking, collaboration, and sharing projects</li>
       <li>Email any time for feedback and discussion between sessions</li>
       <li>Prepare to commit 10-20 hours of work per week</li>
       <li>Mentorships start in March 2018 – limited spots available.</li>
     </ul>
-    <p class="pa2 br3 tc f3 mb0"><sup class="dib mt1">$</sup><span class="f1 v-mid">80</span> weekly</p>
+    <div class="tc">
+      <p class="pv2 ph4 br3 tc f3 mb0 bg-near-white main dib"><sup class="dib mt1">$</sup><span class="f1 v-mid">80</span> weekly</p>
+    </div>
   </div>
   <div class="fl-ns w-50-ns pa4">
     <h2 class="mt0 b f3 tc">Book a consultation</h2>
-    <p>Get in touch below and let's talk about your interests and goals and make a plan together.</p>
-    <p>**Form here**</p>
+    <p>Let me know your name and email below and I'll be in touch to talk about your interests and goals and make a plan together.</p>
+    <form name="contact" netlify>
+      <p>
+        <label class="db tl b main" for="name">What's your name?</label>
+        <input class="text-box" type="text" name="name">  
+      </p>
+      <p>
+        <label class="db tl b main" for="email">What's your email?</label>
+        <input class="text-box" type="email" name="email">
+      </p>
+      <p>
+        <button class="dim dib ph4 pv2 main bg-transparent ba b--main br-pill freight pointer" type="submit">Sign me up</button>
+      </p>
+    </form>
   </div>
 </section>
