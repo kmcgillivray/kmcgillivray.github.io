@@ -85,7 +85,7 @@ points:
   <div class="fl-ns w-50-ns pa4">
     <h2 class="mt0 b f3 tc">Book a consultation</h2>
     <p>Let me know your name and email below and I'll be in touch to talk about your interests and goals and make a plan together.</p>
-    <form name="contact" netlify>
+    <form name="contact" action="/mentorship/signup" netlify>
       <p>
         <label class="db tl b main" for="name">What's your name?</label>
         <input class="text-box" type="text" name="name">  
