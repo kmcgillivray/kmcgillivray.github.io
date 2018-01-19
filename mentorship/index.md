@@ -72,11 +72,11 @@ points:
     <h2 class="mt0 white b f3 tc">Mentorship Details</h2>
     <ul>
       <li>Meet one-on-one for one session per week, in person or online</li>
-      <li>Mentorships are flexible but prepare to focus on learning for 3-6 months to build fundamental skills</li>
-      <li>Access to monthly group studio sessions for networking, collaboration, and sharing projects</li>
-      <li>Email any time for feedback and discussion between sessions</li>
       <li>Prepare to commit 10-20 hours of work per week</li>
-      <li>Mentorships start in March 2018 – limited spots available.</li>
+      <li>Mentorships are flexible but prepare to focus on learning for 3-6 months to build fundamental skills</li>
+      <li>Email any time for feedback and discussion between sessions</li>
+      <li>Access to monthly group studio sessions for networking, collaboration, and sharing projects</li>
+      <li>Mentorships start in March 2018 – <strong>limited spots available</strong>.</li>
     </ul>
     <div class="tc">
       <p class="pv2 ph4 br3 tc f3 mb0 bg-near-white main dib"><sup class="dib mt1">$</sup><span class="f1 v-mid">80</span> weekly</p>
