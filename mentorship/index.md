@@ -17,9 +17,9 @@ points:
     description: Connect your skills to a range of interesting topics in the history of the web and computer science and additional interdisciplinary topics to deepen your education.
 ---
 
-<section class="bg-near-white mw7 center grid br2">
+<section class="mw7 center grid ph3-ns">
   <h1 class="pa4 mt0 mb0 b f2 lh-title bg-main white tr-ns br2-ns br--left-ns">{{ page.title }}</h1>
-  <h2 class="pa4 mb0 f4">{{ page.subtitle | markdownify }}</h2>
+  <h2 class="pa4 mv0 v-bottom f4 bg-near-white br2-ns br--right-ns">{{ page.subtitle | markdownify }}</h2>
 </section>
 
 <!-- <img class="relative top--1 fr-ns db br0 mv0 mw6 center ba bw3 b--white" src="/img/desk.jpg" alt="A desk with a laptop and books"> -->
@@ -67,8 +67,8 @@ points:
   </blockquote>
 </section> -->
 
-<section class="mt5 bg-near-white cf mw8 center br2">
-  <div class="fl-ns w-50-ns pa4 bg-main white br2-ns br--left-ns">
+<section class="mt5 mw8 center ph3-ns grid">
+  <div class="pa4 bg-main white br2-ns br--left-ns">
     <h2 class="mt0 white b f3 tc">Mentorship Details</h2>
     <ul>
       <li>Meet one-on-one for one session per week, in person or online</li>
@@ -82,7 +82,7 @@ points:
       <p class="pv2 ph4 br3 tc f3 mb0 bg-near-white main dib"><sup class="dib mt1">$</sup><span class="f1 v-mid">80</span> weekly</p>
     </div>
   </div>
-  <div class="fl-ns w-50-ns pa4">
+  <div class="pa4 br2-ns br--right-ns bg-near-white">
     <h2 class="mt0 b f3 tc">Book a consultation</h2>
     <p>Let me know your name and email below and I'll be in touch to talk about your interests and goals and make a plan together.</p>
     <form name="contact" action="/mentorship/signup" netlify>
