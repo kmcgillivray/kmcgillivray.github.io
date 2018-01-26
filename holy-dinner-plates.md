@@ -6,10 +6,9 @@ social-image: matcha-in-the-morning.jpg
 ---
 
 # Holy Dinner Plates
-{: }
 
-## Notes on radishes, markets, and<br>watering the grass beneath you
-{: .mt0 .mb4 .f4}
+## Notes on radishes, markets, and watering the grass beneath you
+{: .mt0 .measure-narrow .mb4 .f4}
 
 _Holy Dinner Plates_ is a collection of my writing about exploring food, building communities, and living as fermentation. <span class="main">Coming soon—sign up below for updates.</span>
 {: .f4 .text .measure}
@@ -25,12 +24,12 @@ _Holy Dinner Plates_ is a collection of my writing about exploring food, buildin
 >When I drink great tea, it makes me want to run out of whatever room I’m in and just stand out in the hallway for no reason. These are the things that love will make you do. It is unexplainable.
 {: .bn .f4-ns .ph4-ns}
 
-!['Farmers\' Market'](/img/market.jpg){: .ba .bw3 .b--near-white}
+!['Farmers\' Market'](/img/market.jpg){: .ba .bw4 .b--near-white}
 
 >The width of humanity is measured in cuisine, in the care of chefs and cooks and farmers. Hug your chef, hug your cook, hug the people who care for food.
 {: .bn .f4-ns .ph4-ns}
 
-!['Alex'](/img/alex-2.jpg){: .db .mv4 .ba .measure-narrow .center .bw3 .b--near-white}
+!['Alex'](/img/alex-2.jpg){: .db .mv4 .ba .measure-narrow .center .bw4 .b--near-white}
 
 >It's time for the world to start all over again and for you to learn how to be what you will&nbsp;become.
 {: .bn .f4-ns .ph4-ns}
