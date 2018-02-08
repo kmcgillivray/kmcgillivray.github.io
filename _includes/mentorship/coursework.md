@@ -1,4 +1,5 @@
 ## Projects and coursework
+{: .b}
 
 The course material is organized around lessons for introducing new concepts and skills, exercises for reinforcing skills, and projects to integrate everything you learn.
 

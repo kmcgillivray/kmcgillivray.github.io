@@ -1,7 +1,12 @@
 ![Kevin](/img/kevin-alt-4.jpg){: .db .mb0 .ph4 .mw5 .center .br-100 }
 
+<ul class="list pl0 tc">
+  <li class="dib ph2"><a target="_blank" class="bn" href="http://twitter.com/kev_mcg"><i class="fa fa-twitter"></i> Twitter</a></li>
+  <li class="dib ph2"><a target="_blank" class="bn" href="http://github.com/kmcgillivray"><i class="fa fa-github-alt"></i> GitHub</a></li>
+</ul>
+
 ## My background
-{: .tc}
+{: .tc .b}
 
 ### Experienced teacher
 

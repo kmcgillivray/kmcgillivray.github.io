@@ -38,14 +38,14 @@ points:
 </section>
 
 <section class="pa4 mw7 center">
-  <h2>What you'll learn</h2>
-  <ul class="list pl0 grid grid-gap-1">
-    <li class="pa3 br2 bg-near-white tc"><strong>The Web Developer's Toolbox</strong><br>Text editors, browsers, the command line, and Git</li>
-    <li class="pa3 br2 bg-near-white tc"><strong>Structure and Style</strong><br>HTML and CSS fundamentals</li>
-    <li class="pa3 br2 bg-near-white tc"><strong>Semantics and Layout</strong><br>Advanced HTML and CSS</li>
-    <li class="pa3 br2 bg-near-white tc"><strong>Programmatic Thinking with JavaScript</strong></li>
-    <li class="pa3 br2 bg-near-white tc"><strong>Backend Fundamentals with Node</strong></li>
-    <li class="pa3 br2 bg-near-white tc"><strong>Frontend Fundamentals with DOM Scripting</strong></li>
+  <h2 class="b">What you'll learn</h2>
+  <ul class="list pa2 mb0 bg-near-white tc grid">
+    <li class="mv3 mh2 pa3 br2 bg-main white"><strong>The Web Developer's Toolbox</strong><br>Text editors, browsers, the command line, and Git</li>
+    <li class="mv3 mh2 pa3 br2 bg-main white"><strong>Structure and Style</strong><br>HTML and CSS fundamentals</li>
+    <li class="mv3 mh2 pa3 br2 bg-main white"><strong>Semantics and Layout</strong><br>Advanced HTML and CSS</li>
+    <li class="mv3 mh2 pa3 br2 bg-main white"><strong>Programmatic Thinking with JavaScript</strong></li>
+    <li class="mv3 mh2 pa3 br2 bg-main white"><strong>Backend Fundamentals with Node</strong></li>
+    <li class="mv3 mh2 pa3 br2 bg-main white"><strong>Frontend Fundamentals with DOM Scripting</strong></li>
   </ul>
 </section>
 
@@ -54,20 +54,19 @@ points:
   {{ coursework | markdownify }}
 </section>
 
-<!-- <section class="pa4 mw8 center grid grid-gap-1">
-  <blockquote class="bn pa3 mb4 br2 fs-normal bg-near-white">
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <div class="dib w3 h3 bg-gray br-100 v-top"></div>
-    <p class="dib ma2 main b">Student name</p>
+<section class="pa4 mw8 center">
+  <h2 class="tc b">Recommendations from students</h2>
+  <div class="grid grid-gap-1">
+  {% for testimonial in site.data.testimonials %}
+  <blockquote class="bn pa3 mb1 br2 fs-normal bg-near-white">
+    <p>{{ testimonial.content }}</p>
+    <p class="dib main b">—{{ testimonial.source }}</p>
   </blockquote>
-  <blockquote class="bn pa3 mb4 br2 fs-normal bg-near-white">
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <div class="dib w3 h3 bg-gray br-100 v-top"></div>
-    <p class="dib ma2 main b">Student name</p>
-  </blockquote>
-</section> -->
+  {% endfor %}
+  </div>
+</section>
 
-<section class="mt5 mw8 center ph3-ns grid">
+<section class="mt4 mw8 center ph3-ns grid">
   <div class="pa4 bg-main white br2-ns br--left-ns">
     <h2 class="mt0 white b f3 tc">Mentorship Details</h2>
     <ul>
@@ -95,7 +94,7 @@ points:
         <input id="email" class="text-box" type="email" name="email">
       </p>
       <p>
-        <button class="dim dib ph4 pv2 main bg-transparent ba b--main br-pill freight pointer" type="submit">Sign me up</button>
+        <button class="dim dib ph4 pv2 white bg-main ba b--main br-pill avenir pointer" type="submit">Sign me up</button>
       </p>
     </form>
   </div>
