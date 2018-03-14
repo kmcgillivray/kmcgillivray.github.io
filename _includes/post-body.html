@@ -1,0 +1,8 @@
+{% if include.thePost.image %}
+  <img class="post-image" src="/img/{{ include.thePost.image }}" alt="{{ include.thePost.image-description }}">
+{% endif %}
+
+<div class="container-narrow">
+  <h1 class="mt3 mb4 tc i"><a class="bn" href="{{ include.thePost.url }}">{{ include.thePost.title }}</a></h1>
+  {{ include.thePost.content }}
+</div>

@@ -29,7 +29,7 @@ category: gallery
       <a class="glow" href="/img/{{ art.file }}" data-thumbnail data-image="{{ art.file }}"><img class="mb3 br0 ba bw5 b--light-gray" src="/img/{{ art.file }}" alt="{{ art.name }}"></a>
     {% endfor %}
   </div>
-  <div class="fl w-100 ph4-ns pv3 pv4-ns tc">
-    <p class="center light-gray measure-wide lh-copy ba b--mid-gray bw3 pa4"><a class="light-gray bb b--gray" href="/about">Kevin McGillivray</a> is a <a class="light-gray bb b--gray" href="http://codeconvoy.com" target="_blank">teacher</a> and <a class="light-gray bb b--gray" href="http://sandcastle.co" target="_blank">web developer</a> from Wisconsin.<br>He <a class="light-gray bb b--gray" href="/">writes</a> about creativity, mindfulness, <a class="light-gray bb b--gray" href="/code">code</a>, and <a class="light-gray bb b--gray" href="http://teaguide.co" target="_blank">tea</a>.<br>He <a class="light-gray bb b--gray" href="http://twitter.com/kev_mcg" target="_blank">tweets</a> and <a class="light-gray bb b--gray" href="http://kevinschmevin.com" target="_blank">tumbles</a>.</p>
+  <div class="fl w-100 ph4-ns pv3 pv4-ns avenir">
+    <p class="center light-gray measure-wide lh-copy ba b--mid-gray bw3 pa4"><a class="light-gray bb b--gray" href="/about">Kevin McGillivray</a> is a <a class="light-gray bb b--gray" href="http://codeconvoy.com" target="_blank">teacher</a> and <a class="light-gray bb b--gray" href="http://sandcastle.co" target="_blank">web developer</a> from Wisconsin. He <a class="light-gray bb b--gray" href="/">writes</a> about creativity, mindfulness, <a class="light-gray bb b--gray" href="/code">code</a>, and <a class="light-gray bb b--gray" href="http://teaguide.co" target="_blank">tea</a>. He <a class="light-gray bb b--gray" href="http://twitter.com/kev_mcg" target="_blank">tweets</a> and <a class="light-gray bb b--gray" href="http://kevinschmevin.com" target="_blank">tumbles</a>.</p>
   </div>
 </div>

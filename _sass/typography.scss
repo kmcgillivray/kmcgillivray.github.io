@@ -1,5 +1,5 @@
-.freight {
-  font-family: "freight-sans-pro", sans-serif;
+.lora {
+  font-family: 'Lora', serif;
 }
 h1,
 h2,
@@ -17,8 +17,9 @@ h1 {
   font-size: 1.6rem;
 }
 h2 {
-  margin-top: 1.25rem;
+  margin-top: 1.75rem;
   font-size: 1.2rem;
+  margin-bottom: 1rem;
 }
 h2 a {
   color: $main-color;
@@ -61,12 +62,6 @@ hr {
 	border-left: none;
 	margin-top: 3rem;
 	margin-bottom: 3rem;
-}
-ul {
-  padding-left: 26px;
-}
-ol {
-  padding-left: 20px;
 }
 ol li,
 ul li {

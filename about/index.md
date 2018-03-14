@@ -9,10 +9,10 @@ newsletter: true
 ![Kevin](/img/kevin-alt-4.jpg){: .db .mb0 .ph4 .mw5 .center .br-100 }
 
 # Kevin McGillivray
-{: .f2 .mb0 }
+{: .f3 .mb0 }
 
 ## Teacher, web developer, and tea enthusiast.
-{: .f3 .mt0 .mb3 }
+{: .f4 .mt0 .mb3 }
 
 I love learning about and practicing creativity and sharing what I learn through teaching, writing, and other projects. I'm the co-founder of [Sandcastle](http://sandcastle.co), a web and game development studio. I'm also co-founder and instructor at [Code Convoy](http://codeconvoy.com) and a mentor in the frontend web development course at [Bloc](http://bloc.io). I like books, tea, painting, podcasts, chess, and mindfulness. My favorite word is "studio."
 
@@ -20,7 +20,7 @@ I love learning about and practicing creativity and sharing what I learn through
 
 ---
 
-# Education
+## Education
 
 Education is something I care about deeply. I'm grateful for and lucky to have had the opportunity to learn from a huge number of great teachers, not only teachers in school, but in my family, career, and friendships.
 
@@ -40,7 +40,7 @@ I believe the best education is deeply interdisciplinary, a lifelong practice, d
 
 >Study (verb) – based on Latin "studium", meaning zeal or enthusiasm.
 
-# Code
+## Code
 
 Programming is a seed that grew slowly in my interests for many years before exploding unexpectedly. When I was twelve, my dad taught me a bit of HTML. I didn't do much more than that, but it planted the seed for web development in my future. I continued to have an interest in technology, played a lot of text based games, first on MS DOS and then online (which I only later realized was great training for the command line), and generally wondered about computers. And I grew up along with the internet, constantly using it as a portal to interact with and learn about the world.
 
@@ -50,7 +50,7 @@ In college, I took a web design class and decided I would try my hand at buildin
 
 Programming brings together my love of music, words, chess, math, and education. It's challenging, creative, and deeply rewarding. I didn't expect my educational journey through the fine arts and humanities to lead me to a seemingly technical subject like programming, but it's become an essential way for me to explore and connect all of my interests.
 
-# Tea
+## Tea
 
 I never knew you could love a beverage until I met Alex. In 2010, she would make tea while we worked on homework, and just like programming, that planted a seed that would quickly grow into a wild enthusiasm.
 
@@ -64,7 +64,7 @@ Four years later, on February 1st, 2015, my flight out of San Francisco was canc
 >
 >—Okakura Kakuzo, the Book of Tea
 
-# Paint, ink, and graphite
+## Paint, ink, and graphite
 
 I [paint and draw](/sketchbook). I'm not sure I can say much about this except that one time my teacher told me that once I finished his course in college I had a duty to continue to paint and draw. It's a duty I can't help but fulfill. It goes like this:
 
@@ -75,7 +75,7 @@ I [paint and draw](/sketchbook). I'm not sure I can say much about this except t
 >Student: Yes.  
 >Teacher: Don't. Art just happens.
 
-# Creativity
+## Creativity
 
 The key thread that has tied together all of my various interests and projects has been the desire to understand and practice creativity. What is creativity? How does it work? How can we get better at it?
 
@@ -91,7 +91,7 @@ I believe that everyone is creative. I believe that creativity can be learned an
 
 ---
 
-# This blog will self-destruct in...
+## This blog will self-destruct in...
 
 I experiment quite a bit on this site, changing its focus and content regularly. I [write](/), share [drawings and paintings](/sketchbook), and do [weird](http://sandcastle.co/kirby/) web development [experiments](/stats).
 
