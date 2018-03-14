@@ -3,7 +3,7 @@ layout: post
 title: "Early Memories of Baking"
 category: writing
 description: "This is in praise of deep play."
-social-image:
+social-image: bread.jpg
 ---
 
 ![Bread](/img/bread.jpg)
