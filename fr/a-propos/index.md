@@ -1,7 +1,6 @@
 ---
 layout: page
 title: À propos
-lang: fr
 ref: about
 newsletter: true
 ---

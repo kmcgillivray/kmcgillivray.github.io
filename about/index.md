@@ -1,20 +1,27 @@
 ---
 layout: page
 title: About
-lang: en
 ref: about
 newsletter: true
 ---
 
 ![Kevin](/img/kevin-alt-4.jpg){: .db .mb0 .ph4 .mw5 .center .br-100 }
 
-# Kevin McGillivray
-{: .f3 .mb0 }
+**Hi there, I'm Kevin!** I'm a web developer, teacher, writer, and food explorer. I love learning about creativity and sharing what I learn through writing, teaching, and other projects.
 
-## Teacher, web developer, and tea enthusiast.
-{: .f4 .mt0 .mb3 }
+I care a lot about:
 
-I love learning about and practicing creativity and sharing what I learn through teaching, writing, and other projects. I'm the co-founder of [Sandcastle](http://sandcastle.co), a web and game development studio. I'm also co-founder and instructor at [Code Convoy](http://codeconvoy.com) and a mentor in the frontend web development course at [Bloc](http://bloc.io). I like books, tea, painting, podcasts, chess, and mindfulness. My favorite word is "studio."
+* Promoting lifelong learning
+* Helping people practice creative skills
+* Building neighborly communities
+* Food as an expression of care and curiosity
+* The open, accessible web
+
+As a web developer, I'm the co-founder of [Sandcastle](http://sandcastle.co), a web design studio focused on education, community building, and small independent creative businesses. As a teacher, I [write articles](https://dev.to/kev_mcg) to help people learn web development, and I was previously a mentor at [Bloc](http://bloc.io) and co-founder of [Code Convoy](http://codeconvoy.com).
+
+As a writer and food explorer, I [bake bread](http://convivialbread.com), [write about discoveries](/holy-dinner-plates/), and organize a [winter farmers' market](http://tradingpost.market).
+
+I like books, tea, painting, podcasts, chess, and mindfulness. My favorite word is "studio."
 
 {% include links.html %}
 
