@@ -5,6 +5,8 @@ ref: projects
 newsletter: false
 ---
 
+# Projects
+
 ## Web
 
 * [Sandcastle](http://sandcastle.co) – A web design studio focused on education, community building, and independent creative businesses and organizations.
