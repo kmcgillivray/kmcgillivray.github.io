@@ -16,7 +16,7 @@ newsletter: false
 ## Food
 
 * [Trading Post Market](http://tradingpost.market) – A cozy, winter farmers' market highlighting local food creativity.
-* [Convivial Microbakery](http://convivialbread.com) – A microbakery making naturally leavened, hand-crafted bread with local grains in Green Bay, Wisconsin
+* [Voyageurs Sourdough](http://voyageurs.co) – A bakery making naturally leavened, hand-crafted bread with local grains in Green Bay, Wisconsin.
 * [Tea Guide](http://www.teaguide.co) – A mini guide to the world's favorite cup.
 
 ## Writing

@@ -12,11 +12,18 @@
 
     <p class="post-date tc tl-m avenir">Published {{ postDate }}</p>
     <hr>
-    
+
     {% include bio.html %}
   </div>
 </div>
 
+{% if page.category == "development" %}
+  {% assign link = "/code" %}
+{% elsif page.category == "journal" %}
+  {% assign link = "/journal" %}
+{% else %}
+  {% assign link = "/archive" %}
+{% endif %}
 <div class="section post-footer">
-  <a class="dim dib ph4 pv2 main bg-transparent ba b--main br-pill f3 avenir"{% if page.category == "development" %}href="/code"{% else %}href="/archive"{% endif %}>See all posts</a>
+  <a class="dim dib ph4 pv2 main bg-transparent ba b--main br-pill f3 avenir" href="{{ link }}">See all posts</a>
 </div>
