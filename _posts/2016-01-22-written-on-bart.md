@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Written on BART"
-category: writing
+category: journal
 description: "Last July, I was inspired by Buster Benson's Written on BART posts to try a more spontaneous style of writing."
 ---
 

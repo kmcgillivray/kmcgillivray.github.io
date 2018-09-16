@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Amnesia
-category: writing
+category: journal
 ---
 
 > You have to finish things — that’s what you learn from, you learn by finishing things.

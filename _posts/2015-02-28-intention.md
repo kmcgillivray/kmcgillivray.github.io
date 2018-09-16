@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intention
-category: writing
+category: journal
 ---
 
 >The only way we can stay with something for a sustained period of time is if we are clear in our intention and our motivation. And for some people and for some things we need to remind ourselves on a daily basis.

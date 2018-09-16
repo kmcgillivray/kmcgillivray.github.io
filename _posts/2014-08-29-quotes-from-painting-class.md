@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quotes from Painting Class
-category: writing
+category: journal
 ---
 
 I take painting lessons from John Gordon, who runs a studio called [New Masters](http://newmasters.com). He tends to say funny/inspiring/interesting/confusing things during class and sometimes I write them down so I can remember them (or try to figure them out later in the case of the confusing ones). Here are some of them.

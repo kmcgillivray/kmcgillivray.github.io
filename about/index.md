@@ -14,12 +14,14 @@ I care a lot about:
 * Promoting lifelong learning
 * Helping people practice creative skills
 * Building neighborly communities
-* Food as an expression of care and curiosity
 * The open, accessible web
+* Food as an expression of care and curiosity
 
-As a web developer, I'm the co-founder of [Sandcastle](http://sandcastle.co), a web design studio focused on education, community building, and small independent creative businesses. As a teacher, I [write articles](https://dev.to/kev_mcg) to help people learn web development, and I was previously a mentor at [Bloc](http://bloc.io) and co-founder of [Code Convoy](http://codeconvoy.com).
+As a web developer, I work on projects focused on education, community building, and supporting small independent creative businesses. On the technical side, I like to focus on the things that make the web awesome: accessibility, progressive enhancement, and open standards. I also really like working on pattern design systems. Right now I'm on the engineering team at [Kaymbu](https://www.kaymbu.com) and I'm occasionally available for a limited number of freelance projects.
 
-As a writer and food explorer, I [bake bread](http://convivialbread.com), [write about discoveries](/holy-dinner-plates/), and organize a [winter farmers' market](http://tradingpost.market).
+As a teacher, I [write articles](/code) to help people learn web development, and I was previously a mentor at [Bloc](http://bloc.io) and co-founder of [Code Convoy](http://codeconvoy.com). My main guiding teaching principle is that creativity is a skill that can be learned, taught, and practiced. I think learning web development is an amazing way to not only practice creativity but to connect, explore, and share many diverse interests.
+
+As a writer and food explorer, I [bake bread](http://voyageurs.co), [write about food discoveries](/holy-dinner-plates/), and organize a [winter farmers' market](http://tradingpost.market).
 
 I like books, tea, painting, podcasts, chess, and mindfulness. My favorite word is "studio."
 
@@ -100,8 +102,12 @@ I believe that everyone is creative. I believe that creativity can be learned an
 
 ## This blog will self-destruct in...
 
-I experiment quite a bit on this site, changing its focus and content regularly. I [write](/), share [drawings and paintings](/sketchbook), and do [weird](http://sandcastle.co/kirby/) web development [experiments](/stats).
+I try to make this site unabashedly my own—a messy mix of all the things I'm interested in. This site is about:
 
-This site is made with deep affection for the tools used to make it: [Jekyll](http://jekyllrb.com), [Github](http://github.com), [markdown](http://daringfireball.net/projects/markdown/syntax), and [Atom](https://atom.io).
+* [Learning web development](/code)
+* [Things I've learned recently](/journal)
+* My other [writing](/writing) and [projects](/projects) and [art](/sketchbook)
+
+It can be a little disorganized but that's how people are. I hope you find something useful or interesting here!
 
 ---

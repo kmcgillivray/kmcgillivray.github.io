@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Living a full life is a creative act in itself..."
-category: writing
+category: journal
 ---
 
 > Whatever you do, whether you’re an artist, inventor, a sales assistant or have a job you don’t think is “creative” — creativity can help you. Living a full life is a creative act in itself, and creativity has the power to inspire and engage you in it.

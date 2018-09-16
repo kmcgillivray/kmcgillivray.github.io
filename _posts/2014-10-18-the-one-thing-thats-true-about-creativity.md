@@ -1,10 +1,10 @@
 ---
 layout: post
 title: The One Thing That's True About Creativity
-category: writing
+category: journal
 ---
 
-The more I learn about the creative process, the more I realize one thing about it is true: for everything that you can say about creativity, the opposite is also true. 
+The more I learn about the creative process, the more I realize one thing about it is true: for everything that you can say about creativity, the opposite is also true.
 
 When it comes to the creative process, I've been trying to "figure it out" for a long time. I'll read something or experience something and think, "Oh! So *that's* how it works." But then I read something else or experience something that contradicts what I just learned and I have to start over again.
 

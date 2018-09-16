@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Long Studies and Short Studies
-category: writing
+category: journal
 ---
 
 >"I may be exaggerating a little, but I feel like developing a large-scale video game like The Legend of Zelda is similar to setting out on a voyage across the ocean in the distant past... It's similar to seeking a new continent that no one on Earth has visited before.

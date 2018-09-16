@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Working for Yourself is Hard
-category: writing
+category: journal
 ---
 
 One of the things I'm learning right now is how to work on my own projects. I think starting a project for yourself is challenging in a way that doing work for other people is not.

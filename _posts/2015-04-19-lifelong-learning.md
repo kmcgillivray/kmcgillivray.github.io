@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lifelong Learning
-category: writing
+category: journal
 ---
 
 >"Why do they persist, the old masters? To what end the unceasing effort to discover or create something new? Why not rest on the laurels and the oars? ... The tree of knowledge and the fountain of youth are one and the same."
@@ -10,7 +10,7 @@ category: writing
 
 ---
 
-After graduation from college, I had four big realizations. 
+After graduation from college, I had four big realizations.
 
 The first was that leaving college meant that I was leaving a rich, supportive environment and that it would no longer be easily accessible. I was leaving the warm interest of professors and a close-knit community of peers, the beauty of the college campus, the atmosphere of scholarly words in the air, and the daily chance for random coincidences that would lead to new ideas and understanding. It's safe to say that I missed it immediately.
 
@@ -57,7 +57,7 @@ Here are a few things I've tried. Some of them are simple, some of them are a li
 3. **Going to museums**–There's nothing like a museum to put you in a reflective mood where new insights can happen.
 4. **Reading (and other media)**–Reading books is one of the best ways to explore new ideas. But I also include movies, videos, podcasts, music, articles, video games, art, and even new kinds of food (well, mainly tea) in my reading list.
 5. **Writing**—I think this is one of the most important tools for self-education. Reading is great, but writing is equally important because it gives you a chance to review, reflect, and refine your understanding. It also helps you formulate your own perspective and make connections between different ideas that may not be discovered if you're not given the chance to talk it out.
-6. **Organizing learning into "courses"**—Learning can often feel like an overwhelming, ever-expanding web of connected ideas and thoughts and it can get confusing and frustrating to try to keep everything clear and organized. You are learning something for the first time, after all. To keep things organized, I like to look for patterns in what I'm reading and what I'm thinking about and give them crazy fake "course" names like *Nausicaa and Korra: Themes in Anime and Manga from Homer to Kasamatsu to Miyazaki*. [Here's a list  of my "courses"](https://github.com/kmcgillivray/courses) and their readings lists from this year so far as an example. Giving these patterns and themes a name helps me keep the connections organized and makes it easier to look for more things on similar topics so that I can keep exploring in an interesting direction once I've found one. The process tends to go like this: I read, watch lectures, go to museums, etc., but as I do so I make a note of any interesting common themes or threads that connect the different things I'm exploring. Once something becomes clear, I'll give it a "course" name and keep track of the things I'm reading that are related to it. I also sometimes have a "final project" to go with a course. 
+6. **Organizing learning into "courses"**—Learning can often feel like an overwhelming, ever-expanding web of connected ideas and thoughts and it can get confusing and frustrating to try to keep everything clear and organized. You are learning something for the first time, after all. To keep things organized, I like to look for patterns in what I'm reading and what I'm thinking about and give them crazy fake "course" names like *Nausicaa and Korra: Themes in Anime and Manga from Homer to Kasamatsu to Miyazaki*. [Here's a list  of my "courses"](https://github.com/kmcgillivray/courses) and their readings lists from this year so far as an example. Giving these patterns and themes a name helps me keep the connections organized and makes it easier to look for more things on similar topics so that I can keep exploring in an interesting direction once I've found one. The process tends to go like this: I read, watch lectures, go to museums, etc., but as I do so I make a note of any interesting common themes or threads that connect the different things I'm exploring. Once something becomes clear, I'll give it a "course" name and keep track of the things I'm reading that are related to it. I also sometimes have a "final project" to go with a course.
 
 In the end though, the real guiding principle is to stay curious and spend time with the things you care about most. If you do that, you'll have no choice but to keep learning, exploring, creating, and discovering, and you'll find your own way to do it.
 

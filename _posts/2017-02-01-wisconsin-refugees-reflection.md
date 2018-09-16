@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wisconsin Refugees Reflection"
-category: writing
+category: journal
 description: "Interesting things I learned while exploring data about refugee resettlements in Wisconsin"
 ---
 

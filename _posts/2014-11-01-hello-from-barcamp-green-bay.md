@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello from BarCamp Green Bay"
-category: writing
+category: journal
 ---
 
 Hello!
