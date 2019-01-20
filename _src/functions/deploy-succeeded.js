@@ -5,7 +5,7 @@ import { AllHtmlEntities as Entities } from 'html-entities';
 
 dotenv.config();
 
-const NOTES_URL = 'http://localhost:4000/notes.json';
+const NOTES_URL = 'https://kevinmcgillivray.net/notes.json';
 
 const twitter = new Twitter({
   consumer_key: process.env.TWITTER_CONSUMER_KEY,
