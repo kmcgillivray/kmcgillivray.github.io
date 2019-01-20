@@ -1,5 +1,6 @@
 title: Kevin McGillivray
 url: https://kevinmcgillivray.net
+timezone: America/Chicago
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
