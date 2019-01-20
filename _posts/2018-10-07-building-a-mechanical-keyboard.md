@@ -8,7 +8,7 @@ social-image: keyboard-1.jpg
 
 ![Photo](/img/keyboard-1.jpg)
 
-Over the last couple months I spent time building a custom mechanical keyboard with my friend [Leivur](www.leivur.com). It started an excuse to get together more often, but I’ve learned a lot from the experience, not just about the somewhat quirky and niche world of mechanical keyboards but about the possibilities in the future of technology in general. I thought I would write up the process from start to finish for anyone curious, and a few other things I’ve learned along the way. Unfortunately this isn’t a detailed how-to guide, but more of a high level outline of what’s involved!
+Over the last couple months I spent time building a custom mechanical keyboard with my friend [Leivur](http://www.leivur.com). It started an excuse to get together more often, but I’ve learned a lot from the experience, not just about the somewhat quirky and niche world of mechanical keyboards but about the possibilities in the future of technology in general. I thought I would write up the process from start to finish for anyone curious, and a few other things I’ve learned along the way. Unfortunately this isn’t a detailed how-to guide, but more of a high level outline of what’s involved!
 
 ## Preparing to build
 
