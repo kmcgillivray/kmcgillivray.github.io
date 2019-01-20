@@ -1,0 +1,22 @@
+{
+  "name": "km",
+  "version": "1.0.0",
+  "private": true,
+  "description": "This is the repository for my [personal site](https://kevinmcgillivray.net). It's built with [Jekyll](http://jekyllrb.com) and hosted on [Netlify](http://netlify.com).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmcgillivray/kmcgillivray.github.io.git"
+  },
+  "author": "Kevin McGillivray",
+  "homepage": "https://github.com/kmcgillivray/kmcgillivray.github.io#readme",
+  "scripts": {
+    "start:lambda": "netlify-lambda serve _src/functions"
+  },
+  "devDependencies": {
+    "dotenv": "^6.2.0",
+    "html-entities": "^1.2.1",
+    "netlify-lambda": "^1.2.0",
+    "node-fetch": "^2.3.0",
+    "twitter": "^1.7.1"
+  }
+}

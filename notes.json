@@ -1,0 +1,14 @@
+---
+---
+
+[
+  {% for note in site.notes reversed %}
+  {
+    "id": "{{ note.title }}",
+    "date": "{{ note.last-modified-date }}",
+    "url": "{{ site.url }}{{ note.url }}",
+    "content": "{{ note.content | strip_html | escape | strip_newlines }}",
+    "syndicate": {{ note.syndicate }}
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
