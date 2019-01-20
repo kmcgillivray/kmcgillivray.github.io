@@ -1,0 +1,24 @@
+---
+layout: page-wide
+---
+
+<div class="mw7 ph3 center cf">
+  <div class="h-entry mb3 flex">
+
+    <div class="w2 mv2 mr2">
+      <a class="u-author db bn" href="{{ site.url }}/about"><img class="img-profile br-100" src="/img/kevin-alt-4.jpg" alt="Kevin McGillivray"></a>
+    </div>
+
+    <div class="measure">
+      <a class="f7 bn silver" href="{{ post.url }}"><time class="dt-published" datetime="{{ page.last-modified-date }}">{{ page.last-modified-date | date: "%-d %b %Y" }}</time></a>
+      <div class="e-content">{{ content }}</div>
+    </div>
+
+  </div>
+</div>
+
+<div class="section cf">
+  <div class="container-narrow">
+    {% include bio.html %}
+  </div>
+</div>

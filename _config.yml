@@ -4,3 +4,8 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:title/
 description: "Kevin McGillivray is a teacher and web developer from Wisconsin. He writes about creativity, mindfulness, code, and tea."
+collections:
+  notes:
+    output: true
+    layout: post
+    permalink: /:collection/:name
