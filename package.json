@@ -10,7 +10,9 @@
   "author": "Kevin McGillivray",
   "homepage": "https://github.com/kmcgillivray/kmcgillivray.github.io#readme",
   "scripts": {
-    "start:lambda": "netlify-lambda serve _src/functions"
+    "build": "jekyll build && npm run build:lambda",
+    "start:lambda": "netlify-lambda serve _src/functions",
+    "build:lambda": "netlify-lambda build _src/functions"
   },
   "devDependencies": {
     "dotenv": "^6.2.0",
