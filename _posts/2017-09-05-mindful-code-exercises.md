@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mindful Code Exercises"
-category: development
+category: code
 description: "Experiments for practicing mindfulness while writing code."
 ---
 

@@ -1,30 +1,7 @@
 ---
-layout: page-wide
+layout: category
 newsletter: true
 title: Journal
+category: journal
+description: Uncategorized thoughts that need a place to hang out.
 ---
-
-
-<div class="mw7 center cf">
-
-  <div class="ph3 measure">
-    <h1>/journal</h1>
-    <p>Uncategorized thoughts that need a place to hang out.</p>
-  </div>
-
-  <div>
-    {% for post in site.categories.journal %}
-      <div class="measure ph3 post mv4">
-        <h2 class="f4 mb1"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        {{ post.description }}
-      </div>
-    {% endfor %}
-  </div>
-
-</div>
-
-<div class="section cf">
-  <div class="container-narrow">
-    {% include bio.html %}
-  </div>
-</div>

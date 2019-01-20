@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Debug a Script"
-category: development
+category: code
 description: "Strategies and mindset for untangling code."
 excerpt: "Besides solving the issue you're stuck on, figuring out what the issue is in the first place is half the battle. But how do you start? How do you comb through the mess of code in front of you and find the issue? Here are a few strategies you can use to get started and work toward finding the issue and solving it."
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Writing Code from Scratch"
-category: development
+category: code
 description: "What to do when you have to come up with your own answers."
 syntax: true
 ---

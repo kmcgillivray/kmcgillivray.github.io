@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Stop Creativity"
-category: development
+category: code
 description: "Tried and true methods to create writer's block."
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Balanced Learning Plan: Lessons, Exercises, and Projects"
-category: development
+category: code
 description: "Go beyond the tutorial with a balanced approach to learning programming."
 ---
 

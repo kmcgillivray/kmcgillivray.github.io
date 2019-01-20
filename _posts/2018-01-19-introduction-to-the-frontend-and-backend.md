@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction to the \"Frontend\" and \"Backend\""
-category: development
+category: code
 description: "From server to browser—understand the basics of the full stack to create a clear learning path."
 ---
 

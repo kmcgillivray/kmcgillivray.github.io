@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Create Image Captions with Jekyll
-category: development
+category: code
 description: "Use Jekyll includes to create easy to manage image captions."
 ---
 

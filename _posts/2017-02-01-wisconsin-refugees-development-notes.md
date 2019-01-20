@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wisconsin Refugees Development Notes"
-category: development
+category: code
 description: "How I built an interactive visualization of refugee data in Wisconsin."
 syntax: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What to do After the Developer Bootcamp"
-category: development
+category: code
 description: "Navigating the next step in your development career."
 ---
 

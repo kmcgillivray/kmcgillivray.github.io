@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Web Development Reading List"
-category: development
+category: code
 description: "Collecting a reading list of important and influential writing for web development students."
 ---
 

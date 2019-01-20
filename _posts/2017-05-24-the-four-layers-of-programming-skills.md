@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Four Layers of Programming Skills"
-category: development
+category: code
 description: "Learn about the four layers of programming skills: syntax, programmatic thinking, creativity, and interdisciplinary skills."
 excerpt: "Learn about the four layers of programming skills: syntax, programmatic thinking, creativity, and interdisciplinary skills."
 ---
