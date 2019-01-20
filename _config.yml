@@ -10,3 +10,11 @@ collections:
     output: true
     layout: post
     permalink: /:collection/:name
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "notes" # a collection in your site, in plural form
+    values:
+      layout: "note"
