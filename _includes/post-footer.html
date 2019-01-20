@@ -10,7 +10,8 @@
       {% endif %}
     {% endcapture %}
 
-    <p class="post-date tc tl-m avenir">Published {{ postDate }}</p>
+    <p class="post-date tc tl-m avenir">Published <time class="dt-published">
+{{ postDate }}</time></p>
     <hr>
 
     {% include bio.html %}
