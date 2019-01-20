@@ -3,7 +3,7 @@
 {% endif %}
 
 <div class="container-narrow">
-  <h1 class="p-name mt3 mb4 tc"><a class="bn" href="{{ include.thePost.url }}">{{ include.thePost.title }}</a></h1>
+  <h1 class="p-name mt3 mb4 tc"><a class="u-url bn" href="{{site.url}}{{ include.thePost.url }}">{{ include.thePost.title }}</a></h1>
   <div class="e-content">
     {{ include.thePost.content }}
   </div>
