@@ -36,25 +36,18 @@ const prepareStatusText = note => {
   return text;
 }
 
-const saveNoteToAirtable = async note => {
-  base('Notes').create({
-    "ID": parseInt(note.id),
-    "URL": note.url
-  }, function(err, record) {
-    if (err) { return handleError(err); }
-    console.log('Note successfully saved to Airtable');
-  });
-}
-
 const publishNote = async note => {
   try {
     const statusText = prepareStatusText(note);
     const tweet = await twitter.post('statuses/update', {
       status: statusText
     });
-    const airtableRecord = await saveNoteToAirtable(note);
-    if (tweet) {
-      return status(200, `Note ${note.date} successfully posted to Twitter.`);
+    const airtableRecord = await base('Notes').create({
+      "ID": parseInt(note.id),
+      "URL": note.url
+    });
+    if (tweet && airtableRecord) {
+      return status(200, `Note ${note.date} successfully posted to Twitter and Airtable.`);
     } else {
       return status(422, 'Error posting to Twitter API.');
     }
