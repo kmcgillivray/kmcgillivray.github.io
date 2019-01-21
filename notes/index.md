@@ -7,11 +7,11 @@ newsletter: true
   {% for note in site.notes reversed %}
     <div class="h-entry mb3 flex">
 
-      <div class="mw2 mv2 mr2">
+      <div class="w2 mv2 mr2">
         <a class="u-author db bn" href="{{ site.url }}/about"><img class="img-profile br-100" src="/img/kevin-alt-4.jpg" alt="Kevin McGillivray"></a>
       </div>
 
-      <div class="measure-ns">
+      <div class="w-100 measure-ns">
         <a class="f7 bn silver" href="{{ note.url }}"><time class="dt-published" datetime="{{ note.date }}">{{ note.date | date: "%-d %b %Y" }}</time></a>
         <div class="e-content">{{ note.content }}</div>
       </div>
