@@ -10,7 +10,7 @@ layout: page-wide
     </div>
 
     <div class="measure">
-      <a class="f7 bn silver" href="{{ post.url }}"><time class="dt-published" datetime="{{ page.last-modified-date }}">{{ page.last-modified-date | date: "%-d %b %Y" }}</time></a>
+      <a class="f7 bn silver" href="{{ post.url }}"><time class="dt-published" datetime="{{ page.date }}">{{ page.date | date: "%-d %b %Y" }}</time></a>
       <div class="e-content">{{ content }}</div>
     </div>
 

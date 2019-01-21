@@ -1,7 +1,7 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@kev_mcg" />
 <meta name="twitter:creator" content="@kev_mcg" />
-<meta property="og:title" content="{% if page.collection == 'notes' %}{{ page.last-modified-date | date: '%-d %b %Y'  }}{% else %}{{ page.title }}{% endif %}">
+<meta property="og:title" content="{% if page.collection == 'notes' %}{{ page.date | date: '%-d %b %Y'  }}{% else %}{{ page.title }}{% endif %}">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Kevin McGillivray">
 <meta property="og:url" content="https://{{ site.url }}{{ page.url }}">

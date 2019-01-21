@@ -12,7 +12,7 @@ newsletter: true
       </div>
 
       <div class="measure-ns">
-        <a class="f7 bn silver" href="{{ note.url }}"><time class="dt-published" datetime="{{ note.last-modified-date }}">{{ note.last-modified-date | date: "%-d %b %Y" }}</time></a>
+        <a class="f7 bn silver" href="{{ note.url }}"><time class="dt-published" datetime="{{ note.date }}">{{ note.date | date: "%-d %b %Y" }}</time></a>
         <div class="e-content">{{ note.content }}</div>
       </div>
 

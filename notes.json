@@ -5,7 +5,7 @@
   {% for note in site.notes reversed %}
   {
     "id": "{{ note.title }}",
-    "date": "{{ note.last-modified-date }}",
+    "date": "{{ note.date }}",
     "url": "{{ site.url }}{{ note.url }}",
     "content": "{{ note.content | strip_html | escape | strip_newlines }}",
     "syndicate": {{ note.syndicate }}
