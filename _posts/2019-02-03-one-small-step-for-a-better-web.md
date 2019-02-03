@@ -2,7 +2,7 @@
 layout: post
 title: One Small Step for a Better Web
 category: journal
-description: ""
+description: "Watching the independent web shift from nostalgia to action"
 social-image:
 ---
 
