@@ -1,0 +1,91 @@
+I""&<p>As I wrote about in the <a href="/wisconsin-refugees-reflection">sister note</a> to this post, I recently made a data visualization project exploring <a href="http://kevinmcgillivray.net/wisconsin-refugees">refugee resettlements in Wisconsin</a>.</p>
+
+<p>For the programming-curious and development-minded out there, here’s how I built the visualization, and here’s the <a href="https://github.com/kmcgillivray/wisconsin-refugees">GitHub repository</a>.</p>
+
+<h2 id="the-data">The data</h2>
+
+<p>The data came from the <a href="http://ireports.wrapsnet.org">Refugee Processing Center Database</a>. You can see a PDF of the report I used <a href="http://kevinmcgillivray.net/wisconsin-refugees/data/arrivals-by-destination-and-nationality.pdf">here</a>.</p>
+
+<p>First I exported the data in CSV format from the Refugee Processing Center website. I cleaned up some of the headings in the CSV file to make them more readable than the default headings in the export.</p>
+
+<p>For those not familiar with CSV, it means comma separated values, and it’s a plain text format where values are… well… separated by commas. Basically a spreadsheet with columns and rows, but everything is separated by a comma to mark a new column:</p>
+
+<pre><code class="language-csv">state,calendarYear,cumulativeInState,nationality,totalByNationality,destinationCity,yearlyNumberByCity
+Wisconsin,2002,214,Afghanistan,25,Hartland
+Wisconsin,2003,242,Afghanistan,13,Hartland
+Wisconsin,2004,"2,414",Afghanistan,10,Hartland,0
+Wisconsin,2005,"1,170",Afghanistan,1,Hartland,0
+Wisconsin,2006,330,Afghanistan,1,Hartland,0
+Wisconsin,2007,353,Afghanistan,9,Hartland,3
+</code></pre>
+
+<h2 id="loading-the-data">Loading the data</h2>
+
+<p>Now that I had a clean copy of the data in CSV, I needed a way to interact with it programmatically. I knew I wanted this to be a web page, and despite my progressive-enhancement-loving tendencies I decided to build frontend only to get the project moving quickly.</p>
+
+<p>The state of the art JavaScript data visualization library is <a href="https://d3js.org">D3</a> so off I went to build an HTML page and load D3.</p>
+
+<p>D3 can convert CSV files to a JavaScript array easily like so:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">d3</span><span class="p">.</span><span class="nx">csv</span><span class="p">(</span><span class="dl">'</span><span class="s1">/data/2002-2017-wisconsin-refugees-arrivals-by-destination-and-nationality.csv</span><span class="dl">'</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">d</span><span class="p">)</span> <span class="p">{</span>
+  <span class="c1">// d is now the data from the CSV file in an array</span>
+  <span class="kd">var</span> <span class="nx">data</span> <span class="o">=</span> <span class="nx">d</span><span class="p">;</span>
+<span class="p">});</span>
+</code></pre></div></div>
+
+<p>Cool, now I can start to slice and dice the data!</p>
+
+<h2 id="slicing-and-dicing">Slicing and dicing</h2>
+
+<p>The next step was to sketch out a series of functions that I would likely want to use later to see specific portions of the data. I wanted to be able to see the data for specific years or year ranges and for a specific country or list of countries.</p>
+
+<blockquote>
+  <p>Side note: this is something I’ve learned recently as a practicing developer—to get more efficient at building a project, sketch out the API (the set of functions you write to call upon later) right at the beginning. Imagine the set of functionality that you need to have at your disposal and outline it. It seems obvious, but in the past I would often focus on getting one thing to work at a time and build from there. Focusing on the big picture not only means you’ll finish more efficiently, but the code will likely be more modular and flexible from the start. Really subtle difference, but useful to practice.</p>
+</blockquote>
+
+<p>I wrote individual functions to filter the data for specific years or nationalities, a larger <code class="highlighter-rouge">query</code> function that called those functions so I could search by year and nationality at the same time, and then a few helper functions for converting data between objects and arrays or pulling out specific values such as just the list of nationalities of the resulting data.</p>
+
+<p>Using these functions, I was able to do all of the searches I needed to do just by calling the <code class="highlighter-rouge">query</code> function. Now it was time to display the data!</p>
+
+<h2 id="displaying-data">Displaying data</h2>
+
+<p>I like to get things working in as simple a way as possible at first, so to begin with I took the data from the query function and wrote it to text on the HTML page. It wasn’t yet my ultimate goal of displaying the data on a fancy map, but it was a display of data which is a great first step.</p>
+
+<p>After that I had two directions I could go in: either start displaying the data visually on a map, or build a user interface so I could make new queries through the web page rather than in code. I chose to work on the mapping first since it was more difficult and therefore more fun.</p>
+
+<h2 id="maps">Maps</h2>
+
+<p>After lots of research, lots of trial and error, and several pots of tea, I was able to display a map of Wisconsin using the very interesting and still slightly confusing combination of D3 projections and GeoJSON data.</p>
+
+<p>I had never worked with GeoJSON data before, but it’s very cool. Essentially you can store your geography data the way it’s most easily readable and obtainable: latitude and longitude values. Then, you can use a “projection” to convert those values into a specific mapping of values on an SVG box on a web page.</p>
+
+<p>This is amazing because it means I can store a map of Wisconsin using latitude/longitude values, and the locations of cities in latitude/longitude values, and not have to manually convert those values to coordinates in the SVG box. Very useful, but slightly confounding setup process if you haven’t done it before.</p>
+
+<p>The GeoJSON data for Wisconsin was readily available online, so I copied it and loaded it into the project. I wasn’t able to find a GeoJSON file of the locations of all the cities in Wisconsin however, so I’m embarrassed to say I looked up the 81 cities in the dataset manually and recorded their latitude and longitude values. A quiet voice in the back of my head told me I could easily connect to something like the Google Maps API and get the data programmatically, but another voice in my head said that might be a distraction from the main problem at hand. If I were to expand this to other states or if the dataset changes in the future, however, I will certainly do that much wiser route.</p>
+
+<p>With all of my geographic data at hand, I connected it to the refugee resettlement dataset and I placed a circle on each city where refugees had settled. Then I varied the size of the circle based on the number of refugees who settled there. This quickly became a design problem, because Milwaukee has had way more refugees resettle there than the rest of the state. The proportion difference was so great that most circles simply disappeared off the map because they were too small. I accounted for this problem by placing a default border around every circle. It skews the perception of the difference of the data based on size slightly, but at least you can see every location.</p>
+
+<p>I also explored several other options for displaying the data, including color variation rather than size variation and displaying circles based on population density rather than total population. In the end I decided the first approach was simpler and better.</p>
+
+<h2 id="refactoring">Refactoring</h2>
+
+<p>I was getting to a point where I had a lot of code, so at this point I reorganized into more modular, object-oriented pieces of code. I made objects for a View, a Query, and some DataUtils to store my data converting functions in one place.</p>
+
+<h2 id="user-interface">User interface</h2>
+
+<p>The data visualization was in place, but the page was just a map in the middle of a page. There was no interface for interacting with the data through the page itself.</p>
+
+<p>So, I started to add to the page layout, first a heading at the top of the page, and an alternative display of the data, a block of text that summarizes the data shown on the map and updates as the query is changed:</p>
+
+<p><img src="/img/text-data-example.png" alt="Data text" /></p>
+
+<p>Then I added form elements to the HTML page, such as a dropdown to select a specific nationality to view and a slider to select a range of years (using <a href="https://refreshless.com/nouislider/">this JavaScript slider</a> since HTML doesn’t have a built in two-handled slider).</p>
+
+<p>I connected these elements to the functions I had previously written to query the data, and confirmed that they updated the display of the data when they were changed!</p>
+
+<h2 id="refinements-and-more-refactoring">Refinements and more refactoring</h2>
+
+<p>The rest of the work was detail oriented, building on top of this foundation. I improved the mobile layout, fixed some weird display issues during certain queries, added some extra data display boxes to the text display, cleaned up messy code, and got it ready for sharing.</p>
+
+<p>At this point the code could still use some refactoring and cleaning up, but everything is working more or less as it should. Again, please see the <a href="/wisconsin-refugees-reflection">sister post</a> to this one for more thoughts about the content of the visualization itself. Happy coding!</p>
+:ET

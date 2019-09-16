@@ -1,0 +1,38 @@
+I"Ë<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">mindfulness</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
+<span class="kd">var</span> <span class="nx">cat</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="na">name</span><span class="p">:</span> <span class="dl">"</span><span class="s2">Apollo</span><span class="dl">"</span><span class="p">,</span>
+  <span class="na">hungry</span><span class="p">:</span> <span class="kc">true</span><span class="p">,</span>
+  <span class="na">speak</span><span class="p">:</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+    <span class="nx">alert</span><span class="p">(</span><span class="dl">"</span><span class="s2">Mrrreowrr!</span><span class="dl">"</span><span class="p">);</span>
+  <span class="p">},</span>
+  <span class="na">eat</span><span class="p">:</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+    <span class="k">this</span><span class="p">.</span><span class="nx">hungry</span> <span class="o">=</span> <span class="kc">false</span><span class="p">;</span>
+  <span class="p">}</span>
+<span class="p">};</span>
+<span class="k">for</span> <span class="p">(</span><span class="kd">var</span> <span class="nx">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;</span> <span class="mi">20</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nx">cat</span><span class="p">.</span><span class="nx">speak</span><span class="p">();</span>
+<span class="p">}</span>
+<span class="nx">cat</span><span class="p">.</span><span class="nx">eat</span><span class="p">();</span>
+<span class="kd">var</span> <span class="nx">tea</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="na">name</span><span class="p">:</span> <span class="dl">"</span><span class="s2">Pure Bud Golden Snail</span><span class="dl">"</span><span class="p">,</span>
+  <span class="na">type</span><span class="p">:</span> <span class="dl">"</span><span class="s2">Black</span><span class="dl">"</span><span class="p">,</span>
+  <span class="na">origin</span><span class="p">:</span> <span class="dl">"</span><span class="s2">China</span><span class="dl">"</span><span class="p">;</span>
+<span class="p">};</span>
+<span class="kd">var</span> <span class="nx">brew</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="na">temperature</span><span class="p">:</span> <span class="mi">90</span><span class="p">,</span>
+  <span class="na">time</span><span class="p">:</span> <span class="mi">30</span><span class="p">,</span>
+  <span class="na">teaware</span><span class="p">:</span> <span class="dl">"</span><span class="s2">Gaiwan</span><span class="dl">"</span><span class="p">,</span>
+  <span class="na">teaWeight</span><span class="p">:</span> <span class="mi">4</span><span class="p">,</span>
+  <span class="na">infusions</span><span class="p">:</span> <span class="mi">4</span>
+<span class="p">};</span>
+<span class="kd">var</span> <span class="nx">todo</span> <span class="o">=</span> <span class="p">[</span>
+  <span class="dl">"</span><span class="s2">Make tea</span><span class="dl">"</span><span class="p">,</span>
+  <span class="dl">"</span><span class="s2">Read</span><span class="dl">"</span><span class="p">,</span>
+  <span class="dl">"</span><span class="s2">Work maybe?</span><span class="dl">"</span><span class="p">,</span>
+  <span class="dl">"</span><span class="s2">Plan wedding</span><span class="dl">"</span>
+<span class="p">];</span>
+<span class="nx">me</span><span class="p">.</span><span class="nx">makeTea</span><span class="p">();</span>
+<span class="nx">me</span><span class="p">.</span><span class="nx">read</span><span class="p">();</span>
+<span class="nx">me</span><span class="p">.</span><span class="nx">write</span><span class="p">(</span><span class="dl">"</span><span class="s2">Whatever words need to get out today.</span><span class="dl">"</span><span class="p">);</span>
+</code></pre></div></div>
+:ET

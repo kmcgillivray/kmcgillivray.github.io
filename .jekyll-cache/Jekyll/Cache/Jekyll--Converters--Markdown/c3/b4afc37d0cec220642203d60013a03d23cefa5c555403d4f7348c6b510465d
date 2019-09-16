@@ -1,0 +1,112 @@
+I"�<div class="mw7 ph3 center cf">
+  
+    <div class="h-entry mb3 flex">
+
+      <div class="w2 mv2 mr2">
+        <a class="u-author db bn" href="http://localhost:4000/about"><img class="img-profile br-100" src="/img/kevin-alt-4.jpg" alt="Kevin McGillivray" /></a>
+      </div>
+
+      <div class="w-100 measure-ns">
+        <a class="f7 bn silver" href="/notes/6"><time class="dt-published" datetime="2019-09-16 17:44:56 -0500">16 Sep 2019</time></a>
+        <div class="e-content"><p>I wrote about noticing a subtle, hopeful shift in the conversation around the future of the web from nostalgia to action:</p>
+
+<p>One Small Step for a Better Web https://www.kevinmcgillivray.net/one-small-step-for-a-better-web/</p>
+</div>
+      </div>
+
+    </div>
+  
+    <div class="h-entry mb3 flex">
+
+      <div class="w2 mv2 mr2">
+        <a class="u-author db bn" href="http://localhost:4000/about"><img class="img-profile br-100" src="/img/kevin-alt-4.jpg" alt="Kevin McGillivray" /></a>
+      </div>
+
+      <div class="w-100 measure-ns">
+        <a class="f7 bn silver" href="/notes/5"><time class="dt-published" datetime="2019-09-16 17:44:56 -0500">16 Sep 2019</time></a>
+        <div class="e-content"><p>The @cloverfoodlab book selection is my love language:</p>
+
+<ul>
+  <li>Tomatoland</li>
+  <li>Taste, Memory</li>
+  <li>Lentil Underground</li>
+</ul>
+
+<p>and…</p>
+
+<ul>
+  <li>THE CORNBREAD GOSPELS</li>
+</ul>
+</div>
+      </div>
+
+    </div>
+  
+    <div class="h-entry mb3 flex">
+
+      <div class="w2 mv2 mr2">
+        <a class="u-author db bn" href="http://localhost:4000/about"><img class="img-profile br-100" src="/img/kevin-alt-4.jpg" alt="Kevin McGillivray" /></a>
+      </div>
+
+      <div class="w-100 measure-ns">
+        <a class="f7 bn silver" href="/notes/4"><time class="dt-published" datetime="2019-01-21 11:28:00 -0600">21 Jan 2019</time></a>
+        <div class="e-content"><p>GRB - DTW - LGA - BOS</p>
+</div>
+      </div>
+
+    </div>
+  
+    <div class="h-entry mb3 flex">
+
+      <div class="w2 mv2 mr2">
+        <a class="u-author db bn" href="http://localhost:4000/about"><img class="img-profile br-100" src="/img/kevin-alt-4.jpg" alt="Kevin McGillivray" /></a>
+      </div>
+
+      <div class="w-100 measure-ns">
+        <a class="f7 bn silver" href="/notes/3"><time class="dt-published" datetime="2019-01-20 22:00:00 -0600">20 Jan 2019</time></a>
+        <div class="e-content"><p>Spent the weekend (in between packing/getting ready for Boston) setting up IndieWeb stuff on my site—it’s creaky and taped together but pretty fun to tweet by updating my Jekyll site! Notes at <a href="http://kevinmcgillivray.net/notes">http://kevinmcgillivray.net/notes</a> syndicated to Twitter.</p>
+</div>
+      </div>
+
+    </div>
+  
+    <div class="h-entry mb3 flex">
+
+      <div class="w2 mv2 mr2">
+        <a class="u-author db bn" href="http://localhost:4000/about"><img class="img-profile br-100" src="/img/kevin-alt-4.jpg" alt="Kevin McGillivray" /></a>
+      </div>
+
+      <div class="w-100 measure-ns">
+        <a class="f7 bn silver" href="/notes/2"><time class="dt-published" datetime="2019-01-20 12:00:00 -0600">20 Jan 2019</time></a>
+        <div class="e-content"><p>Setting up note syndication to Twitter following this guide from @mxbck: <a href="https://mxb.at/blog/syndicating-content-to-twitter-with-netlify-functions">https://mxb.at/blog/syndicating-content-to-twitter-with-netlify-functions</a></p>
+</div>
+      </div>
+
+    </div>
+  
+    <div class="h-entry mb3 flex">
+
+      <div class="w2 mv2 mr2">
+        <a class="u-author db bn" href="http://localhost:4000/about"><img class="img-profile br-100" src="/img/kevin-alt-4.jpg" alt="Kevin McGillivray" /></a>
+      </div>
+
+      <div class="w-100 measure-ns">
+        <a class="f7 bn silver" href="/notes/1"><time class="dt-published" datetime="2019-01-19 12:00:00 -0600">19 Jan 2019</time></a>
+        <div class="e-content"><p>Setting up notes posts on my site! Following the resources at <a href="http://indieweb.org">http://indieweb.org</a></p>
+</div>
+      </div>
+
+    </div>
+  
+</div>
+
+<div class="section cf">
+  <div class="container-narrow">
+    <div class="p-author h-card">
+  <a class="db fl-ns bn mw4 mb3 mr3-ns center ml0-ns" href="/about"><img class="u-photo img-profile br-100" src="/img/kevin-alt-4.jpg" alt="About Kevin McGillivray" /></a>
+  <p class="pl3-ns p-note"><a class="p-name u-url" href="https://kevinmcgillivray.net/about">Kevin McGillivray</a> is a web developer, writer, and teacher from Wisconsin. He writes about creativity, mindfulness, code, and tea.</p>
+</div>
+
+  </div>
+</div>
+:ET

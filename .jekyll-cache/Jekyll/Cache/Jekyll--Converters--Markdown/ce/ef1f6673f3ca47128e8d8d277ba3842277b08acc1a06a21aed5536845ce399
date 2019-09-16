@@ -1,0 +1,30 @@
+I"�<p>The nostalgia for the early days of the web—quirky websites, “surfing”, AIM and LiveJournal—can sometimes be like any nostalgia: clouded by romance, and ends up feeling empty and broken if you actually get back the thing you wish you still had. But nostalgia can be a useful teacher to course correct for the future. It points toward something that <em>was</em> valuable, was lost, and needs to be re-created in a new form, not reclaimed by regressing to a past version.</p>
+
+<p>Something that’s easy to forget but important to remember: we can make the web be anything we want it to be. We don’t have to live with how it is, and we don’t have to make it exactly like it used to be either.</p>
+
+<p>The character and unique value of the web is that it is fundamentally open, accessible, and decentralized. Anything that’s on the web that isn’t open, accessible, and decentralized is going <em>against the grain</em> of the web. It isn’t <a href="https://alistapart.com/article/material-honesty-on-the-web">materially honest</a>. This applies to how we build for the web, what we publish on the web, and how we interact on the web.</p>
+
+<p>We can’t completely remove the impact and contributions of the big web silos and monopolies. The web is now too big, too profitable, too heavily populated to pretend there won’t be some big sharks in the pool. But we can offer alternatives. <a href="https://twitter.com/anildash/status/1066413116685209601">Anil Dash</a> said it well:</p>
+
+<blockquote>
+  <p>In general, a healthy mix of time spent online should be like healthy sourcing of food — it’s fine to have fast food from factories, but you want to make sure to also have fresh, local apps and sites and content, created by people you know and love, sourced within your community.</p>
+</blockquote>
+
+<p>For the last few years, the discussion around the future of the web was stuck in nostalgia and didn’t yet have many answers for what to do about it. In 2015, Hossein Derakhshan <a href="https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426">wrote about</a> how “the rich, diverse, free web that (he) loved — and spent years in an Iranian jail for — is dying.” In 2016, in the Awl (which is now dead…) <a href="https://www.theawl.com/2016/06/whither-the-webpage/#.t2ixf1hr8">Charles Thaxton reflected on the pervading nostalgia</a> for the early web, and on the short lived “Web Brutalism” design trend that seemed to be a high contrast reaction to polished “Zuckerbergian” social media platforms and a dull protest against the lack of weird. He also pointed out how things could get <em>worse</em> and that we all may look back on Facebook posts with nostalgia in a few years.</p>
+
+<p>In <a href="https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/">the Atlanic</a>, Adrienne LaFrance reminded us that the web is <em>not</em> the Library of Alexandria, and as much as we try to archive and preserve its magic, we simply can’t contain it or even reliably protect all of its most inspiring treasures.</p>
+
+<p>But now, in January 2019… there may be a <a href="https://en.wikipedia.org/wiki/Marie_Kondo">spark of joy</a>. Nostalgia is giving way to a vision of what the future might be and the building blocks to create it. There’s a growing resistance to the bad practices around privacy, security, and <a href="https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html">monopolism at Facebook</a>, and a growing awareness of other options (see <a href="https://switching.social/">Switching Social</a>). Some companies like Basecamp are making their business <a href="https://m.signalvnoise.com/become-a-facebook-free-business/">Facebook-free</a> and moving their content away from silos <a href="https://m.signalvnoise.com/signal-v-noise-exits-medium/">onto their own platforms</a>. The technologies of the <a href="https://indieweb.org/">IndieWeb</a> and federated networks using <a href="https://activitypub.rocks/">ActivityPub</a> have evolved and are catching on among people with the skills to use them while slowly becoming more accessible to a general audience.</p>
+
+<p>There’s a sense that the alternatives actually exist, and the combination of older technologies (RSS!) and new ones (ActivityPub!) can lead to a happy coexistence of Big Social Media with indie sites. I’m hoping, but also taking my own small steps to make sure the web continues to hold all the things we love:</p>
+
+<ol>
+  <li>I’ve switched my primary browser to Firefox. The Firefox development tools are fantastic, and the browser will <a href="https://blog.mozilla.org/blog/2019/01/29/todays-firefox-gives-users-more-control-over-their-privacy/">soon ship</a> with significant privacy settings on by default.</li>
+  <li>I’ve added some IndieWeb features to my own site, such as the ability to tweet automatically by posting to my own blog (the main IndieWeb tenet is “publish on your own site, syndicate elsewhere”).</li>
+  <li>I’ve finally organized my logins in 1Password and done other security cleanup. Not specifically a part of the open web, but necessary when the large centralized networks we’re all part of have proven they can’t be trusted with our personal information.</li>
+  <li>Booted up an RSS reader—so I can create a better balance of information sourcing.</li>
+  <li>Finally set Duck Duck Go as my default search provider.</li>
+</ol>
+
+<p>It’s small, but it already feels like a noticeable shift. The fear of letting go of the big social networks is that we’ll lose our communities. I don’t want to lose touch with the <em>good</em> parts that have come from these platforms. But it’s a big web—and we can make it a better ground for all of us to stay connected and share our discoveries.</p>
+:ET
