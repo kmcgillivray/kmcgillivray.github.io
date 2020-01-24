@@ -9,3 +9,5 @@ Also, since I mentioned the fact that I'm not adept at diving into big life chan
 ## What's your word?
 
 I chose my word with the wise guidance of the [Choose One Word](https://learn.cleverness.com/word/vclvo) program by [Dr. Jason Fox](https://www.drjasonfox.com/). I'm _deeply_ grateful for the rich insights I found in this video series, and for the charming, caring, and generous space Jason created for self-knowledge, self-development, and self-actualization. I highly recommend trying it yourself, and if you use [my affiliate link](https://learn.cleverness.com/word/vclvo) Jason will send me an _enchanted wizard pin_ and a commission. If you do, let me know what your word is!
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/c03sWpt62vw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
