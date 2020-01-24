@@ -4,14 +4,14 @@
 <meta property="og:title" content="{% if page.collection == 'notes' %}{{ page.date | date: '%-d %b %Y'  }}{% else %}{{ page.title }}{% endif %}">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Kevin McGillivray">
-<meta property="og:url" content="https://{{ site.url }}{{ page.url }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
 {% if page.description %}
 <meta property="og:description" content="{{ page.description }}">
 {% else %}
 <meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 200}}">
 {% endif %}
 {% if page.social-image %}
-<meta property="og:image" content="https://{{ site.url }}/img/{{ page.social-image }}">
+<meta property="og:image" content="{{ site.url }}/img/{{ page.social-image }}">
 {% else %}
-<meta property="og:image" content="https://{{ site.url }}/img/kevin-alt-4.jpg">
+<meta property="og:image" content="{{ site.url }}/img/kevin-alt-4.jpg">
 {% endif %}

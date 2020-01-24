@@ -1,0 +1,32 @@
+.clarendon { font-family: clarendon-text-pro, serif; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $signal-mid-dark;
+}
+a {
+  text-decoration: none;
+  color: $treasure-dark;
+  transition: $animation-timing opacity;
+}
+a:hover {
+  opacity: .65;
+  transition: $animation-timing opacity;
+}
+hr {
+  border-top: 4px solid $treasure-mid-dark;
+  width: 40%;
+  border-bottom: none;
+  border-left: none;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+@media(min-width: 30em) {
+  .headline {
+    font-size: 3.5rem;
+  }
+}

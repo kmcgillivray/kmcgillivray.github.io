@@ -1,0 +1,57 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@import 'diver-variables';
+@import 'global';
+@import 'diver-typography';
+@import 'diver-skins';
+
+body {
+  overflow-x: hidden;
+}
+@media(min-width: 70em) {
+  .absolute-xl {
+    position: absolute;
+  }
+}
+.diver-illustration-1 {
+  top: -21rem;
+  right: -5rem;
+  width: 120%;
+  max-width: 120%;
+}
+@media(min-width: 30em) {
+  .diver-illustration-1 {
+    top: -16rem;
+    right: -14rem;
+    width: 80%;
+    max-width: 80%;
+  }
+}
+.diver-illustration-2 {
+  top: 10rem;
+  right: -23rem;
+}
+.diver-illustration-3 {
+  top: 10rem;
+  right: -4rem;
+}
+.diver-illustration-4 {
+  top: -22rem;
+  right: -5rem;
+}
+.diver-illustration-5 {
+  top: -12rem;
+  right: -20rem;
+}
+.diver-illustration-6 {
+  top: -13rem;
+  right: -3rem;
+}
+.multiply { mix-blend-mode: multiply; }
+.grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 1.25rem;
+}
