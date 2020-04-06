@@ -1,0 +1,19 @@
+# Year of the Diver, April
+{: .mb1 }
+
+_I'm here. I'm diving._
+{: .f4 .mt0 }
+
+{% include image.html file='diver-pins.jpg' description='My backpack with diver pins—a thoughtful gift from Alex :heart_eyes:' %}
+
+{% include word/horizontal-rule.html %}
+
+Earlier this year, I had the deep pleasure of choosing one word for my year with the help of [Dr. Jason Fox's choose one word online program](https://www.cleverness.com/word). After a flurry of wonderfully challenging reflections and immersion in the [nöosphere](https://en.wikipedia.org/wiki/Noosphere), I emerged with one word: ["diver."](/word) I set a reminder in my calendar to check in on April 1, a fool's reflection, to see how things were going and remind myself of the nuances of the "fuzzy, contextual beacon" I had cast forth.
+
+One of the main themes of the course is that life is complex and unpredictable. We don't know what's going to happen over the course of a year, so it's better to have a general directionality than a set of specific goals and plans so you can adjust course as life inevitably takes unexpected turns. This way you may end up closer to "future relevance" than you would with a rigid, pre-planned goal.
+
+Well... obviously world events since then have given ample opportunities to experience this firsthand. Talking with my mom over Facetime yesterday, she mentioned how the coronavirus pandemic must have really put my year of the Diver onto a different course. In some ways it has. Some of my diver-y projects are on pause. A lot of energy has gone into adjusting to new routines, maintaining awareness of an unpredictable situation, and navigating a haze of surreality, worry, and grief. Two months ago I wrote that I wanted to find a balance between social isolation and overcommitment, not knowing the entire world was about to enter a season of physical isolation (which doesn't necessarily translate to less social interaction, but more likely into community mediated through webcams).
+
+But in most ways, nothing has changed in terms of the primary principles and patterns I reflected on earlier in the year. If anything, they've gained even more relevance and meaningness, especially "embracing improvisation and the unknown" and "participating in slow correspondence with kindred co-creators." Two or three months in, I can feel myself embodying new diver-y patterns more readily and fluently, while others are still awkward and uncomfortable. There are areas of the year of the diver I haven't explored yet, and there are areas I couldn't have predicted would emerge. I've had moments of old patterns of self-sabotage and veering away from patterns that encourage self-knowledge, self-development, and self-actualization, but I've been able to listen to the warning buoys I set for myself and realign my direction.
+
+I feel a sense of self-indulgence reflecting on this in the current context. The deep simmering on self-knowledge and self-development I had the luxury to enjoy over the winter feels like it belongs in a higher order of the hierarchy of needs than the one we're all living in now. It feels on the edge of overwhelming to write much about it, when so much energy is being given to lower order needs. But, while living in quarantine has shaped the year, the choose one word ritual has given me a compass to nimbly navigate it. I'm only getting started on this year's journey, so I think I will be grateful looking back later for taking this time to reflect even in extraordinarily rough seas. As I wrote in [a recent letter to a friend](https://letter.wiki/conversation/415#letter_1783), my daily priority is stability and security in my own environment and doing my part to help others in my community stay safe and secure. After that, I try to keep the light on in the lighthouse, and a signal flag on the mast. I'm here, I'm diving.
