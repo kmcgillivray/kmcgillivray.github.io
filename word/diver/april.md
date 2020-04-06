@@ -2,7 +2,7 @@
 layout: diver
 title: Year of the Diver, April
 description: A Fool's Reflection
-social-image: learning-to-swim.jpg
+social-image: diver-pins.jpg
 newsletter: false
 ---
 
@@ -10,6 +10,5 @@ newsletter: false
   <div class="measure-wide center">
     {% capture post %}{% include word/diver/april.md %}{% endcapture %}
     {{ post | markdownify }}
-    {% include word/horizontal-rule.html %}
   </div>
 </section>
