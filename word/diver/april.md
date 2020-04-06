@@ -1,7 +1,7 @@
 ---
 layout: diver
 title: Year of the Diver, April
-description: A Fool's Reflection
+description: "I'm here. I'm diving."
 social-image: diver-pins.jpg
 newsletter: false
 ---
