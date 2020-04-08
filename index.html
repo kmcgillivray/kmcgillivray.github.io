@@ -5,15 +5,65 @@ home: true
 ---
 
 <section class="measure center f3-ns ph3">
-  <img src="/img/kevin-alt-4.jpg" alt="Kevin McGillivray" class="db mw5 center br-100">
-  <h1 class="f2 tc mt0">Ahoy and hello!</h1>
-  <p>Welcome to the cozy harbor on the bay. My name is <strong>Kevin</strong>—code druid, deep diver, and convivial cook in a web developer costume. I'm <a href="/archive">writing</a>, <a href="/sketchbook">painting</a>, and <a href="/word">diving</a>. Signal your address and I'll send you <a href="https://tinyletter.com/kmcgillivray">letters in bottles</a>.</p>
+  {% capture welcome %}{% include harbor/host-welcome.md %}{% endcapture %}
+  {{ welcome | markdownify }}
 </section>
-<hr>
-<article role="article">
-  {% for post in site.posts limit: 1 %}
-    {% include post-body.html thePost=post %}
-  {% endfor %}
 
-  {% include post-footer.html %}
-</article>
+<hr>
+
+<section class="measure center ph3">
+  <h2>Latest posts</h2>
+  {% for post in site.posts limit: 3 %}
+    <div class="measure mv4">
+      <h3 class="mb1"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      {{ post.description }}
+    </div>
+  {% endfor %}
+</section>
+
+<hr>
+
+<section class="measure center ph3">
+  <h2>On Programming & Web Development</h2>
+  {% for post in site.categories.code %}
+    {% if post.featured %}
+      <div class="measure mv4">
+        <h3 class="mb1"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        {{ post.description }}
+      </div>
+    {% endif %}
+  {% endfor %}
+</section>
+
+<hr>
+
+<section class="measure center ph3">
+  <h2>On Fermentation</h2>
+  {% for post in site.categories.writing %}
+    {% if post.featured %}
+      <div class="measure mv4">
+        <h3 class="mb1"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        {{ post.description }}
+      </div>
+    {% endif %}
+  {% endfor %}
+</section>
+
+<!-- <hr>
+
+<section class="measure center ph3">
+  <h2>Picture Gallery</h2>
+</section> -->
+
+<hr>
+
+<section class="measure center ph3">
+  <h2>Open Source Projects</h2>
+  <ul>
+    <li><a href="https://kmcgillivray.github.io/wisconsin-refugees/">Wisconsin Refugees</a> - An interactive data visualization of refugee resettlements in Wisconsin from 2002-2019.</li>
+    <li><a href="https://glitch.com/~life-in-weeks-template">Life in Weeks</a> - Create a grid of your life in weeks.</li>
+    <li><a href="https://github.com/kmcgillivray/typeguide.css">typeguide.css</a> - Makes well-crafted website typography simple with a solid foundation of font size proportions, line heights, and vertical spacing.</li>
+  </ul>
+</section>
+
+<hr>

@@ -3,6 +3,7 @@ layout: post
 title: "Introduction to the \"Frontend\" and \"Backend\""
 category: code
 description: "From server to browser—understand the basics of the full stack to create a clear learning path."
+featured: true
 ---
 
 _So, you want to make a website?_

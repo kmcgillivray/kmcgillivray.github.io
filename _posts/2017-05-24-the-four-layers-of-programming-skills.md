@@ -4,9 +4,8 @@ title: "The Four Layers of Programming Skills"
 category: code
 description: "Learn about the four layers of programming skills: syntax, programmatic thinking, creativity, and interdisciplinary skills."
 excerpt: "Learn about the four layers of programming skills: syntax, programmatic thinking, creativity, and interdisciplinary skills."
+featured: true
 ---
-
-<div style="margin-bottom:1rem; position:relative;height:0;padding-bottom:75.0%"><iframe src="https://www.youtube.com/embed/kLVZcPqqY14?rel=0?ecver=2" width="100%" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 When learning how to code for the first time, there's a common misconception that learning how to code is primarily about learning the _syntax_ of a programming language. That is, learning how the special symbols, keywords, and characters must be written in the right order for the language to run without errors.
 

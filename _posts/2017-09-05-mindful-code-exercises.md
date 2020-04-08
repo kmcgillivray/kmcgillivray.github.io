@@ -3,6 +3,7 @@ layout: post
 title: "Mindful Code Exercises"
 category: code
 description: "Experiments for practicing mindfulness while writing code."
+featured: true
 ---
 
 One of my favorite ways to explore mindfulness is to integrate a mindfulness exercise into an everyday activity—washing dishes, driving a car, eating dinner, sweeping the floor. As the Zen saying goes, "Chop wood, carry water."

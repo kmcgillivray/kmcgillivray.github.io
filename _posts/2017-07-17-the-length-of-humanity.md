@@ -4,6 +4,7 @@ title: "The Length of Humanity"
 category: writing
 description: "The length of humanity is measured in dancing on mountaintops beneath stars and lights."
 social-image: dancing.jpg
+featured: true
 ---
 
 ![Dancing](/img/dancing.jpg)
