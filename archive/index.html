@@ -14,7 +14,7 @@ title: Archive
       <h2 class="f3 mt4">{{ post.date | date: '%Y' }}</h2>
     {% endif %}
     {% if last_month != current_month %}
-      <h3 class="avenir mt4">{{ post.date | date: '%B' }}</h3>
+      <h3 class="mt4">{{ post.date | date: '%B' }}</h3>
     {% endif %}
       <li>
         <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>

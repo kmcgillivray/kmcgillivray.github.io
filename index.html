@@ -2,68 +2,113 @@
 layout: page-wide
 newsletter: true
 home: true
+projects:
+  - title: Wisconsin refugees
+    url: https://kmcgillivray.github.io/wisconsin-refugees/
+    description: An interactive data visualization of refugee resettlements in Wisconsin from 2002-2019.
+  - title: Life in weeks
+    url: https://glitch.com/~life-in-weeks-template
+    description: Create a grid of your life in weeks.
+  - title: typeguide.css
+    url: https://github.com/kmcgillivray/typeguide.css
+    description: Makes well-crafted website typography simple with a solid foundation of font size proportions, line heights, and vertical spacing.
 ---
 
-<section class="measure center f3-ns ph3">
-  {% capture welcome %}{% include harbor/host-welcome.md %}{% endcapture %}
-  {{ welcome | markdownify }}
+<section class="f3-ns ph3 pv4 bg-newsprint-light">
+  <div class="measure center">
+    {% capture welcome %}{% include harbor/host-welcome.md %}{% endcapture %}
+    {{ welcome | markdownify }}
+  </div>
 </section>
 
-<hr>
-
-<section class="measure center ph3">
-  <h2>Latest posts</h2>
-  {% for post in site.posts limit: 3 %}
-    <div class="measure mv4">
-      <h3 class="mb1"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      {{ post.description }}
+<section class="ph3 pv4">
+  <div class="mw7 center">
+    <div class="tc">
+      <span class="newsprint-mid-dark f5 i tracked">sea-soaked letters</span>
+      <h2 class="mt0 f2-ns">Latest posts</h2>
     </div>
-  {% endfor %}
+    <div class="grid grid-gap-1">
+      {% for post in site.posts limit: 4 %}
+        <div class="pa3">
+          <h3 class="mb1 mt0"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
+          <div class="i">{{ post.description }}</div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
 </section>
 
 <hr>
 
-<section class="measure center ph3">
-  <h2>On Programming & Web Development</h2>
-  {% for post in site.categories.code %}
-    {% if post.featured %}
-      <div class="measure mv4">
-        <h3 class="mb1"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        {{ post.description }}
-      </div>
-    {% endif %}
-  {% endfor %}
+<section class="ph3 pv4">
+  <div class="mw7 center">
+    <div class="tc">
+      <span class="newsprint-mid-dark f5 i tracked">from the hypertext studio</span>
+      <h2 class="mt0 f2-ns">On Programming <em>&</em> Web Development</h2>
+    </div>
+    <div class="grid grid-gap-1">
+      {% for post in site.categories.code %}
+        {% if post.featured %}
+          <div class="pa3">
+            <h3 class="mb1 mt0"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
+            <div class="i">{{ post.description }}</div>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
 </section>
 
 <hr>
 
-<section class="measure center ph3">
-  <h2>On Fermentation</h2>
-  {% for post in site.categories.writing %}
-    {% if post.featured %}
-      <div class="measure mv4">
-        <h3 class="mb1"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        {{ post.description }}
-      </div>
-    {% endif %}
-  {% endfor %}
+<section class="ph3 pv4">
+  <div class="mw7 center">
+    <div class="tc">
+      <span class="newsprint-mid-dark f5 i tracked">bottled letters & ships</span>
+      <h2 class="mt0 f2-ns">On Fermentation</h2>
+    </div>
+    <div class="grid grid-gap-1">
+      {% for post in site.categories.writing %}
+        {% if post.featured %}
+          <div class="pa3">
+            <h3 class="mb1 mt0"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
+            <div class="i">{{ post.description }}</div>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
 </section>
-
-<!-- <hr>
-
-<section class="measure center ph3">
-  <h2>Picture Gallery</h2>
-</section> -->
 
 <hr>
 
-<section class="measure center ph3">
-  <h2>Open Source Projects</h2>
-  <ul>
-    <li><a href="https://kmcgillivray.github.io/wisconsin-refugees/">Wisconsin Refugees</a> - An interactive data visualization of refugee resettlements in Wisconsin from 2002-2019.</li>
-    <li><a href="https://glitch.com/~life-in-weeks-template">Life in Weeks</a> - Create a grid of your life in weeks.</li>
-    <li><a href="https://github.com/kmcgillivray/typeguide.css">typeguide.css</a> - Makes well-crafted website typography simple with a solid foundation of font size proportions, line heights, and vertical spacing.</li>
-  </ul>
+<section class="ph3 pv4">
+  <div class="mw7 center">
+    <div class="tc">
+      <span class="newsprint-mid-dark f5 i tracked">treasures lost & found</span>
+      <h2 class="mt0 f2-ns">Picture Gallery</h2>
+    </div>
+    <p class="tc i">Empty walls for now.</p>
+  </div>
+</section>
+
+<hr>
+
+<section class="ph3 pv4">
+  <div class="mw7 center">
+    <div class="tc">
+      <span class="newsprint-mid-dark f5 i tracked">toolkits & maps</span>
+      <h2 class="mt0 f2-ns">Open Source Projects</h2>
+    </div>
+    <div class="grid grid-gap-1">
+      {% for post in page.projects %}
+        <div class="pa3">
+          <h3 class="mb1 mt0"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
+          <div class="i">{{ post.description }}</div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
 </section>
 
 <hr>

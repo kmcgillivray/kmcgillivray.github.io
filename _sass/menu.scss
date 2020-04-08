@@ -1,8 +1,8 @@
-.menu li a {
+.menu a {
   transition: .3s color;
 }
-.menu li a:hover {
+.menu a:hover {
   opacity: 1;
-  color: $main-color;
+  color: $treasure-dark;
   transition: .3s color;
 }

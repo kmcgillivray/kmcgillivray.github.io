@@ -9,7 +9,6 @@ newsletter: false
 
 ## Web
 
-* [Sandcastle](http://sandcastle.co) – A web design studio focused on education, community building, and independent creative businesses and organizations.
 * [Wisconsin Refugees](https://kmcgillivray.github.io/wisconsin-refugees/) – An interactive data visualization of refugee resettlements in Wisconsin from 2002-2016.
 * [typeguide.css](https://github.com/kmcgillivray/typeguide.css) – Makes well-crafted website typography simple with a solid foundation of font size proportions, line heights, and vertical spacing.
 
