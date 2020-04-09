@@ -30,7 +30,10 @@ projects:
     <div class="grid grid-gap-1">
       {% for post in site.posts limit: 4 %}
         <div class="pa3">
-          <h3 class="mb1 mt0"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
+          {% if post.social-image %}
+            <a href="{{ post.url }}"><img class="db mt0" src="/img/{{ post.social-image }}"></a>
+          {% endif %}
+          <h3 class="mb1 mt0 lh-title"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
           <div class="i">{{ post.description }}</div>
         </div>
       {% endfor %}
@@ -50,7 +53,10 @@ projects:
       {% for post in site.categories.code %}
         {% if post.featured %}
           <div class="pa3">
-            <h3 class="mb1 mt0"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
+            {% if post.social-image %}
+              <a href="{{ post.url }}"><img class="db mt0" src="/img/{{ post.social-image }}"></a>
+            {% endif %}
+            <h3 class="mb1 mt0 lh-title"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
             <div class="i">{{ post.description }}</div>
           </div>
         {% endif %}
@@ -71,7 +77,10 @@ projects:
       {% for post in site.categories.writing %}
         {% if post.featured %}
           <div class="pa3">
-            <h3 class="mb1 mt0"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
+            {% if post.social-image %}
+              <a href="{{ post.url }}"><img class="db mt0" src="/img/{{ post.social-image }}"></a>
+            {% endif %}
+            <h3 class="mb1 mt0 lh-title"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
             <div class="i">{{ post.description }}</div>
           </div>
         {% endif %}
@@ -103,7 +112,7 @@ projects:
     <div class="grid grid-gap-1">
       {% for post in page.projects %}
         <div class="pa3">
-          <h3 class="mb1 mt0"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
+          <h3 class="mb1 mt0 lh-title"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
           <div class="i">{{ post.description }}</div>
         </div>
       {% endfor %}
