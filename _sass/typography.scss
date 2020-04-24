@@ -64,14 +64,13 @@ ul li {
   padding-right: 1.25rem;
 }
 blockquote {
-  line-height: 1.35;
   font-size: 1rem;
   font-style: italic;
   margin-left: 0;
   margin-right: 0;
   padding-left: 1.2rem;
   padding-right: 1.2rem;
-  border-left: 1px solid $main-color;
+  border-left: 2px solid $treasure-mid-dark;
 }
 blockquote p:last-child {
   margin-bottom: 0;
@@ -90,10 +89,10 @@ blockquote p:last-child {
     margin-left: 2rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
-    color: $main-color;
+    color: $signal-mid-dark;
     font-size: 1.3rem;
-    border-top: 1px solid $light-grey;
-    border-bottom: 1px solid $light-grey;
+    border-top: 2px solid $signal-mid-light;
+    border-bottom: 2px solid $signal-mid-light;
   }
 }
 @media (min-width: 980px) {
