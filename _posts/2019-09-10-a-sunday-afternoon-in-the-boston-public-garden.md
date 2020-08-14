@@ -4,6 +4,7 @@ title: A Sunday Afternoon in the Boston Public Garden
 category: writing
 description: "Ask yourself if you have any choice but to do the same."
 social-image: sunday-afternoon.jpg
+featured: true
 ---
 
 ![A Sunday Afternoon on the Island of La Grande Jatte](/img/sunday-afternoon.jpg)

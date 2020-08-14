@@ -3,7 +3,6 @@ layout: post
 title: "Farmers' Market"
 category: writing
 description: "It's 12:00 and I'm walking fast because the market closes sometime between now and a little while from now. I'm on a mission to get some flowers."
-featured: true
 ---
 
 It's 12:00 and I'm walking fast because the market closes sometime between now and a little while from now. I'm on a mission to get some flowers.

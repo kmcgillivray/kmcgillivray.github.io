@@ -12,9 +12,10 @@ projects:
   - title: typeguide.css
     url: https://github.com/kmcgillivray/typeguide.css
     description: Makes well-crafted website typography simple with a solid foundation of font size proportions, line heights, and vertical spacing.
+
 ---
 
-<section class="f3-ns ph4 pv5 bg-newsprint-light">
+<section class="f3-ns ph4 pv5 bg-newsprint-light mb4">
   <div class="measure center">
     {% capture welcome %}{% include harbor/host-welcome.md %}{% endcapture %}
     {{ welcome | markdownify }}
@@ -24,19 +25,30 @@ projects:
 <section class="ph3 pv4">
   <div class="mw7 center">
     <div class="tc">
-      <span class="newsprint-mid-dark f5 i tracked">sea-soaked letters</span>
-      <h2 class="mt0 f2-ns">Latest posts</h2>
+      <span class="treasure-dark f5 i tracked">themes & threads on a long, low simmer</span>
+      <h2 class="mt0 f2-ns">Deep dives <em class="treasure-dark">&</em> open questions</h2>
     </div>
     <div class="grid grid-gap-1">
-      {% for post in site.posts limit: 4 %}
-        <div class="pa3">
-          {% if post.social-image %}
-            <a href="{{ post.url }}"><img class="db mt0" src="/img/{{ post.social-image }}"></a>
-          {% endif %}
-          <h3 class="mb1 mt0 lh-title"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
-          <div class="i">{{ post.description }}</div>
-        </div>
-      {% endfor %}
+      <div class="pa3">
+        <h3 class="mb1 mt0 lh-title"><a href="https://kmcgillivray.github.io/a-web-pattern-language/" class="link signal-dark">A Web Pattern Language</a></h3>
+        <div class="i">A shared language for building the web together for anyone who cares about its future</div>
+        <ul class="list pl0">
+          <li class="dib mb1"><a class="bg-signal signal-light f7 ph2 pv1 br2 mr1" href="https://kmcgillivray.github.io/a-web-pattern-language">Website</a></li>
+          <li class="dib mb1"><a class="bg-signal signal-light f7 ph2 pv1 br2 mr1" href="https://twitter.com/kev_mcg/status/1292939248098775043">Thread</a></li>
+          <li class="dib mb1"><a class="bg-signal signal-light f7 ph2 pv1 br2 mr1" href="https://twitter.com/kev_mcg/status/1254271863477411842">Thread</a></li>
+          <li class="dib mb1"><a class="bg-signal signal-light f7 ph2 pv1 br2 mr1" href="https://medium.com/foolish-journey/a-mythic-pattern-language-de46a8e7b9e">A Mythic Pattern Language</a></li>
+        </ul>
+      </div>
+      <div class="pa3">
+        <h3 class="mb1 mt0 lh-title"><a href="https://practicingcreativity.kevinmcgillivray.net/" class="link signal-dark">Practicing Creativity</a></h3>
+        <div class="i">Draft notes on creativity—as a skill, a practice, and a mystery</div>
+        <ul class="list pl0">
+          <li class="dib mb1"><a class="bg-signal signal-light f7 ph2 pv1 br2 mr1" href="https://practicingcreativity.kevinmcgillivray.net">Website</a></li>
+          <li class="dib mb1"><a class="bg-signal signal-light f7 ph2 pv1 br2 mr1" href="https://twitter.com/kev_mcg/status/1262165248628359173">Tweet</a></li>
+          <li class="dib mb1"><a class="bg-signal signal-light f7 ph2 pv1 br2 mr1" href="https://twitter.com/kev_mcg/status/1284263296904962056">Thread</a></li>
+          <li class="dib mb1"><a class="bg-signal signal-light f7 ph2 pv1 br2 mr1" href="/how-to-stop-creativity/">How to Stop Creativity</a></li>
+        </ul>
+      </div>
     </div>
   </div>
 </section>
@@ -46,8 +58,8 @@ projects:
 <section class="ph3 pv4">
   <div class="mw7 center">
     <div class="tc">
-      <span class="newsprint-mid-dark f5 i tracked">from the hypertext studio</span>
-      <h2 class="mt0 f2-ns">On Programming <em>&</em> Web Development</h2>
+      <span class="treasure-dark f5 i tracked">maps and logs from the hypertext studio</span>
+      <h2 class="mt0 f2-ns">On programming <em class="treasure-dark">&</em> web development</h2>
     </div>
     <div class="grid grid-gap-1">
       {% for post in site.categories.code %}
@@ -62,6 +74,17 @@ projects:
         {% endif %}
       {% endfor %}
     </div>
+    <div>
+      <h3 class="f3-ns">Open Source</h3>
+    </div>
+    <div class="grid grid-gap-1">
+      {% for post in page.projects %}
+        <div class="pa3">
+          <h3 class="mb1 mt0 lh-title"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
+          <div class="i">{{ post.description }}</div>
+        </div>
+      {% endfor %}
+    </div>
   </div>
 </section>
 
@@ -70,8 +93,8 @@ projects:
 <section class="ph3 pv4">
   <div class="mw7 center">
     <div class="tc">
-      <span class="newsprint-mid-dark f5 i tracked">bottled letters & ships</span>
-      <h2 class="mt0 f2-ns">On Fermentation</h2>
+      <span class="treasure-dark f5 i tracked">the reef of small wonders</span>
+      <h2 class="mt0 f2-ns">Jaunty tales <em class="treasure-dark">&</em> fermented verses</h2>
     </div>
     <div class="grid grid-gap-1">
       {% for post in site.categories.writing %}
@@ -94,29 +117,10 @@ projects:
 <section class="ph3 pv4">
   <div class="mw7 center">
     <div class="tc">
-      <span class="newsprint-mid-dark f5 i tracked">treasures lost & found</span>
-      <h2 class="mt0 f2-ns">Picture Gallery</h2>
+      <span class="treasure-dark f5 i tracked">treasures lost & perceived</span>
+      <h2 class="mt0 f2-ns">Picture gallery</h2>
     </div>
     <p class="tc i">Empty walls for now.</p>
-  </div>
-</section>
-
-<hr>
-
-<section class="ph3 pv4">
-  <div class="mw7 center">
-    <div class="tc">
-      <span class="newsprint-mid-dark f5 i tracked">toolkits & maps</span>
-      <h2 class="mt0 f2-ns">Open Source Projects</h2>
-    </div>
-    <div class="grid grid-gap-1">
-      {% for post in page.projects %}
-        <div class="pa3">
-          <h3 class="mb1 mt0 lh-title"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
-          <div class="i">{{ post.description }}</div>
-        </div>
-      {% endfor %}
-    </div>
   </div>
 </section>
 
