@@ -17,3 +17,33 @@
 @import 'gallery';
 @import 'form';
 @import 'stats';
+@import 'blend-modes';
+
+.home-illustration-1 {
+  position: relative;
+  z-index: 1;
+}
+.home-illustration-1::before {
+  z-index: -1;
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url('/img/lake-map.jpg');
+  background-blend-mode: multiply;
+  opacity: 0.17;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+@media (prefers-color-scheme: dark) {
+  .home-illustration-1::before {
+    background-image: url('/img/celestial-atlas.jpg');
+    filter: invert(100%);
+    opacity: 0.3;
+    background-blend-mode: color-dodge;
+  }
+}

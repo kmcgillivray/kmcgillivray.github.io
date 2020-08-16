@@ -15,7 +15,7 @@ layout: page-wide
         {% if post.social-image %}
           <a href="{{ post.url }}"><img class="db mt0" src="/img/{{ post.social-image }}"></a>
         {% endif %}
-        <h3 class="mb1 mt0 lh-title"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
+        <h3 class="mb1 mt0 lh-title"><a href="{{ post.url }}" class="signal-dark d-treasure-dark">{{ post.title }}</a></h3>
         <div class="i">{{ post.description }}</div>
       </div>
     {% endfor %}
@@ -25,6 +25,7 @@ layout: page-wide
 
 <div class="section cf">
   <div class="container-narrow">
-    {% include bio.html %}
+    {% capture bio %}{% include bio.md %}{% endcapture %}
+    {{ bio | markdownify }}
   </div>
 </div>

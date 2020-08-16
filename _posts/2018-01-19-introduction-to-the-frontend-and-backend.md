@@ -65,7 +65,3 @@ There is a huge array of libraries, frameworks, and other tools for the frontend
 The world of web development is a huge playground to explore. Wherever you start exploring, having a map of the frontend and backend and what they do will help guide your next step. If you're not sure where to start, I recommend trying a little of both to get a taste and then follow your curiosity!
 
 Questions? Comments? Clarifications? Let me know on [Twitter](http://twitter.com/kev_mcg)!
-
----
-
-{% include newsletter-cta.md %}

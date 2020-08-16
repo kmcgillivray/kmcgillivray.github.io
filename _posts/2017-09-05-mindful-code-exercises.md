@@ -60,7 +60,3 @@ I've found that daily writing (such as [750words.com](http://750words.com)) is o
 ---
 
 If I try any other exercises, I'll update the list here. Let me know if you try any of these and how it goes!
-
----
-
-{% include newsletter-cta.md %}

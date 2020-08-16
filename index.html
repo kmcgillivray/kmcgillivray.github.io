@@ -18,11 +18,12 @@ projects:
 
 ---
 
-<section class="f3-ns ph4 pv5 bg-newsprint-light mb4">
+<section class="home-illustration-1 f3-ns ph4 pv5 bg-newsprint-light d-bg-newsprint-dark mb4">
   <div class="mw8 center">
     {% capture welcome %}{% include harbor/host-welcome.md %}{% endcapture %}
     {{ welcome | markdownify }}
   </div>
+  <!-- <img class="home-illustration-1 color-dodge absolute top-0 left-0 o-30 z-0" src="/img/celestial-atlas.jpg"> -->
 </section>
 
 <section class="ph3 pv4">
@@ -33,24 +34,24 @@ projects:
     </div>
     <div class="grid grid-gap-1">
       <div class="pa3">
-        <h3 class="mb1 mt0 lh-title"><a href="https://kmcgillivray.github.io/a-web-pattern-language/" class="link signal-dark">A Web Pattern Language</a></h3>
+        <h3 class="mb1 mt0 lh-title"><a href="https://kmcgillivray.github.io/a-web-pattern-language/" class="signal-dark d-treasure-dark">A Web Pattern Language</a></h3>
         <div class="i">A shared language for building the web together for anyone who cares about its future</div>
         <ul class="list pl0">
-          <li class="dib mb1"><a class="bg-signal signal-light f7 ph2 pv1 br2 mr1" href="https://kmcgillivray.github.io/a-web-pattern-language">Website</a></li>
-          <li class="dib mb1"><a class="bg-signal signal-light f7 ph2 pv1 br2 mr1" href="https://twitter.com/kev_mcg/status/1292939248098775043">Thread</a></li>
-          <li class="dib mb1"><a class="bg-signal signal-light f7 ph2 pv1 br2 mr1" href="https://twitter.com/kev_mcg/status/1254271863477411842">Thread</a></li>
-          <li class="dib mb1"><a class="bg-signal signal-light f7 ph2 pv1 br2 mr1" href="https://twitter.com/kev_mcg/status/1262784361822334979">Tweet</a></li>
-          <li class="dib mb1"><a class="bg-signal signal-light f7 ph2 pv1 br2 mr1" href="https://medium.com/foolish-journey/a-mythic-pattern-language-de46a8e7b9e">A Mythic Pattern Language</a></li>
+          <li class="dib mb1"><a class="bg-signal d-bg-seafoam-mid-light signal-light d-seafoam-dark f7 ph2 pv1 br2 mr1" href="https://kmcgillivray.github.io/a-web-pattern-language">Website</a></li>
+          <li class="dib mb1"><a class="bg-signal d-bg-seafoam-mid-light signal-light d-seafoam-dark f7 ph2 pv1 br2 mr1" href="https://twitter.com/kev_mcg/status/1292939248098775043">Thread</a></li>
+          <li class="dib mb1"><a class="bg-signal d-bg-seafoam-mid-light signal-light d-seafoam-dark f7 ph2 pv1 br2 mr1" href="https://twitter.com/kev_mcg/status/1254271863477411842">Thread</a></li>
+          <li class="dib mb1"><a class="bg-signal d-bg-seafoam-mid-light signal-light d-seafoam-dark f7 ph2 pv1 br2 mr1" href="https://twitter.com/kev_mcg/status/1262784361822334979">Tweet</a></li>
+          <li class="dib mb1"><a class="bg-signal d-bg-seafoam-mid-light signal-light d-seafoam-dark f7 ph2 pv1 br2 mr1" href="https://medium.com/foolish-journey/a-mythic-pattern-language-de46a8e7b9e">A Mythic Pattern Language</a></li>
         </ul>
       </div>
       <div class="pa3">
-        <h3 class="mb1 mt0 lh-title"><a href="https://practicingcreativity.kevinmcgillivray.net/" class="link signal-dark">Practicing Creativity</a></h3>
+        <h3 class="mb1 mt0 lh-title"><a href="https://practicingcreativity.kevinmcgillivray.net/" class="signal-dark d-treasure-dark">Practicing Creativity</a></h3>
         <div class="i">Draft notes on creativity—as a skill, a practice, and a mystery</div>
         <ul class="list pl0">
-          <li class="dib mb1"><a class="bg-signal signal-light f7 ph2 pv1 br2 mr1" href="https://practicingcreativity.kevinmcgillivray.net">Website</a></li>
-          <li class="dib mb1"><a class="bg-signal signal-light f7 ph2 pv1 br2 mr1" href="https://twitter.com/kev_mcg/status/1262165248628359173">Tweet</a></li>
-          <li class="dib mb1"><a class="bg-signal signal-light f7 ph2 pv1 br2 mr1" href="https://twitter.com/kev_mcg/status/1284263296904962056">Thread</a></li>
-          <li class="dib mb1"><a class="bg-signal signal-light f7 ph2 pv1 br2 mr1" href="/how-to-stop-creativity/">How to Stop Creativity</a></li>
+          <li class="dib mb1"><a class="bg-signal d-bg-seafoam-mid-light signal-light d-seafoam-dark f7 ph2 pv1 br2 mr1" href="https://practicingcreativity.kevinmcgillivray.net">Website</a></li>
+          <li class="dib mb1"><a class="bg-signal d-bg-seafoam-mid-light signal-light d-seafoam-dark f7 ph2 pv1 br2 mr1" href="https://twitter.com/kev_mcg/status/1262165248628359173">Tweet</a></li>
+          <li class="dib mb1"><a class="bg-signal d-bg-seafoam-mid-light signal-light d-seafoam-dark f7 ph2 pv1 br2 mr1" href="https://twitter.com/kev_mcg/status/1284263296904962056">Thread</a></li>
+          <li class="dib mb1"><a class="bg-signal d-bg-seafoam-mid-light signal-light d-seafoam-dark f7 ph2 pv1 br2 mr1" href="/how-to-stop-creativity/">How to Stop Creativity</a></li>
         </ul>
       </div>
     </div>
@@ -72,7 +73,7 @@ projects:
             {% if post.social-image %}
               <a href="{{ post.url }}"><img class="db mt0" src="/img/{{ post.social-image }}"></a>
             {% endif %}
-            <h3 class="mb1 mt0 lh-title"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
+            <h3 class="mb1 mt0 lh-title"><a href="{{ post.url }}" class="signal-dark d-treasure-dark">{{ post.title }}</a></h3>
             <div class="i">{{ post.description }}</div>
           </div>
         {% endif %}
@@ -85,7 +86,7 @@ projects:
     <div class="grid grid-gap-1">
       {% for post in page.projects %}
         <div class="pa3">
-          <h3 class="mb1 mt0 lh-title"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
+          <h3 class="mb1 mt0 lh-title"><a href="{{ post.url }}" class="signal-dark d-treasure-dark">{{ post.title }}</a></h3>
           <div class="i">{{ post.description }}</div>
         </div>
       {% endfor %}
@@ -108,7 +109,7 @@ projects:
             {% if post.social-image %}
               <a href="{{ post.url }}"><img class="db mt0" src="/img/{{ post.social-image }}"></a>
             {% endif %}
-            <h3 class="mb1 mt0 lh-title"><a href="{{ post.url }}" class="link signal-dark">{{ post.title }}</a></h3>
+            <h3 class="mb1 mt0 lh-title"><a href="{{ post.url }}" class="signal-dark d-treasure-dark">{{ post.title }}</a></h3>
             <div class="i">{{ post.description }}</div>
           </div>
         {% endif %}

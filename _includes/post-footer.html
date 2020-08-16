@@ -1,5 +1,5 @@
 <div class="section cf">
-  <div class="container-narrow">
+  <div class="measure center ph3">
     {% capture postDate %}
       {% if page.date %}
         {{ page.date | date: "%-d %B %Y" }}
@@ -10,21 +10,27 @@
       {% endif %}
     {% endcapture %}
 
-    <p class="post-date tc tl-m">Published <time class="dt-published">
+    <p class="ttu tracked f6 tc">Published <time class="dt-published">
 {{ postDate }}</time></p>
+
     <hr>
 
-    {% include bio.html %}
-  </div>
-</div>
+    {% capture bio %}{% include bio.md %}{% endcapture %}
+    {{ bio | markdownify }}
 
-{% if page.category == "development" %}
-  {% assign link = "/code" %}
-{% elsif page.category == "journal" %}
-  {% assign link = "/journal" %}
-{% else %}
-  {% assign link = "/archive" %}
-{% endif %}
-<div class="section post-footer">
-  <a class="dim dib ph4 pv2 bg-transparent f3" href="{{ link }}">See all posts</a>
+    <hr>
+
+    {% if page.category == "development" %}
+      {% assign link = "/code" %}
+    {% elsif page.category == "journal" %}
+      {% assign link = "/journal" %}
+    {% else %}
+      {% assign link = "/archive" %}
+    {% endif %}
+
+    <div class="tc">
+      <a class="f3" href="{{ link }}">See all posts</a>
+    </div>
+
+  </div>
 </div>

@@ -7,7 +7,7 @@ newsletter: false
 ---
 
 <section class="diver-section mw8 center relative">
-  <div class="f4 measure signal-dark z-2 relative">
+  <div class="f4 measure signal-dark d-newsprint z-2 relative">
     {% capture intro %}{% include word/intro.md %}{% endcapture %}
     {{ intro | markdownify }}
     {% include word/horizontal-rule.html %}
@@ -88,9 +88,9 @@ newsletter: false
     <div class="w-100 h2 h3-ns br2 bg-treasure-mid-light"></div>
     <div class="w-100 h2 h3-ns br2 bg-treasure-light"></div>
   </div>
-  <div class="bg-white pa4 br3 mv4 mw6">
+  <div class="bg-white d-bg-newsprint-dark ba bw2 b--white-10 pa4 br3 mv4 mw6">
     <h4 class="ttu tracked avenir f7 mv0 normal newsprint">Clarendon Type Sample</h4>
-    <h3 class="mv0 f3 newsprint-dark">Chapter 1: A Shifting Reef</h3>
+    <h3 class="mv0 f3 newsprint-dark d-treasure-dark">Chapter 1: A Shifting Reef</h3>
     <p class="measure mb0">The year 1866 was signalized by a remarkable incident, a mysterious and inexplicable phenomenon, which doubtless no one has yet forgotten. Not to mention rumors which agitated the maritime population, and excited the public mind, even in the interior of continents, seafaring men were particularly excited. Merchants, common sailors, captains of vessels, skippers, both of Europe and America, naval officers of all countries, and the Governments of several states on the two continents, were deeply interested in the matter.</p>
   </div>
   <img class="diver-illustration-5 absolute-l w-90-l o-20 multiply" src="/img/swordfish-1600.jpg" alt="Swordfish">

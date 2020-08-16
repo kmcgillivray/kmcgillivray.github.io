@@ -22,6 +22,7 @@ newsletter: true
 
 <div class="section cf">
   <div class="container-narrow">
-    {% include bio.html %}
+    {% capture bio %}{% include bio.md %}{% endcapture %}
+    {{ bio | markdownify }}
   </div>
 </div>

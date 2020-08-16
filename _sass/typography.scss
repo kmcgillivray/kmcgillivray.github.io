@@ -1,3 +1,22 @@
+html {
+	font-size: 17px;
+}
+@media (min-width:768px) {
+	html {
+		font-size: 19px;
+	}
+}
+body {
+  font-size: 1em;
+  line-height: 1.65;
+  color: $newsprint-dark;
+}
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: darken($newsprint-dark, 2%);
+    color: $newsprint-mid-light;
+  }
+}
 h1,
 h2,
 h3,
@@ -9,6 +28,16 @@ h6 {
   font-size: 1rem;
   color: $signal-mid-dark;
 }
+@media (prefers-color-scheme: dark) {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: $newsprint-mid-light;
+  }
+}
 h1 {
   font-size: 1.6rem;
 }
@@ -16,9 +45,6 @@ h2 {
   margin-top: 1.75rem;
   font-size: 1.2rem;
   margin-bottom: 1rem;
-}
-h2 a {
-  color: $main-color;
 }
 h4 {
   margin-top: -7px;
@@ -28,7 +54,6 @@ h4 {
 h5 {
   font-size: 1.25rem;
   font-weight: normal;
-  color: $text-color;
   margin-top: 0;
 }
 p {
@@ -39,12 +64,17 @@ a {
 	color: #7E6D3A;
   transition: .25s opacity;
 }
+@media (prefers-color-scheme: dark) {
+  a {
+    color: $treasure-dark;
+  }
+}
 a:hover {
   opacity: .65;
   transition: .25s opacity;
 }
 hr {
-	border-top: 1px solid $neutral;
+	border-top: 1px solid rgba($seafoam, 0.5);
   width: 40%;
 	border-bottom: none;
 	border-left: none;
@@ -91,8 +121,13 @@ blockquote p:last-child {
     padding-bottom: 1rem;
     color: $signal-mid-dark;
     font-size: 1.3rem;
-    border-top: 2px solid $signal-mid-light;
-    border-bottom: 2px solid $signal-mid-light;
+    border-top: 2px solid $seafoam-mid-light;
+  }
+}
+@media(prefers-color-scheme: dark) {
+  p[data-pullquote]:before {
+    color: $seafoam;
+    border-top-color: $seafoam-mid-dark;
   }
 }
 @media (min-width: 980px) {

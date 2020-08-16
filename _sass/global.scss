@@ -3,21 +3,8 @@
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-html {
-	font-size: 17px;
-}
-@media (min-width:768px) {
-	html {
-		font-size: 19px;
-	}
-}
 body {
-	font-size: 1em;
-	line-height: 1.65;
-  color: $newsprint-dark;
   padding-bottom: 60px;
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
 }
 img {
 	width: 100%;
@@ -26,6 +13,11 @@ img {
   vertical-align: middle;
   margin-top: 20px;
   margin-bottom: 20px;
+}
+@media (prefers-color-scheme: dark) {
+  img {
+    opacity: .7;
+  }
 }
 .img-profile {
 	margin-top: 0;

@@ -26,7 +26,3 @@ Build sharing into your routine. Write about what you're learning, look for oppo
 ---
 
 These three habits are essential skills for developers no matter where they are in their careers. If a bootcamp is a sprint, these are the jogging habits that will keep you moving forward and learning. So pick a project, give it a shot, and tell us all about it at the meetup!
-
----
-
-{% include newsletter-cta.md %}

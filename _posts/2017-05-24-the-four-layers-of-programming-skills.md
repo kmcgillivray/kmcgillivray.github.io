@@ -55,8 +55,4 @@ Writing code is never just about writing code—writing code is always connected
 
 As learners and teachers, it's important to identify all of the skills we need to learn in order to be a developer. Different students find different layers easier or more challenging than others. Many people who have no problem remembering syntax struggle with programmatic thinking. Many people who have no problem with programmatic thinking have a very difficult time remembering syntax. As learners, recognizing this makes it easier to get unstuck when things are difficult because we can identify the area that is most challenging at the moment. As teachers, when we recognize the whole spectrum of skills that need to be developed, we can make sure we create exercises that cover the entire range.
 
-Thoughts, questions, comments? Let me know what you think on [Twitter](http://twitter.com/kev_mcg) or in my [inbox](mailto:kevin@sandcastle.co)!
-
----
-
-{% include newsletter-cta.md %}
+Thoughts, questions, comments? Let me know what you think on [Twitter](http://twitter.com/kev_mcg) or in my [inbox](mailto:kevin.mcgillivray@me.com)!

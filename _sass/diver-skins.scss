@@ -57,3 +57,65 @@
 .bg-seafoam { background-color: $seafoam; }
 .bg-seafoam-mid-dark { background-color: $seafoam-mid-dark; }
 .bg-seafoam-dark { background-color: $seafoam-dark; }
+
+@media (prefers-color-scheme: dark) {
+  .d-coral-light { color: $coral-light; }
+  .d-coral-mid-light { color: $coral-mid-light; }
+  .d-coral { color: $coral; }
+  .d-coral-mid-dark { color: $coral-mid-dark; }
+  .d-coral-dark { color: $coral-dark; }
+
+  .d-bg-coral-light { background-color: $coral-light; }
+  .d-bg-coral-mid-light { background-color: $coral-mid-light; }
+  .d-bg-coral { background-color: $coral; }
+  .d-bg-coral-mid-dark { background-color: $coral-mid-dark; }
+  .d-bg-coral-dark { background-color: $coral-dark; }
+
+  .d-treasure-light { color: $treasure-light; }
+  .d-treasure-mid-light { color: $treasure-mid-light; }
+  .d-treasure { color: $treasure; }
+  .d-treasure-mid-dark { color: $treasure-mid-dark; }
+  .d-treasure-dark { color: $treasure-dark; }
+
+  .d-bg-treasure-light { background-color: $treasure-light; }
+  .d-bg-treasure-mid-light { background-color: $treasure-mid-light; }
+  .d-bg-treasure { background-color: $treasure; }
+  .d-bg-treasure-mid-dark { background-color: $treasure-mid-dark; }
+  .d-bg-treasure-dark { background-color: $treasure-dark; }
+
+  .d-newsprint-light { color: $newsprint-light; }
+  .d-newsprint-mid-light { color: $newsprint-mid-light; }
+  .d-newsprint { color: $newsprint; }
+  .d-newsprint-mid-dark { color: $newsprint-mid-dark; }
+  .d-newsprint-dark { color: $newsprint-dark; }
+
+  .d-bg-newsprint-light { background-color: $newsprint-light; }
+  .d-bg-newsprint-mid-light { background-color: $newsprint-mid-light; }
+  .d-bg-newsprint { background-color: $newsprint; }
+  .d-bg-newsprint-mid-dark { background-color: $newsprint-mid-dark; }
+  .d-bg-newsprint-dark { background-color: $newsprint-dark; }
+
+  .d-signal-light { color: $signal-light; }
+  .d-signal-mid-light { color: $signal-mid-light; }
+  .d-signal { color: $signal; }
+  .d-signal-mid-dark { color: $signal-mid-dark; }
+  .d-signal-dark { color: $signal-dark; }
+
+  .d-bg-signal-light { background-color: $signal-light; }
+  .d-bg-signal-mid-light { background-color: $signal-mid-light; }
+  .d-bg-signal { background-color: $signal; }
+  .d-bg-signal-mid-dark { background-color: $signal-mid-dark; }
+  .d-bg-signal-dark { background-color: $signal-dark; }
+
+  .d-seafoam-light { color: $seafoam-light; }
+  .d-seafoam-mid-light { color: $seafoam-mid-light; }
+  .d-seafoam { color: $seafoam; }
+  .d-seafoam-mid-dark { color: $seafoam-mid-dark; }
+  .d-seafoam-dark { color: $seafoam-dark; }
+
+  .d-bg-seafoam-light { background-color: $seafoam-light; }
+  .d-bg-seafoam-mid-light { background-color: $seafoam-mid-light; }
+  .d-bg-seafoam { background-color: $seafoam; }
+  .d-bg-seafoam-mid-dark { background-color: $seafoam-mid-dark; }
+  .d-bg-seafoam-dark { background-color: $seafoam-dark; }
+}

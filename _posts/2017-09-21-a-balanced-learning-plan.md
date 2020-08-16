@@ -40,8 +40,4 @@ Projects are where the glue between all of the different skills is added to make
 
 ---
 
-In this balanced learning plan, tutorials are used as lessons that introduce new material, but they are combined with exercise sets and independent projects to round out and integrate all of the skills. If you're a student or learning something new, keep these tools in mind and make sure you have a good mix of them. If you're a teacher, consider how these tools fit into the curriculum to get the best results for students. If you have any thoughts or comments on this, please let me know on [Twitter](http://twitter.com/kev_mcg) or in my [inbox](mailto:kevin@sandcastle.co)! I'm very interested in your perspective.
-
----
-
-{% include newsletter-cta.md %}
+In this balanced learning plan, tutorials are used as lessons that introduce new material, but they are combined with exercise sets and independent projects to round out and integrate all of the skills. If you're a student or learning something new, keep these tools in mind and make sure you have a good mix of them. If you're a teacher, consider how these tools fit into the curriculum to get the best results for students. If you have any thoughts or comments on this, please let me know on [Twitter](http://twitter.com/kev_mcg) or in my [inbox](mailto:kevin.mcgillivray@me.com)! I'm very interested in your perspective.

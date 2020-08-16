@@ -9,5 +9,7 @@ layout: page-wide
 </article>
 
 {% unless page.category == "development" %}
-{% include newsletter-form.html %}
+<div class="mt5">
+  {% include newsletter-form.html %}
+</div>
 {% endunless %}
