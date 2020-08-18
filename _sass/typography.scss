@@ -159,20 +159,10 @@ figure {
   font-size: .9rem;
   font-style: italic;
 }
-.footnote {
-  border-bottom: 0;
-}
 .footnotes {
+	border-top: 1px solid $seafoam-mid-light;
+	margin-top: 2rem;
   font-size: .85rem;
-}
-.reversefootnote {
-  color: #DCD9C8;
-  border-bottom: 0;
-  transition: .3s color;
-}
-.reversefootnote:hover {
-  color: $main-color;
-  transition: .3s color;
 }
 .small {
   font-size: .5rem;
