@@ -17,6 +17,8 @@ Every kitchen I've ever had the pleasure of sharing a meal in has one: a dusty, 
 
 Of course, we all know that these notes are kept only partly for the information written on them. These cards have layers, strata, of memory living between the scribbled lines and oil stains. They hold _lore_—knowledge held by our communities about how to live, how to share, how to taste. We keep them in the hope that they might teach us, and that we might pass on what we've learned in return. We keep them because when we perform the rituals they remember for us, all generations are at the table again, living through the deep sensory world of food.
 
+![Strawberries](/img/strawberries.jpg)
+
 ## Every meal is a portrait
 
 In every recipe, the written instructions hold a small fraction of the relevant information. The vast majority is instead stored in the senses—how does it taste when you add the right amount of salt? What does it sound like when the oil is hot enough and the fish touches it? What does it feel like when the steak is medium-rare and you press on it? What does rosemary smell like when it touches garlic and hot oil? What does an emulsified sauce look like on the back of a spoon?

@@ -1,6 +1,8 @@
 col1:
   - name: Statue
     file: statue-final.jpg
+  - name: Strawberries
+    file: strawberries.jpg
   - name: Fabric
     file: fabric.jpg
   - name: Flower
