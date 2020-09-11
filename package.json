@@ -19,7 +19,7 @@
     "dotenv": "^6.2.0",
     "html-entities": "^1.2.1",
     "netlify-lambda": "^1.2.0",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "twitter": "^1.7.1"
   }
 }
