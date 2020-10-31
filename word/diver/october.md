@@ -1,7 +1,7 @@
 ---
 layout: diver
 title: Year of the Diver, October
-description: "The Octopus's Garden"
+description: "The Octopus' Garden"
 social-image: octopus.jpg
 newsletter: false
 ---
