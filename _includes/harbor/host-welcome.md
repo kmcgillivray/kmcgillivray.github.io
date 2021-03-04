@@ -8,4 +8,4 @@ I'm your host, [@kev_mcg](https://twitter.com/kev_mcg)—intrepid [web diving](/
 In the studio, you may find loose manuscripts on [pattern languages](https://kmcgillivray.github.io/a-web-pattern-language/), [practicing creativity](https://practicingcreativity.kevinmcgillivray.net/), and [diving logs](/code). In the kitchen, there are [odes to vegetables](/writing), and [half-painted portraits](/sketchbook). Later on we can gather 'round the table to roll the D20 in the metagame of myth, metaphor, and meaning.
 {: .measure}
 
-Signal your address and I'll send you [letters in bottles](https://tinyletter.com/kmcgillivray).
+Signal your address and I'll send you [letters in bottles](https://patternworkshop.substack.com).
