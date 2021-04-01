@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <link rel="stylesheet" href="https://use.typekit.net/gox6jgr.css">
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/noble.css">
+    {% include social-meta.html %}
+  </head>
+  <body class="plantin ph4 bg-sage-light d-bg-sage-dark">
+    {% include navigation.html %}
+
+    <article>
+      {{ content }}
+    </article>
+  </body>
+</html>

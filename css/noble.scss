@@ -1,0 +1,76 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+.plantin { font-family: plantin, serif; }
+
+html {
+  font-size: 21px;
+}
+body {
+  line-height: 1.45;
+  color: #17241D;
+}
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #17241D;
+    color: #F0F3F3;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #2A594E;
+}
+a {
+  color: #2A594E;
+}
+@media (prefers-color-scheme: dark) {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  a {
+    color: #7F9B82;
+  }
+}
+blockquote {
+  position: relative;
+  border-left: 0;
+  padding: 1.5rem;
+  border-radius: .5rem;
+  border: 2px solid #BDD3C0;
+}
+@media(min-width: 60em) {
+  blockquote {
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+  }
+}
+blockquote:before {
+  content: '\2767';
+  font-size: 3rem;
+  position: absolute;
+  bottom: -2.25rem;
+  right: -1rem;
+  font-style: normal;
+  color: #BDD3C0;
+}
+hr {
+  border-top: 2px solid rgba(#2A594E, 0.3);
+}
+
+.sage-dark { color: #17241D; }
+.sage { color: #2A594E; }
+.bg-sage-light { background-color: #F0F3F3; }
+
+@media (prefers-color-scheme: dark) {
+  .d-bg-sage-dark { background-color: #17241D; }
+  .d-sage-light { color: #7F9B82; }
+}
