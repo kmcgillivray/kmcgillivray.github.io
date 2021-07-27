@@ -22,7 +22,7 @@ After rain, the primary concern is light. Am I standing in the sun or the shade?
 
 The painters often greet each other by discussing the light. "Wow, the light is so different today," or "The light keeps changing today." It sets our pace. We chase it as it fades, we rush to act when it shifts back into place. It determines when to start and stop. We're standing in one place, but we're chasing the light. As the sun sets, we say, "I lost the light."
 
-I don't always come back to a painting more than once. Sometimes I stop after a one session, as a sketch. But if I can, I come back three or four times. When you come back to a painting and see it in a different light, it feels like what we mean when we say we see a _person_ "in a different light." For better or worse, a new facet of the subject is revealed when seen in a different context but the same angle.
+I don't always come back to a painting more than once. Sometimes I stop after one session, as a sketch. But if I can, I come back three or four times. When you come back to a painting and see it in a different light, it feels like what we mean when we say we see a _person_ "in a different light." For better or worse, a new facet of the subject is revealed when seen in a different context but the same angle.
 
 {% include image.html file='park-landscape-week-2.jpg' description='After the second week, adjusting for the change in light.' %}
 
@@ -35,8 +35,5 @@ There are lessons about creativity here. It feels that stating them directly wou
 {% include image.html file='https://www.artic.edu/iiif/2/a38e2828-ec6f-ece1-a30f-70243449197b/full/843,/0/default.jpg' external='true' description='Stacks of Wheat (End of Summer), 1890/91. Claude Monet. Digital image courtesy of the Art Institute of Chicago.' %}
 
 {% include image.html file='https://www.artic.edu/iiif/2/4c364c64-2108-4e19-5fc5-1ab26ba924a7/full/843,/0/default.jpg' external='true' description='Stacks of Wheat (End of Day, Autumn), 1890/91. Claude Monet. Digital image courtesy of the Art Institute of Chicago.' %}
-
-
-
 
 For now, the AQI is high and we have a smoke forecast every day. People keep talking about how beautiful the sunsets are in the haze. The light has changed. And I’m painting it.
