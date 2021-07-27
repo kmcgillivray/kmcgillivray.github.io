@@ -1,2 +1,2 @@
-<img src="/img/{{ include.file }}" alt="{{ include.description }}">
+<img src="{% if include.external %}{{ include.file }}{% else %}/img/{{ include.file }}{% endif %}" alt="{{ include.description }}">
 <span class="caption i">{{ include.description }}</span>
