@@ -7,18 +7,18 @@ newsletter: true
 
 ![Kevin](/img/kevin-alt-4.jpg){: .db .mb0 .ph4 .mw5 .center .br-100 }
 
-**Ahoy! I'm Kevin McGillivray (he/him).** I'm a web developer, writer, painter, and convivial home kitchen _saucier_. For me, this is the [year of the diver](/word).
+**Ahoy! I'm Kevin McGillivray (he/him).** I'm a web developer, writer, painter, and convivial home kitchen _saucier_. For me, this is the [year of the noble](/word).
 {: .f3 .lh-copy }
 
 The long fermenting, low simmering questions I care about are...
 
 * **What is creativity?** What stories do we tell about creativity? How might we [practice it in its full nuance and complexity](https://practicingcreativity.kevinmcgillivray.net/)?
 * **How might we co-create neighborly, healthy, sustainable communities?** What paths and patterns do we perceive between our homes, neighborhoods, towns, and _the web_? How can we co-create an ecology of public and private life, accessibility and inclusion, human-scale networks and identity, [across online and offline spaces](https://kmcgillivray.github.io/a-web-pattern-language/)?
-* **How might we center around the _Quality Without a Name_?** In the mode of myth, metaphor, and meaning, what fantastic maps and morphologies might give glimpses of the _nameless Quality_? Where does the _Quality_ emerge and how do we enchant it in our [days](/writing) and [works](/sketchbook)?
+* **How might we center around the _Quality Without a Name_?** Where does the _Quality_ emerge and how do we enchant it in our [days](/writing) and [works](/sketchbook)?
 
-As a web developer, I work on projects focused on education, community building, and supporting small independent creative businesses. I like to focus on the things that grow with the grain of the web: accessibility, progressive enhancement, and open standards. Right now I'm building products and platforms for early childhood educators at [Kaymbu](https://www.kaymbu.com). I'm occasionally available for a limited number of freelance web development projects.
+As a web developer, I work on projects focused on education, community building, and support for small businesses. I like to focus on the things that grow with the grain of the web: accessibility, progressive enhancement, and open standards. Right now I'm building products and platforms for early childhood educators at [Kaymbu](https://www.kaymbu.com). I'm occasionally available for a limited number of freelance web development projects.
 
-I [write articles](/code) to help people learn web development, and I was previously a mentor for students at [Bloc](http://bloc.io) and co-founder of Code Convoy. I'm sometimes able to offer guidance or mentorship for folks looking to **learn web development** or **cultivate a creative practice**. I won't pretend to know any definitive answers, but if you think it might help, I may be able to share encouraging questions.
+I [write articles](/code) to help people learn web development, and I was previously a mentor for students at [Bloc](http://bloc.io). I'm sometimes able to offer guidance or mentorship for folks looking to **learn web development** or **cultivate a creative practice**. I won't pretend to know any definitive answers, but if you think it might help, I may be able to share encouraging questions.
 
 ## An address for convivial correspondence
 
