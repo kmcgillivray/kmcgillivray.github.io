@@ -6,7 +6,7 @@ category: gallery
 social-image: strawberries.jpg
 ---
 
-Hi. I make _paintings_.
+Hi. I make paintings.
 {: .f2-l .f3 .tc .mv5 .sage-mid-dark .d-sage-light}
 
 <div class="tc">
@@ -17,7 +17,7 @@ Hi. I make _paintings_.
   <img src="/img/statue-final.jpg" alt="Statue" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
 </div>
 
-I'd like for _you_ to have one, or a few.
+I'd like for you to have one, or a few.
 {: .f2-l .f3 .tc .mv5 .sage-mid-dark .d-sage-light}
 
 <div class="tc">
@@ -28,10 +28,10 @@ I'd like for _you_ to have one, or a few.
   <img src="/img/park-4.jpg" alt="Park" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
 </div>
 
-Sometimes, it's hard for me to part with them... _I get attached to the colors._
+Sometimes, it's hard for me to part with them... I get attached to the colors.
 {: .f2-l .f3 .tc .mv5 .sage-mid-dark .d-sage-light .mw7 .center}
 
-But they're piling up, and they'd be _much_ happier on your wall.
+But they're piling up, and they'd be much happier on your wall.
 {: .f2-l .f3 .tc .mv5 .sage-mid-dark .d-sage-light .mw7 .center}
 
 <div class="tc">
