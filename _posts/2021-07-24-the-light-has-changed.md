@@ -2,8 +2,8 @@
 layout: post
 title: The Light Has Changed (The Park Painters, Part 2)
 category: journal
-description:
-social-image:
+description: The painters often greet each other by discussing the light.
+social-image: park-landscape-week-1.jpg
 ---
 
 > Welcome to [The Pattern Workshop](https://patternworkshop.substack.com/), a newsletter about creativity. I'm your host, [Kevin McGillivray](https://twitter.com/kev_mcg). This is part two of a new season ([read part 1 here](https://www.kevinmcgillivray.net/painting-season-part-1/)), telling the tales of my outdoor painting sessions this summer in real time. Let's begin, while we still have the light...
