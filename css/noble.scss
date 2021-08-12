@@ -67,8 +67,13 @@ hr {
 }
 
 .sage-dark { color: #17241D; }
+.sage-mid-dark { color: #2A594E; }
 .sage { color: #2A594E; }
+.sage-light { color: #F0F3F3; }
 .bg-sage-light { background-color: #F0F3F3; }
+.bg-sage { background-color: #2A594E; }
+
+.bg-sage-mid-dark { background-color: #2A594E; }
 
 @media (prefers-color-scheme: dark) {
   .d-bg-sage-dark { background-color: #17241D; }

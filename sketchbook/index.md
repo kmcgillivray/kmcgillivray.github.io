@@ -1,35 +1,46 @@
 ---
-layout: plain
+layout: noble
 title: Sketchbook
+description: I make paintings. I'd like you to have one.
 category: gallery
+social-image: strawberries.jpg
 ---
 
-<div class="dn fixed bg-dark-gray tc mvh-100" id="gallery-modal">
-  <div class="absolute light-gray bg-dark-gray link br-pill ba ph3 right-1 top-1 f5 pointer">
-    Close
-  </div>
-  <div class="dib border-box mt0 w-100 vh-100-ns w-auto-ns center br0 ba bw5 b--light-gray">
-    <img class="db mv0 br0 w-100 h-auto h-100-ns w-auto-ns" id="gallery-modal-image" src="/img/statue-final.jpg">
-  </div>
+Hi. I make _paintings_.
+{: .f2-l .f3 .tc .mv5 .sage-mid-dark .d-sage-light}
+
+<div class="tc">
+  <img src="/img/flower-in-water.jpg" alt="Peony" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
+  <img src="/img/riverside.jpg" alt="Riverside" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
+  <img src="/img/strawberries.jpg" alt="Strawberries" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
+  <img src="/img/apples.jpg" alt="Statue" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
+  <img src="/img/statue-final.jpg" alt="Statue" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
 </div>
 
-<div class="cf bg-dark-gray ph4 pv3 pa0-ns">
-  <div class="fl-ns pa3-ns pl4-ns w-30-ns">
-    {% for art in site.data.art["col1"] %}
-      <a class="glow" href="/img/{{ art.file }}" data-thumbnail data-image="{{ art.file }}"><img class="mb3 br0 ba bw5 b--light-gray" src="/img/{{ art.file }}" alt="{{ art.name }}"></a>
-    {% endfor %}
-  </div>
-  <div class="fl-ns pa3-ns w-40-ns">
-    {% for art in site.data.art["col2"] %}
-      <a class="glow" href="/img/{{ art.file }}" data-thumbnail data-image="{{ art.file }}"><img class="mb3 br0 ba bw5 b--light-gray" src="/img/{{ art.file }}" alt="{{ art.name }}"></a>
-    {% endfor %}
-  </div>
-  <div class="fl-ns pa3-ns pr4-ns w-30-ns">
-    {% for art in site.data.art["col3"] %}
-      <a class="glow" href="/img/{{ art.file }}" data-thumbnail data-image="{{ art.file }}"><img class="mb3 br0 ba bw5 b--light-gray" src="/img/{{ art.file }}" alt="{{ art.name }}"></a>
-    {% endfor %}
-  </div>
-  <div class="fl w-100 ph4-ns pv3 pv4-ns avenir">
-    <p class="center light-gray measure-wide lh-copy ba b--mid-gray bw3 pa4"><a class="light-gray bb b--gray" href="/about">Kevin McGillivray</a> is a <a class="light-gray bb b--gray" href="http://codeconvoy.com" target="_blank">teacher</a> and <a class="light-gray bb b--gray" href="http://sandcastle.co" target="_blank">web developer</a> from Wisconsin. He <a class="light-gray bb b--gray" href="/">writes</a> about creativity, mindfulness, <a class="light-gray bb b--gray" href="/code">code</a>, and <a class="light-gray bb b--gray" href="http://teaguide.co" target="_blank">tea</a>. He <a class="light-gray bb b--gray" href="http://twitter.com/kev_mcg" target="_blank">tweets</a> and <a class="light-gray bb b--gray" href="http://kevinschmevin.com" target="_blank">tumbles</a>.</p>
-  </div>
+I'd like for _you_ to have one, or a few.
+{: .f2-l .f3 .tc .mv5 .sage-mid-dark .d-sage-light}
+
+<div class="tc">
+  <img src="/img/park-2.jpg" alt="Park" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
+  <img src="/img/tea-bowl-2.jpg" alt="Tea Bowl" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
+  <img src="/img/park-3.jpg" alt="Park" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
+  <img src="/img/egg.jpg" alt="Egg" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
+  <img src="/img/park-4.jpg" alt="Park" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
 </div>
+
+Sometimes, it's hard for me to part with them... _I get attached to the colors._
+{: .f2-l .f3 .tc .mv5 .sage-mid-dark .d-sage-light .mw7 .center}
+
+But they're piling up, and they'd be _much_ happier on your wall.
+{: .f2-l .f3 .tc .mv5 .sage-mid-dark .d-sage-light .mw7 .center}
+
+<div class="tc">
+  <img src="/img/alex-2.jpg" alt="Alex" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
+  <img src="/img/radish.jpg" alt="Radish" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
+  <img src="/img/onion.jpg" alt="Onion" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
+</div>
+
+I'm figuring out the best way to share them with you. **If you'd like a painting as much as I'd like you to have one, let me know your email address.** I'll let you know when I figure it out.
+{: .f2-l .f3 .mv5 .sage-mid-dark .d-sage-light .mw7 .center}
+
+<form class="mv5 mw7 center" action="https://tinyletter.com/kev_mcg" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/kev_mcg', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label class="sr-only" for="tlemail">Enter your email address</label></p><p><input type="text" class="w-100 plantin bn pa3 f3-l f4" placeholder="Enter your email address..."  name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input class="br-pill ph4 pt2 pb1 pointer dim bg-sage bn f3-l f4 b sage-light" type="submit" value="Subscribe" /></form>
