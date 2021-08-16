@@ -35,9 +35,9 @@ But they're piling up, and they'd be much happier on your wall.
 {: .f2-l .f3 .tc .mv5 .sage-mid-dark .d-sage-light .mw7 .center}
 
 <div class="tc">
-  <img src="/img/alex-2.jpg" alt="Alex" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
   <img src="/img/radish.jpg" alt="Radish" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
   <img src="/img/onion.jpg" alt="Onion" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
+  <img src="/img/pepper.jpg" alt="Pepper" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
 </div>
 
 I'm figuring out the best way to share them with you. **If you'd like a painting as much as I'd like you to have one, let me know your email address.** I'll let you know when I figure it out.
