@@ -3,6 +3,7 @@ layout: plain
 title: Angus Thistlewaite Balfour
 description: Younger of the Isles
 newsletter: false
+social-image: angus-josh.jpg
 
 class: Sorcerer
 level: 2
@@ -123,8 +124,13 @@ features:
 
 <div class="pa3 plantin bg-sage-light d-bg-sage-dark">
   <div class="mw6 pv4-l center">
-    <h1 class="lh-title mv0 f2">{{ page.title }}</h1>
-    <p class="i f3">{{ page.race }} {{ page.background }}</p>
+    <div class="flex-l items-center">
+      <img class="mw4 mv0-l" src="/img/{{page.social-image}}" alt="{{ page.title }}">
+      <div class="pl3-l">
+        <h1 class="lh-title mv0 f2">{{ page.title }}</h1>
+        <p class="i f3 mb0">{{ page.race }} {{ page.background }}</p>
+      </div>
+    </div>
 
     <dl class="bg-white d-bg-white-10 pa3 br2">
       <div class="pb3">
