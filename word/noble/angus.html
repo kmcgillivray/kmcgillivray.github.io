@@ -1,0 +1,237 @@
+---
+layout: plain
+title: Angus Thistlewaite Balfour
+description: Younger of the Isles
+newsletter: false
+
+class: Sorcerer
+level: 2
+race: Sea Elf
+background: Noble
+alignment: Chaotic Good
+languages:
+  - Elven
+  - Sylvan
+  - Common
+  - Gnomish
+
+proficiency: 2
+hitPoints: 13
+
+movement:
+  - type: Walk
+    rate: 30
+  - type: Swim
+    rate: 50
+
+abilities:
+  - key: str
+    value: 10
+  - key: dex
+    value: 16
+  - key: con
+    value: 12
+    proficient: true
+  - key: int
+    value: 10
+  - key: wis
+    value: 12
+  - key: cha
+    value: 15
+    proficient: true
+
+abilityIndex:
+  str: Strength
+  dex: Dexterity
+  con: Constitution
+  int: Intelligence
+  wis: Wisdom
+  cha: Charisma
+
+abilityModifiers:
+  1: −5
+  2: −4
+  3: -4
+  4: -3
+  5: -3
+  6: -2
+  7: -2
+  8: -1
+  9: -1
+  10: 0
+  11: 0
+  12: 1
+  13: 1
+  14: 2
+  15: 2
+  16: 3
+  17: 3
+  18: 4
+  19: 4
+  20: 5
+
+spellList:
+  - level: Cantrip
+    spells:
+      - Dancing Lights
+      - Message
+      - Ray of Frost
+      - Gust
+      - Hellbender Flame
+  - level: 1st
+    spells:
+      - Protection from Evil and Good
+      - Shield of the Sea
+      - Disguise Self
+      - Chaos Bolt
+
+equipment:
+  - Explorer's pack
+  - Set of traveler's clothing
+  - Set of fine clothing
+  - Diving mask
+  - Coin purse
+  - Navigator's tools
+  - Balfour orca ring
+  - Chess set
+  - Pearl (Arcane focus)
+  - Light crossbow
+  - Crossbow bolts (20)
+  - Dagger
+  - Javelin (2)
+
+features:
+  - Darkvision
+  - Keen Senses
+  - Fey Ancestry
+  - Position of Privilege
+  - Chess Player
+  - Font of Magic / Sorcery Points / Flexible Casting
+  - Favored by the Deep
+  - Diving Magic
+
+---
+
+{% assign dexValue = page.abilities[1].value %}
+{% assign dexMod = page.abilityModifiers[dexValue] %}
+
+{% assign wisValue = page.abilities[4].value %}
+{% assign wisMod = page.abilityModifiers[wisValue] %}
+
+{% assign chaValue = page.abilities[5].value %}
+{% assign chaMod = page.abilityModifiers[chaValue] %}
+
+<div class="pa3 plantin bg-sage-light">
+  <div class="mw6 pv4-l center">
+    <h1 class="lh-title mv0 f2">{{ page.title }}</h1>
+    <p class="i f3">{{ page.race }} {{ page.background }}</p>
+
+    <dl class="bg-white pa3 br2">
+      <div class="pb3">
+        <dt class="f7 i">Class</dt>
+        <dd class="ma0">{{ page.class }}</dd>
+      </div>
+
+      <div class="pb3">
+        <dt class="f7 i">Level</dt>
+        <dd class="ma0">{{ page.level }}</dd>
+      </div>
+
+      <div class="pb3">
+        <dt class="f7 i">Alignment</dt>
+        <dd class="ma0">{{ page.alignment }}</dd>
+      </div>
+
+      <div>
+        <dt class="f7 i">Languages</dt>
+        <dd class="ma0">{{ page.languages | join: ', '}}</dd>
+      </div>
+    </dl>
+
+    <dl class="bg-white pa3 br2">
+      <div class="pb3">
+        <dt class="f7 i">Hit Points</dt>
+        <dd class="ma0">{{ page.hitPoints }}</dd>
+      </div>
+
+      <div class="pb3">
+        <dt class="f7 i">Armor Class</dt>
+        <dd class="ma0">{{ 10 | plus: dexMod }}</dd>
+      </div>
+
+      <div class="pb3">
+        <dt class="f7 i">Initiative</dt>
+        <dd class="ma0">+{{ dexMod }}</dd>
+      </div>
+
+      <div class="pb3">
+        <dt class="f7 i">Proficiency Bonus</dt>
+        <dd class="ma0">+{{ page.proficiency }}</dd>
+      </div>
+
+      <div class="pb3">
+        <dt class="f7 i">Speed</dt>
+        {% for speed in page.movement %}
+          <dd class="ma0">{{speed.type}} {{ speed.rate }} ft.</dd>
+        {% endfor %}
+      </div>
+
+      <div>
+        <dt class="f7 i">Passive Perception</dt>
+        <dd class="ma0">{{ 10 | plus: wisMod | plus: page.proficiency }}</dd>
+      </div>
+    </dl>
+
+    <dl class="bg-white pa3 br2">
+      {{ abilityIndex }}
+      {% for ability in page.abilities %}
+        {% assign modifier = page.abilityModifiers[ability.value] %}
+        <div class="pb3">
+          <dt class="ttu tracked f7">{{ page.abilityIndex[ability.key]}}</dt>
+          <dd class="ma0">{{ ability.value }} / +{{ modifier }} / +{% if ability.proficient %}{{ modifier | plus: page.proficiency }}{% else %}{{ modifier }}{% endif %} save</dd>
+        </div>
+      {% endfor %}
+    </dl>
+
+    <div class="bg-white pa3 br2 mb3">
+      <h2 class="mt0">Spells</h2>
+      <dl>
+        <div class="pb3">
+          <dt class="f7 i">Spell attack bonus</dt>
+          <dd class="ma0">+{{ page.proficiency | plus: chaMod }}</dd>
+        </div>
+
+        <div>
+          <dt class="f7 i">Spell save DC</dt>
+          <dd class="ma0">{{ 8 | plus: page.proficiency | plus: chaMod }}</dd>
+        </div>
+      </dl>
+      {% for level in page.spellList %}
+        <h3>{{ level.level }}</h3>
+        <ul>
+          {% for spell in level.spells %}
+            <li>{{ spell }}</li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+    </div>
+
+    <div class="bg-white pa3 br2 mb3">
+      <h2 class="mt0">Equipment</h2>
+      <ul>
+        {% for item in page.equipment %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="bg-white pa3 br2">
+      <h2 class="mt0">Features</h2>
+      <ul>
+        {% for feature in page.features %}
+          <li>{{ feature }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
