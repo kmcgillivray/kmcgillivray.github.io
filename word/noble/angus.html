@@ -126,7 +126,7 @@ features:
     <h1 class="lh-title mv0 f2">{{ page.title }}</h1>
     <p class="i f3">{{ page.race }} {{ page.background }}</p>
 
-    <dl class="bg-white pa3 br2">
+    <dl class="bg-white d-bg-white-10 pa3 br2">
       <div class="pb3">
         <dt class="f7 i">Class</dt>
         <dd class="ma0">{{ page.class }}</dd>
@@ -148,7 +148,7 @@ features:
       </div>
     </dl>
 
-    <dl class="bg-white pa3 br2">
+    <dl class="bg-white d-bg-white-10 pa3 br2">
       <div class="pb3">
         <dt class="f7 i">Hit Points</dt>
         <dd class="ma0">{{ page.hitPoints }}</dd>
@@ -182,7 +182,7 @@ features:
       </div>
     </dl>
 
-    <dl class="bg-white pa3 br2">
+    <dl class="bg-white d-bg-white-10 pa3 br2">
       {{ abilityIndex }}
       {% for ability in page.abilities %}
         {% assign modifier = page.abilityModifiers[ability.value] %}
@@ -193,7 +193,7 @@ features:
       {% endfor %}
     </dl>
 
-    <div class="bg-white pa3 br2 mb3">
+    <div class="bg-white d-bg-white-10 pa3 br2 mb3">
       <h2 class="mt0">Spells</h2>
       <dl>
         <div class="pb3">
@@ -216,7 +216,7 @@ features:
       {% endfor %}
     </div>
 
-    <div class="bg-white pa3 br2 mb3">
+    <div class="bg-white d-bg-white-10 pa3 br2 mb3">
       <h2 class="mt0">Equipment</h2>
       <ul>
         {% for item in page.equipment %}
@@ -225,7 +225,7 @@ features:
       </ul>
     </div>
 
-    <div class="bg-white pa3 br2">
+    <div class="bg-white d-bg-white-10 pa3 br2">
       <h2 class="mt0">Features</h2>
       <ul>
         {% for feature in page.features %}
