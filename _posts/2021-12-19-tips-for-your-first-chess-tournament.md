@@ -2,8 +2,8 @@
 layout: post
 title: Tips for Your First Chess Tournament
 category: journal
-description: Why I Paint in Public
-social-image: pepper.jpg
+description: Recommendations and answers to chess tournament questions
+social-image: noble-chess-players.jpg
 ---
 
 Yesterday I played in a chess tournament—the Marshall Rohland Closed Wisconsin Championship. This wasn't my first ever chess tournament, but it was my first in about eight years, so I felt unsure about some of the protocols and unwritten rules of official tournaments. I'd like to share some tips and new things I learned from the experience that I think are helpful if you're curious about entering one. Like most things in life, it's hard for experienced folks to remember the kinds of things beginners don't know, so answers to very basic questions are hard to find.
