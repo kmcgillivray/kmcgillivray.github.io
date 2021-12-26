@@ -61,13 +61,13 @@ paintings:
 # Kevin's Painting Sale
 {: .f2 .tc}
 
-Starting January 10<sup>th</sup>, 2022
+Starting January 3<sup>rd</sup>, 2022
 {: .tc .f3}
 
 <!-- Thank you for stopping by the gallery! I hope these paintings find a good home with you.
 {: .measure .center}
 
-**To reserve a painting, please send me an email using the link below each image.** US shipping will be between $10<sup>.00</sup> to $20<sup>.00</sup> depending on the painting size. International shipping will vary by location. All paintings will be framed. Please allow 6-8 weeks to ship—I hope to ship sooner, but with supply chain delays I may have challenges gathering materials and preparing paintings for shipping. This is also my first art sale so I expect to hit a few snags!
+**To reserve a painting, please send me an email using the link below each image.** I'll be in touch to coordinate shipping and send an invoice. First come, first served! US shipping is between $8<sup>.00</sup> - $15<sup>.00</sup>. International shipping will vary by location. All paintings will be framed. Please allow 4-6 weeks to ship.
 {: .measure .center}
 
 {% for painting in page.paintings %}
