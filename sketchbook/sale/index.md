@@ -53,6 +53,7 @@ paintings:
     medium: Oil on panel
     size: 5 x 7 in. each
     price: $350
+    reserved: true
 ---
 
 # Kevin's Painting Sale
