@@ -15,6 +15,7 @@ paintings:
     medium: Oil on panel
     size: 5 x 7 in.
     price: $190
+    reserved: true
   - title: Apples
     image: /apple-1.jpg
     year: 2021
