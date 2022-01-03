@@ -8,6 +8,7 @@ paintings:
     medium: Oil on panel
     size: 5 x 7 in.
     price: $190
+    reserved: true
   - title: Egg
     image: /egg.jpg
     year: 2019
@@ -65,6 +66,6 @@ Thank you for stopping by the gallery! I hope these paintings find a good home w
 <div class="mw7 center tc">
   <img class="mb3 ba b--white bw4" src="/img/{{ painting.image }}" alt="{{ painting.title }}" />
   <h2 class="mv0 f5 normal"><span class="i">{{ painting.title }}</span>, {{ painting.year }}</h2>
-  <p>{{ painting.medium }}. {{ painting.size }}<br>{{ painting.price }}<br><a href="mailto:kevin.mcgillivray@me.com?subject=Painting Request: {{ painting.title }}">Request</a></p>
+  <p>{{ painting.medium }}. {{ painting.size }}<br>{{ painting.price }}<br>{% if painting.reserved %}<span class="tracked f6">RESERVED</span>{% else %}<a href="mailto:kevin.mcgillivray@me.com?subject=Painting Request: {{ painting.title }}">Request</a>{% endif %}</p>
 </div>
 {% endfor %}
