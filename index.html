@@ -61,24 +61,17 @@ projects:
 <hr>
 
 <section class="ph3 pv4">
+  <div class="mw7 center tc">
+    <span class="treasure-dark f5 i tracked">logs from the hypertext studio</span>
+    <h2 class="mt2 f3 f2-ns lh-title">On programming <em class="treasure-dark">&</em> web development</h2>
+    <a class="i" href="/latenightcodeclub">Read more at the Late Night Code Club</a>
+  </div>
+</section>
+
+<hr>
+
+<section class="ph3 pv4">
   <div class="mw7 center">
-    <div class="tc">
-      <span class="treasure-dark f5 i tracked">logs from the hypertext studio</span>
-      <h2 class="mt2 f3 f2-ns lh-title">On programming <em class="treasure-dark">&</em> web development</h2>
-    </div>
-    <div class="grid grid-gap-1">
-      {% for post in site.categories.code %}
-        {% if post.featured %}
-          <div class="pa3">
-            {% if post.social-image %}
-              <a href="{{ post.url }}"><img class="db mt0" src="/img/{{ post.social-image }}"></a>
-            {% endif %}
-            <h3 class="mb1 mt0 lh-title"><a href="{{ post.url }}" class="signal-dark d-treasure-dark">{{ post.title }}</a></h3>
-            <div class="i">{{ post.description }}</div>
-          </div>
-        {% endif %}
-      {% endfor %}
-    </div>
     <div class="mt2 tc">
       <span class="treasure-dark f5 i tracked">toolkits & maps</span>
       <h2 class="mt2 f3 f2-ns lh-title">Open source projects</h2>
