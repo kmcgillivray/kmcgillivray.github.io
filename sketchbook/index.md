@@ -13,20 +13,18 @@ social-image: strawberries.jpg
   <img src="/img/flower-in-water.jpg" alt="Peony" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
   <img src="/img/riverside.jpg" alt="Riverside" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
   <img src="/img/strawberries.jpg" alt="Strawberries" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
-  <img src="/img/apples.jpg" alt="Statue" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
+  <img src="/img/apples.jpg" alt="Apples" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
+  <img src="/img/clementines.jpeg" alt="Clementines" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
+  <img src="/img/garlic.jpeg" alt="Garlic" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
   <img src="/img/statue-final.jpg" alt="Statue" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
-</div>
-
-<div class="tc">
   <img src="/img/park-2.jpg" alt="Park" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
   <img src="/img/tea-bowl-2.jpg" alt="Tea Bowl" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
+  <img src="/img/voyageur-park-1.jpeg" alt="Voyageur Park" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
   <img src="/img/park-3.jpg" alt="Park" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
   <img src="/img/egg.jpg" alt="Egg" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
   <img src="/img/park-4.jpg" alt="Park" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
-</div>
-
-<div class="tc">
   <img src="/img/radish.jpg" alt="Radish" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
+  <img src="/img/clementine.jpeg" alt="Clementine" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
   <img src="/img/onion.jpg" alt="Onion" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
   <img src="/img/pepper.jpg" alt="Pepper" class="ba b--white bw4 h5-l w-auto mr3 mb3 mt0" />
 </div>
