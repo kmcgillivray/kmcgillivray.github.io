@@ -4,17 +4,6 @@
   {% include head.html %}
 
   <body class="pb0">
-
     {{ content }}
-
-    {% if page.category == "gallery" %}
-    <script src="/js/gallery.js"></script>
-    {% endif %}
-    {% if page.title == "Stats" %}
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="/js/chart.min.js"></script>
-    <script src="/js/stats.js"></script>
-    {% endif %}
-    <script src="/js/main.js"></script>
   </body>
 </html>

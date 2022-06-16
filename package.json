@@ -11,15 +11,5 @@
   "homepage": "https://github.com/kmcgillivray/kmcgillivray.github.io#readme",
   "scripts": {
     "build": "jekyll build",
-    "start:lambda": "netlify-lambda serve _src/functions",
-    "build:lambda": "netlify-lambda build _src/functions"
   },
-  "devDependencies": {
-    "airtable": "^0.5.8",
-    "dotenv": "^6.2.0",
-    "html-entities": "^1.2.1",
-    "netlify-lambda": "^1.2.0",
-    "node-fetch": "^2.3.0",
-    "twitter": "^1.7.1"
-  }
 }
