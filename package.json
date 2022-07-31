@@ -10,6 +10,6 @@
   "author": "Kevin McGillivray",
   "homepage": "https://github.com/kmcgillivray/kmcgillivray.github.io#readme",
   "scripts": {
-    "build": "jekyll build",
-  },
+    "build": "jekyll build"
+  }
 }
