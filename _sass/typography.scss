@@ -26,17 +26,7 @@ h6 {
   margin-top: 1.5rem;
   margin-bottom: .5rem;
   font-size: 1rem;
-  color: $signal-mid-dark;
-}
-@media (prefers-color-scheme: dark) {
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    color: $newsprint-mid-light;
-  }
+  color: #2A594E;
 }
 h1 {
   font-size: 1.6rem;
@@ -61,17 +51,23 @@ p {
 	margin-bottom: 1.2rem;
 }
 a {
-	color: #7E6D3A;
+	color: #2A594E;
   transition: .25s opacity;
-}
-@media (prefers-color-scheme: dark) {
-  a {
-    color: $treasure-dark;
-  }
 }
 a:hover {
   opacity: .65;
   transition: .25s opacity;
+}
+@media (prefers-color-scheme: dark) {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  a {
+    color: #7F9B82;
+  }
 }
 hr {
 	border-top: 1px solid rgba($seafoam, 0.5);

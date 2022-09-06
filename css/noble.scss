@@ -13,31 +13,8 @@ body {
 }
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #17241D;
+    background-color: rgb(30, 33, 35);
     color: #F0F3F3;
-  }
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: #2A594E;
-}
-a {
-  color: #2A594E;
-}
-@media (prefers-color-scheme: dark) {
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  a {
-    color: #7F9B82;
   }
 }
 blockquote {
@@ -73,10 +50,14 @@ hr {
 .bg-sage-light { background-color: #F0F3F3; }
 .bg-sage { background-color: #2A594E; }
 
+.b--sage-light { border-color: #F0F3F3; }
+
 .bg-sage-mid-dark { background-color: #2A594E; }
 
 @media (prefers-color-scheme: dark) {
   .d-bg-sage-dark { background-color: #17241D; }
   .d-bg-white-10 { background-color: rgba(255, 255, 255, 0.1); }
+  .d-bg-transparent { background-color: transparent; }
   .d-sage-light { color: #7F9B82; }
+  .d-white-80 { color: rgba(255, 255, 255, 0.8); }
 }
