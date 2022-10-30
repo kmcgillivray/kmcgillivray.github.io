@@ -14,7 +14,7 @@ The long fermenting, low simmering questions I care about are...
 
 * **What is creativity?** What stories do we tell about creativity? How might we [practice it in its full nuance and complexity](https://practicingcreativity.kevinmcgillivray.net/)?
 * **How might we co-create neighborly, healthy, sustainable communities?** What paths and patterns do we perceive between our homes, neighborhoods, towns, and _the web_? How can we co-create an ecology of public and private life, accessibility and inclusion, human-scale networks and identity, [across online and offline spaces](https://kmcgillivray.github.io/a-web-pattern-language/)?
-* **How might we center around the _Quality Without a Name_?** Where does the _Quality_ emerge and how do we enchant it in our [days](/writing) and [works](/sketchbook)?
+* **How might we center around the _Quality Without a Name_?** Where does the _Quality_ emerge and how do we enchant it in our [days](/writing) and [works](https://studio.kevinmcgillivray.net)?
 
 As a web developer, I work on projects focused on education, community building, and support for small businesses. I like to focus on the things that grow with the grain of the web: accessibility, progressive enhancement, and open standards. Right now I'm building products and platforms for early childhood educators at [Kaymbu](https://www.kaymbu.com). I'm occasionally available for a limited number of freelance web development projects.
 
@@ -79,7 +79,7 @@ Of course, nothing was open, but they had me come in and they made me tea and ga
 
 ### Paint, ink, and graphite
 
-I [paint and draw](/sketchbook). I'm not sure I can say much about this except that one time my teacher told me that once I finished his course in college I had a duty to continue to paint and draw. It's a duty I can't help but fulfill. It goes like this:
+I [paint and draw](https://studio.kevinmcgillivray.net). I'm not sure I can say much about this except that one time my teacher told me that once I finished his course in college I had a duty to continue to paint and draw. It's a duty I can't help but fulfill. It goes like this:
 
 1. Look at something.
 2. Record your perceptions.
