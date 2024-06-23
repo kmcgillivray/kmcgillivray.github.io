@@ -4,6 +4,7 @@ description: My word for the year is...
 social-image: scots-pine.jpg
 ---
 <meta name="viewport" content="width=device-width">
+<title>{{ page.title }} {% if page.title %}|{% endif %} {{ site.title }} </title>
 {% include social-meta.html %}
 
 <style>
