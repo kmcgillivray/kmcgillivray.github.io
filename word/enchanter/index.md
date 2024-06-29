@@ -117,6 +117,8 @@ Our animate perception is alive and well and has only been channeled in a partic
 
 {% include image.html external="true" file="https://res.cloudinary.com/db5mnmxzn/image/upload/v1718833182/IMG_9307_fnklsh.jpg" description="The Kokori tribe, characters in the Legend of Zelda universe" %}
 
+> "The universe is full of magical things patiently waiting for our wits to grow sharper." -[Eden Phillpotts](https://quoteinvestigator.com/2012/07/07/magical-things-waiting/)
+
 ## Enchanted and Disenchanted Tools
 
 When a tree gets an email address, a channel is opened in the "wood wide web” that enables an exchange with the tree. For those who have a favorite neighborhood tree, the opportunity to share a message with the tree becomes an "instinctive experience of reciprocity or exchange." There is no question of whether it's "real" or not, or if the tree will ever receive the message—the exchange must be attempted when the channel is available, the way water must flow if a dam is opened. While the communication may not be the most efficient or effective, a tree's email address is an _enchanted_ tool—it expands our animate perception so that we can more easily perceive the life of another and initiate exchange and creative participation.
