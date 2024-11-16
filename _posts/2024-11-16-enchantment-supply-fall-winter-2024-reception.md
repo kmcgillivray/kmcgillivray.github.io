@@ -11,7 +11,7 @@ external-social-image: true
 
 Last week we had a reception for my first solo art show, [Enchantment Supply Fall Winter 2024](https://enchantment.supply/exhibit/)! I’m feeling truly enchanted and overwhelmingly welcomed and encouraged by the friends, family, and comrades that have supported the show and were able to share a night of conversations about art, trees, and magic.
 
-We moved to Appleton just over a year ago and have enjoyed discovering everything happening in the vibrant local art community. The main reason I wanted to host an art show was to have a chance to get to know our new neighbors better, and that’s exactly what happened. I was grateful to see many new friends from Appleton Drawing Club, and reconnect with old friends and other local artists.
+We moved to Appleton just over a year ago and have enjoyed discovering everything happening in the vibrant local art community. The main reason I wanted to host an art show was to have a chance to get to know our new neighbors better, and that’s exactly what happened. I was grateful to see many new friends from [Appleton Drawing Club](https://appletondrawingclub.com/), and reconnect with old friends and other local artists.
 
 {% include image.html external="true" file="https://res.cloudinary.com/db5mnmxzn/image/upload/q_70,w_1000/v1731774637/IMG_2772_zl3mlr.jpg" description="Material Components Series" %}
 
