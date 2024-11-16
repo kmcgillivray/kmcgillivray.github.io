@@ -11,7 +11,11 @@
 <meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 200}}">
 {% endif %}
 {% if page.social-image %}
-<meta property="og:image" content="{{ site.url }}/img/{{ page.social-image }}">
+  {% if page.external-social-image %}
+    <meta property="og:image" content="{{ page.social-image }}">
+  {% else %}
+    <meta property="og:image" content="{{ site.url }}/img/{{ page.social-image }}">
+  {% endif %}
 {% else %}
 <meta property="og:image" content="{{ site.url }}/img/kevin-alt-4.jpg">
 {% endif %}
