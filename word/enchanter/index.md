@@ -3,9 +3,11 @@ title: My Word for the Year
 description: My word for the year is...
 social-image: scots-pine.jpg
 ---
+
+{% include social-meta.html %}
 <meta name="viewport" content="width=device-width">
 <title>{{ page.title }} {% if page.title %}|{% endif %} {{ site.title }} </title>
-{% include social-meta.html %}
+
 
 <style>
   body {

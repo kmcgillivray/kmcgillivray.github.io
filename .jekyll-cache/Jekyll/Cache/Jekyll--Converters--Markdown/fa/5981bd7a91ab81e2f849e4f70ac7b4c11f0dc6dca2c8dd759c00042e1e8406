@@ -1,4 +1,4 @@
-I""&<p>As I wrote about in the <a href="/wisconsin-refugees-reflection">sister note</a> to this post, I recently made a data visualization project exploring <a href="http://kevinmcgillivray.net/wisconsin-refugees">refugee resettlements in Wisconsin</a>.</p>
+I"H&<p>As I wrote about in the <a href="/wisconsin-refugees-reflection">sister note</a> to this post, I recently made a data visualization project exploring <a href="http://kevinmcgillivray.net/wisconsin-refugees">refugee resettlements in Wisconsin</a>.</p>
 
 <p>For the programming-curious and development-minded out there, here’s how I built the visualization, and here’s the <a href="https://github.com/kmcgillivray/wisconsin-refugees">GitHub repository</a>.</p>
 
@@ -27,7 +27,7 @@ Wisconsin,2007,353,Afghanistan,9,Hartland,3
 
 <p>D3 can convert CSV files to a JavaScript array easily like so:</p>
 
-<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">d3</span><span class="p">.</span><span class="nx">csv</span><span class="p">(</span><span class="dl">'</span><span class="s1">/data/2002-2017-wisconsin-refugees-arrivals-by-destination-and-nationality.csv</span><span class="dl">'</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">d</span><span class="p">)</span> <span class="p">{</span>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">d3</span><span class="p">.</span><span class="nf">csv</span><span class="p">(</span><span class="dl">'</span><span class="s1">/data/2002-2017-wisconsin-refugees-arrivals-by-destination-and-nationality.csv</span><span class="dl">'</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">d</span><span class="p">)</span> <span class="p">{</span>
   <span class="c1">// d is now the data from the CSV file in an array</span>
   <span class="kd">var</span> <span class="nx">data</span> <span class="o">=</span> <span class="nx">d</span><span class="p">;</span>
 <span class="p">});</span>
@@ -43,9 +43,9 @@ Wisconsin,2007,353,Afghanistan,9,Hartland,3
   <p>Side note: this is something I’ve learned recently as a practicing developer—to get more efficient at building a project, sketch out the API (the set of functions you write to call upon later) right at the beginning. Imagine the set of functionality that you need to have at your disposal and outline it. It seems obvious, but in the past I would often focus on getting one thing to work at a time and build from there. Focusing on the big picture not only means you’ll finish more efficiently, but the code will likely be more modular and flexible from the start. Really subtle difference, but useful to practice.</p>
 </blockquote>
 
-<p>I wrote individual functions to filter the data for specific years or nationalities, a larger <code class="highlighter-rouge">query</code> function that called those functions so I could search by year and nationality at the same time, and then a few helper functions for converting data between objects and arrays or pulling out specific values such as just the list of nationalities of the resulting data.</p>
+<p>I wrote individual functions to filter the data for specific years or nationalities, a larger <code class="language-plaintext highlighter-rouge">query</code> function that called those functions so I could search by year and nationality at the same time, and then a few helper functions for converting data between objects and arrays or pulling out specific values such as just the list of nationalities of the resulting data.</p>
 
-<p>Using these functions, I was able to do all of the searches I needed to do just by calling the <code class="highlighter-rouge">query</code> function. Now it was time to display the data!</p>
+<p>Using these functions, I was able to do all of the searches I needed to do just by calling the <code class="language-plaintext highlighter-rouge">query</code> function. Now it was time to display the data!</p>
 
 <h2 id="displaying-data">Displaying data</h2>
 
