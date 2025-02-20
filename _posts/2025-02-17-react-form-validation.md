@@ -178,7 +178,7 @@ Using this approach we now have support for custom validation messages, and we h
 
 Most fully featured design systems will want to have some level of control over the way the validation message is styled. Browsers all provide their own tooltips or other way of showing the validation message, but this level of inconsistency may not be desirable, or we may simply want more direction over visual styling. Using the Constraint Validation API, we can read the validation message for any input and decide for ourselves where we want to display it! As we do so, we will need to be extra careful not to lose accessibility and helpful UX details, but if we implement this in a reusable component we can make it easy.
 
-The first thing we'll need to do is read the validation message from the DOM via the `inputRef` (either the default the browser provides or a custom message that we've set) and pass it back into the world of React. We could try to simply render the text from `inputRef.current.validationMessage`, but because the validation state changes as a side effect, React doesn't know the message has changed and it leads to odd bugs. So, let's save our validation message to a local state and render it.
+The first thing we'll need to do is read the validation message from the DOM via the `inputRef` (either the default the browser provides or a custom message that we've set) and pass it back into the world of React. We could try to simply render the text by accessing `validationMessage` from `inputRef.current`, but because the validation state changes as a side effect, React doesn't know the message has changed and it leads to odd bugs. So, let's save our validation message to a local state and render it.
 
 ```tsx
 export default function Input({
