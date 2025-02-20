@@ -3,6 +3,8 @@ url: https://kevinmcgillivray.net
 timezone: America/Chicago
 markdown: kramdown
 highlighter: rouge
+kramdown:
+  input: GFM
 permalink: /:title/
 description: "Kevin McGillivray is a teacher and web developer from Wisconsin. He writes about creativity, mindfulness, code, and tea."
 collections:
