@@ -46,13 +46,13 @@ This first approach has many challenges working against it:
 
 ## Perilous approach #2: Bring in the libraries
 
-Entire cottage industries around form validation exist in packages like [`react-hook-form`](https://react-hook-form.com) and [`formnik`](https://formik.org), among others – the latter of which promises to help you "Build forms in React, without the tears"!
+Entire cottage industries around form validation exist in packages like [`react-hook-form`](https://react-hook-form.com) and [`formik`](https://formik.org), among others – the latter of which promises to help you "Build forms in React, without the tears"!
 
 On the surface, these libraries are designed to address the three major challenges of manual validation. They reduce the manual overhead of writing logic for every form by providing a clear configurable interface, they're easy to re-use across many forms, and when used with care they make it easier to ensure the form and its validation is accessible.
 
-However, most libraries are not explicitly accessibility driven and leave the details up to the user. Both `formnik` and `react-hook-form` handle the many details of form UX, but they leave accessibility completely up to the developer. Handling form validation through either manual JavaScript or a library gives the widest range of control and flexibility, but has a great cost of additional overhead in maintaining the logic and taking on responsibility for accessibility.
+However, most libraries are not explicitly accessibility driven and leave the details up to the user. Both `formik` and `react-hook-form` handle the many details of form UX, but they leave accessibility completely up to the developer. Handling form validation through either manual JavaScript or a library gives the widest range of control and flexibility, but has a great cost of additional overhead in maintaining the logic and taking on responsibility for accessibility.
 
-## An altnerative approach: tapping into the Constraint Validation API
+## An alternative approach: tapping into the Constraint Validation API
 
 In a recent project, I was building a design system component library in React that needed a full range of form inputs, and I once again faced the Perils of Validation. I considered the various libraries available, but I didn't feel great about the library approach. I was curious if there was a way to follow the principles of progressive enhancement and handle validation primarily with standard HTML and CSS and dip into JavaScript when needed for customization. My goals were:
 
