@@ -374,6 +374,8 @@ We've added another state to track whether we should show the error or not, and 
   sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
 ></iframe>
 
+> Note: Open the file browser to view the `Form` component and see the whole system working together in `src/App.tsx`!
+
 In this complete version, we've accomplished all of our goals:
 
 1. We've written zero "validation" logic, meaning logic to check and compare the actual value of a field to a valid state. The interface is fully declarative for developers.
