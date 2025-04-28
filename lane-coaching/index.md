@@ -6,7 +6,7 @@ newsletter: false
 
 # Kevin's Coaching Page
 
-Hi Lane! Thank you for providing this coaching tier on Patreon—I'm so excited to get started. I thought I would put everything on a page here hoping that it might be easier to follow rather than in an email, and perhaps I can update it as I go to track what I'm learning.
+Hi Lane! Thank you for providing this coaching tier on Patreon—I'm so excited to get started. I thought I would put everything on a page here hoping that it might be easier to follow rather than in an email.
 
 ## Background that might be helpful
 
