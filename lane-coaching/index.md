@@ -102,9 +102,9 @@ Unfortunately I don't have reference links for these, mostly they were from Croq
 ## A few artistic inspirations
 
 - John Singer Sargent charcoal portraits and figure studies
-- Teresa Oaxaca charcoal portraits
-- Sebastien Jupille charcoal portraits
-- Sean Cheetham
+- [Teresa Oaxaca charcoal portraits](https://www.instagram.com/p/DEJKXoJRxDG/?hl=en&img_index=5)
+- [Sebastien Jupille charcoal portraits](https://www.instagram.com/p/CwXRH5xsDUV/?img_index=1)
+- [Sean Cheetham](https://www.instagram.com/seancheetham/?hl=en)
 - Henry Yan (of course)
 - Jeff Haines
 - Eliza Ivanova
