@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /lane-coaching/
+
+Sitemap: https://kevinmcgillivray.net/sitemap.xml

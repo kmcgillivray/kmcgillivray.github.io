@@ -11,5 +11,8 @@
   	<link rel="stylesheet" href="/css/syntax.css">
 	{% endif %}
 	<link rel="me" href="{{ site.url }}/about">
+	{% if page.url contains '/lane-coaching/' %}
+	<meta name="robots" content="noindex, nofollow">
+	{% endif %}
 	{% include social-meta.html %}
 </head>
