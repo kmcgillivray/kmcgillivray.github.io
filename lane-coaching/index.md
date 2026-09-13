@@ -15,3 +15,4 @@ newsletter: false
 - [February 2026](/lane-coaching/2026-02)
 - [May 2026](/lane-coaching/2026-05)
 - [June 2026](/lane-coaching/2026-06)
+- [August 2026](/lane-coaching/2026-08)
